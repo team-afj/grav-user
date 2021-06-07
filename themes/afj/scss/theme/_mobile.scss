@@ -138,14 +138,16 @@
     list-style: none;
     margin: 0 0 1px;
     padding: 5px 0;
-    line-height: 1.2rem;
+    line-height: 2.2rem;
 
-    background: rgba($gray-color-dark,0.1);
+    // background: rgba($gray-color-dark,0.1);
 
     a {
       display: block;
       margin-left: 1.2rem;
-      font-size: 1rem;
+      font-size: 2rem;
+      color: $light-color;
+      font-family: $title-font-family;
 
       &:hover, &:focus, &.active {
         color: $primary-color-light !important;
@@ -161,8 +163,8 @@
   .toggler {
     cursor: pointer;
     vertical-align: top;
-    font-size: 1.1rem;
-    line-height: 1rem;
+    font-size: 3.1rem;
+    line-height: 1.8rem;
     padding-left: 5px;
     float: left;
 
