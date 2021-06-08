@@ -96,7 +96,7 @@ pages:
       - form
       - forms
 cache:
-  enabled: true
+  enabled: false
   check:
     method: hash
   driver: auto
@@ -162,7 +162,7 @@ debugger:
   twig: true
 images:
   default_image_quality: 85
-  cache_all: false
+  cache_all: true
   cache_perms: '0755'
   debug: false
   auto_fix_orientation: true
