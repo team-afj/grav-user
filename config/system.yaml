@@ -104,7 +104,7 @@ cache:
   purge_at: '0 4 * * *'
   clear_at: '0 3 * * *'
   clear_job_type: standard
-  clear_images_by_default: true
+  clear_images_by_default: false
   cli_compatibility: false
   lifetime: 604800
   gzip: false
