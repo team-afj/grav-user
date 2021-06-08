@@ -6,7 +6,7 @@
     // animation: sky 200000ms linear infinite;
   }
 
-$shooting-time: 3000ms;
+$shooting-time: 6000ms;
 .shooting-star {
     position: absolute;
     left: 50%;
@@ -66,7 +66,7 @@ $shooting-time: 3000ms;
     }
 
     &:nth-child(1) {
-      $delay: 8000ms !important;
+      $delay: 11000ms !important;
       top: 23% !important;
       left: 50% !important;
       animation-delay: $delay;
@@ -77,7 +77,7 @@ $shooting-time: 3000ms;
     }
 
     &:nth-child(2) {
-      $delay: 9000ms !important;
+      $delay: 12000ms !important;
       top: 49% !important;
       left: -2% !important;
       animation-delay: $delay;
@@ -88,7 +88,7 @@ $shooting-time: 3000ms;
     }
 
     &:nth-child(3) {
-      $delay: 6000ms !important;
+      $delay: 9000ms !important;
       top: 76% !important;
       left: 11% !important;
       animation-delay: $delay;
@@ -103,8 +103,11 @@ $shooting-time: 3000ms;
     0% {
       width: 0;
     }
+    50% {
+      width: 0;
+    }
     
-    30% {
+    75% {
       width: 100px;
     }
     
@@ -117,8 +120,11 @@ $shooting-time: 3000ms;
     0% {
       width: 0;
     }
-    
     50% {
+      width: 0;
+    }
+    
+    75% {
       width: 30px;
     }
     
@@ -131,19 +137,13 @@ $shooting-time: 3000ms;
     0% {
       transform: translateX(0);
     }
+
+    50% {
+      transform: translateX(0);
+    }
     
     100% {
       transform: translateX(600px);
-    }
-  }
-  
-  @keyframes sky {
-    0% {
-      transform: rotate(45deg);
-    }
-    
-    100% {
-      transform: rotate(45 + 360deg);
     }
   }
   
