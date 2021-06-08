@@ -161,8 +161,8 @@ debugger:
     close_connection: true
   twig: true
 images:
-  default_image_quality: 85
-  cache_all: false
+  default_image_quality: 75
+  cache_all: true
   cache_perms: '0755'
   debug: false
   auto_fix_orientation: true
@@ -172,7 +172,7 @@ images:
     aspect_ratio: false
     retina_scale: '1'
   defaults:
-    loading: eager
+    loading: auto
 media:
   enable_media_timestamp: false
   unsupported_inline_types: null
