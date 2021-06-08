@@ -107,7 +107,7 @@ cache:
   clear_images_by_default: false
   cli_compatibility: false
   lifetime: 604800
-  gzip: false
+  gzip: true
   allow_webserver_gzip: false
   redis:
     socket: '0'
@@ -162,7 +162,7 @@ debugger:
   twig: true
 images:
   default_image_quality: 85
-  cache_all: true
+  cache_all: false
   cache_perms: '0755'
   debug: false
   auto_fix_orientation: true
@@ -172,7 +172,7 @@ images:
     aspect_ratio: false
     retina_scale: '1'
   defaults:
-    loading: auto
+    loading: eager
 media:
   enable_media_timestamp: false
   unsupported_inline_types: null
