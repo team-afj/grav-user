@@ -3,7 +3,7 @@ timezone: null
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
-force_ssl: false
+force_ssl: true
 force_lowercase_urls: true
 custom_base_url: null
 username_regex: '^[a-z0-9_-]{3,16}$'
@@ -44,7 +44,7 @@ pages:
   publish_dates: true
   process:
     markdown: true
-    twig: false
+    twig: true
   twig_first: false
   never_cache_twig: false
   events:
@@ -98,8 +98,8 @@ pages:
 cache:
   enabled: true
   check:
-    method: hash
-  driver: auto
+    method: file
+  driver: file
   prefix: g
   purge_at: '0 4 * * *'
   clear_at: '0 3 * * *'
@@ -162,7 +162,7 @@ debugger:
   twig: true
 images:
   default_image_quality: 75
-  cache_all: true
+  cache_all: false
   cache_perms: '0755'
   debug: false
   auto_fix_orientation: true
@@ -181,7 +181,7 @@ media:
   upload_limit: 104857600
 session:
   enabled: true
-  initialize: true
+  initialize: false
   timeout: 1800
   name: grav-site
   uniqueness: path
