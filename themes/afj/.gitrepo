@@ -4,7 +4,7 @@
 ; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
 ;
 [subrepo]
-	remote = git@github.com:Association-Francaise-de-Jonglerie/grav-theme-afj.git
+	remote = git@github.com:team-afj/grav-theme-afj.git
 	branch = develop
 	commit = 551b3751b315d5558b3aaed237e15ae54d5e77ab
 	parent = 852ac75a990d673f0db5f3d49091dcd8652a0ea1
