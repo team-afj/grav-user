@@ -1,0 +1,7 @@
+git-sync:
+  repository: 'https://github.com/team-afj/grav-user.git'
+  folders:
+    - pages
+    - config
+  git:
+    ignore: "security.yaml\ngit-sync.yaml\n!/themes/afj\n!/data/calendars\n!/themes/afj\n!plugins/event-list"
