@@ -5,5 +5,4 @@ security.yaml
 git-sync.yaml
 !/themes/afj
 !/data/calendars
-!/themes/afj
 !plugins/event-list
