@@ -1,6 +1,8 @@
 /*
 !/pages
-!/themes
-!/plugins
 !/config
-!/data
+security.yaml
+git-sync.yaml
+!/themes/afj
+!/data/calendars
+!/themes/afj
