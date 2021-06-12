@@ -4,7 +4,23 @@ git-sync:
     - pages
     - config
   git:
-    ignore: "security.yaml\ngit-sync.yaml\n!/themes/afj\n!/data/calendars\n!/themes/afj\n!plugins/event-list"
+    ignore: "security.yaml\ngit-sync.yaml\n!/data/calendars\n!/themes/afj\n!plugins/event-list"
+    author: gituser
+    message: '(Grav GitSync) Automatic Commit'
+    name: GitSync
+    email: git-sync@trilby.media
+    bin: git
+    private_key: null
+  SyncNotice: null
+  sync:
+    on_save: true
+    on_delete: true
+    on_media: true
+    cron_enable: false
+    cron_at: '0 12,23 * * *'
+  local_repository: null
+  no_user: '0'
+  logging: false
   branch: main
   webhook_enabled: '1'
   remote:
