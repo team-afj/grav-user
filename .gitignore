@@ -3,6 +3,7 @@
 !/config
 security.yaml
 git-sync.yaml
+versions.yaml
 !/themes/afj
 !/data/calendars
 !plugins/event-list
