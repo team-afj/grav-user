@@ -5,3 +5,8 @@ git-sync:
     - config
   git:
     ignore: "security.yaml\ngit-sync.yaml\n!/themes/afj\n!/data/calendars\n!/themes/afj\n!plugins/event-list"
+  branch: main
+  webhook_enabled: '1'
+  remote:
+    name: origin
+    branch: main
