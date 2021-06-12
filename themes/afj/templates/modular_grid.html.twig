@@ -1,0 +1,14 @@
+{% extends 'modular.html.twig' %}
+
+{% block body %}
+    <div class="container grid-lg bg-gray" style="padding-bottom: 1.5rem;">
+    <div class="columns col-gapless">
+    <div class="left column col-8 col-md-6 col-sm-12">
+        {% include 'partials/module-iter.html.twig' with {side: 'left'} %}
+    </div>
+    <div class="right column col-4 col-md-6 col-sm-12">
+        {% include 'partials/module-iter.html.twig' with {side: 'right'} %}
+    </div>
+    </div>
+    </div>
+{% endblock %}

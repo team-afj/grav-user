@@ -1,0 +1,17 @@
+.two-columns-flex {
+    display:flex;
+
+    @include breakpoint(md) {
+    }
+
+    @include breakpoint(sm) {
+    }
+}
+
+.two-columns-flex .left {
+    grid-area: left;
+}
+
+.two-columns-flex .right {
+    grid-area: right;
+}

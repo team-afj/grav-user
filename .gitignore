@@ -1,0 +1,8 @@
+/*
+!/pages
+!/config
+security.yaml
+git-sync.yaml
+!/themes/afj
+!/data/calendars
+!plugins/event-list
