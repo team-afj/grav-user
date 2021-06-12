@@ -1,8 +1,8 @@
 /*
 !/pages
 !/config
-!/themes
-!/plugins
+!/themes/afj
+!/plugins/event-list
 !/data/calendars
 security.yaml
 git-sync.yaml
