@@ -4,7 +4,7 @@ git-sync:
     - pages
     - config
   git:
-    ignore: "security.yaml\ngit-sync.yaml\n!/data/calendars\n!/themes/afj\n!plugins/event-list"
+    ignore: "security.yaml\nversions.yaml\ngit-sync.yaml\n!/data/calendars\n!/themes/afj\n!plugins/event-list"
     author: gituser
     message: '(Grav GitSync) Automatic Commit'
     name: GitSync
