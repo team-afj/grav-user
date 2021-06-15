@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:team-afj/grav-theme-afj.git
 	branch = develop
-	commit = 828a323fa1c0e43ba38bae341d186d56f69b486a
-	parent = 2b7edd7e796adc949f877b3aa46f916d4fde0d8c
+	commit = 6976816094634a9f7e529209c69488b90aba625a
+	parent = 8227953adf47a50dffe65936124fdda3e96818fc
 	method = merge
 	cmdver = 0.4.3
