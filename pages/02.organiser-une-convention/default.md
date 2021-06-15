@@ -2,4 +2,4 @@
 title: 'Organiser une convention'
 ---
 
-Test ajout de page v6
+> Test ajout de page v7
