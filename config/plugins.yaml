@@ -3,8 +3,10 @@ git-sync:
   folders:
     - pages
     - config
+    - plugins
+    - themes
   git:
-    ignore: "security.yaml\ngit-sync.yaml\nversions.yaml\n\n!themes\nthemes/*\n!themes/.*\n!themes/afj\n\n!data\ndata/*\n!data/.*\n!data/calendars\n\n!plugin\nplugin/*\n!plugin/.*\n!plugins/event-list"
+    ignore: "security.yaml\ngit-sync.yaml\nversions.yaml\n\n!.gitignore\n.gitkeep"
     author: gituser
     message: '(Grav GitSync) Automatic Commit'
     name: GitSync
