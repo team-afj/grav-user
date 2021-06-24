@@ -13,7 +13,14 @@ Convention Française de Jonglerie. Ces conventions françaises ont lieu chaque
 année dans une ville de France différente.
 
 
-Vous pouvez nous contacter par mail à l’adresse [afj.jonglerie@gmail.com](mailto:afj.jonglerie@gmail.com).
+Vous pouvez nous contacter par mail à l’adresse
+[afj.jonglerie@gmail.com](mailto:afj.jonglerie@gmail.com).
+
+[button
+    link="https://www.helloasso.com/associations/association-francaise-de-jonglerie/adhesions/adhesion-afj-2021"
+    color="success"]
+J'adhère à l'AFJ !
+[/button]
 
 ## La convention française
 
