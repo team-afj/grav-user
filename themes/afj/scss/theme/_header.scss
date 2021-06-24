@@ -61,8 +61,10 @@
   }
 
   .logo {
-    opacity: 0;
-    
+    .no-navbar-logo & {
+       opacity: 0;
+    }
+
     svg, img {
       height: 28px;
       display: inherit;
@@ -89,7 +91,7 @@ body.header-fixed.header-animated {
 
     .logo {
       opacity: 1;
-      
+
       svg, img {
         height: 28px;
       }
