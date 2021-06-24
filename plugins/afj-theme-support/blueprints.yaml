@@ -1,0 +1,37 @@
+name: Afj Theme Support
+slug: afj-theme-support
+type: plugin
+version: 0.1.0
+description: Shortcodes and other tools to use with the AFJ theme
+icon: plug
+author:
+  name: Ulysse
+  email: thevoodoos@gmail.com
+homepage: https://github.com/voodoos/grav-plugin-afj-theme-support
+demo: http://demo.yoursite.com
+keywords: grav, plugin, etc
+bugs: https://github.com/voodoos/grav-plugin-afj-theme-support/issues
+docs: https://github.com/voodoos/grav-plugin-afj-theme-support/blob/develop/README.md
+license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.7.0' }
+  - { name: shortcode-core, version: '>=5.0.0' }
+
+form:
+  validation: loose
+  fields:
+    enabled:
+      type: toggle
+      label: PLUGIN_ADMIN.PLUGIN_STATUS
+      highlight: 1
+      default: 0
+      options:
+        1: PLUGIN_ADMIN.ENABLED
+        0: PLUGIN_ADMIN.DISABLED
+      validate:
+        type: bool
+#    text_var:
+#      type: text
+#      label: PLUGIN_AFJ_THEME_SUPPORT.TEXT_VARIABLE
+#      help: PLUGIN_AFJ_THEME_SUPPORT.TEXT_VARIABLE_HELP

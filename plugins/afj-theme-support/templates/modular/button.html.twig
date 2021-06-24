@@ -1,0 +1,19 @@
+{% set grid_size = theme_var('grid-size') %}
+
+{% set link = page.header.link %}
+{% if page.header.media %}
+    {% set link = page.media[page.header.media].url %}
+{% endif %}
+
+{% set color = "primary" %}
+{% if page.header.color %}
+    {% set color = page.header.color %}
+{% endif %}
+
+{% set target = page.header.target %}
+
+<section class="section modular-text {{ page.header.class}} bg-gray">
+    <section class="container center {{ grid_size }}">
+        {% include 'partials/ui-button.html.twig' %}
+    </section>
+</section>

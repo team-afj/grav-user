@@ -1,0 +1,29 @@
+{
+  "name": "voodoos/afj-theme-support",
+  "type": "grav-plugin",
+  "description": "Shortcodes and other tools to use with the AFJ theme",
+  "keywords": ["plugin"],
+  "homepage": "https://github.com/voodoos/grav-plugin-afj-theme-support",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ulysse",
+      "email": "thevoodoos@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Grav\\Plugin\\AFJThemeSupport\\": "classes/"
+    },
+    "classmap":  ["afj-theme-support.php"]
+  },
+  "config": {
+    "platform": {
+      "php": "7.1.3"
+    }
+  }
+}
