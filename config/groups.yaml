@@ -17,3 +17,18 @@ superadmin:
       flex-objects: true
   readableName: Jonglus
   enabled: true
+content_manager:
+  access:
+    admin:
+      login: true
+      super: false
+      configuration: false
+      pages: true
+      statistics: true
+      plugins: false
+      themes: false
+      tools: false
+      users: true
+      flex-objects: false
+  readableName: 'Editeur de contenu'
+  enabled: true
