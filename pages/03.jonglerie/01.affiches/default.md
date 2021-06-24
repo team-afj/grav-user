@@ -1,5 +1,9 @@
 ---
 title: 'Affiches de conventions'
+process:
+    markdown: true
+    twig: true
+twig_first: true
 ---
 
 # Exposition d'affiches de convention
