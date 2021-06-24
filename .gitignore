@@ -1,11 +1,11 @@
 /*
 !/pages
-!/themes
-!/plugins
 !/config
+!/plugins
+!/themes
+!/data
 security.yaml
 git-sync.yaml
 versions.yaml
-
 !.gitignore
 !.gitkeep
