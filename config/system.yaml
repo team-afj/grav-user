@@ -45,7 +45,7 @@ pages:
   process:
     markdown: true
     twig: true
-  twig_first: false
+  twig_first: true
   never_cache_twig: false
   events:
     page: true
