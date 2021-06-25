@@ -7,6 +7,7 @@ title: 'Pré-requis nécessaires'
 
 ##### **1)	Constituer une équipe organisatrice**
 
+
 **Il s’agit de trouver les personnes susceptibles d’être motivées à organiser la convention.**
 
 La chose la plus importante dans l'organisation d'une convention est de mettre en place une bonne équipe. C'est impossible de s'en sortir seul. Et plus l’équipe s'amuse, plus la convention sera amusante.
