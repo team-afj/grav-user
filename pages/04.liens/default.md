@@ -6,21 +6,21 @@ title: Liens
 
 ## Sites généralistes francophones
 
-Association Suisse de Jonglerie
+[Association Suisse de Jonglerie](http://www.juggling.ch/index_fr.html)
 
-Jongle.net
+[Jongle.net](http://www.jongle.net/)
 
-Maison des Jonglages
+[Maison des Jonglages](http://maisondesjonglages.fr/fr)
 
 ## Sites généralistes anglophones
 
-Association Européenne de Jonglerie (EJA)
+[Association Européenne de Jonglerie (EJA)](https://www.eja.net/)
 
-International Jugglers’ Association (IJA)
+[International Jugglers’ Association (IJA)](https://www.juggle.org/)
 
-Juggle Wiki
+[Juggle Wiki](https://juggle.fandom.com/wiki/Juggle_Wiki)
 
-Juggling Information Service
+[Juggling Information Service](http://www.juggling.org/)
 
 ## Associations organisatrices et conventions de jongle
 Ajil / Au Bout Des Doigts (ABDD) / Lyon
@@ -91,13 +91,13 @@ Zik en Piste / Jongle en Zik / Carpentras
 
 ## Sites et chaînes de vidéos de jongle
 
-Circopedia
+[Circopedia](http://www.circopedia.org/Main_Page)
 
 Juggling.tv
 
 Metlili
 
-Playlists de l'AFJ des vidéos de conventions en France
+[Playlists de l'AFJ des vidéos de conventions en France](https://www.youtube.com/channel/UCEkbPHK3n9M3o4SQFYA99bA/playlists)
 
 The ministry of manipulation
 
