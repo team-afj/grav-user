@@ -26,5 +26,5 @@ published: true
 
 * > [L'accueil]( 	/organiser-une-convention/accueil)
 * > [Les jeux de la jongle]( 	/organiser-une-convention/les-jeux-de-la-jongle)
-* > La décoration
+* > [La décoration]( 	/organiser-une-convention/la-decoration)
 
