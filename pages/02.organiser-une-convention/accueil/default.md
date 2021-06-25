@@ -2,9 +2,9 @@
 title: 'L''accueil'
 ---
 
-# L’organisation du pôle accueil en convention
+### L’organisation du pôle accueil en convention
 
-### 1.	Pourquoi avoir un accueil et pourquoi faire des pré-inscriptions ?
+##### 1.	Pourquoi avoir un accueil et pourquoi faire des pré-inscriptions ?
 
 ###### Pourquoi avoir un accueil en convention ? (vue d’ensemble) 
 
@@ -22,7 +22,7 @@ title: 'L''accueil'
 
 **Remarque:** l’accueil doit être adapté selon la taille de la convention (fréquentation et durée), selon la programmation et selon les publics visés. Certains services peuvent être délocalisés de l’accueil (tableau workshops, point de rechargement, objets trouvés…).
 
-##### Pourquoi faire des pré-inscriptions ? (vue d’ensemble)
+###### Pourquoi faire des pré-inscriptions ? (vue d’ensemble)
 
 La pré-inscription c'est (ou peut être)
 - le lieu d’information des publics et des festivaliers en ligne
