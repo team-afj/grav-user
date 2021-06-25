@@ -118,7 +118,7 @@ C’est les mêmes règles et condition que le foot, mais en plus il faut jongle
 
 C’est le grand final en général des jeux de la jongle. Le Toss up n’est pas une épreuve ; tous les participants lancent un ou plusieurs objet (tout type d’objet est accepté pourvu qu’il puisse être lancé) en l’air le plus haut possible en même temps, l’effet visuel est magnifique bien que rapide. Il est possible d’en faire plusieurs et pour éviter de se reprendre les objets sur la tronche, il est préférable de placer les participants en cercle et d’envoyer les objets au centre.
  
-Merci à JugglingDB, [Jongle.net](http://jongle.net/) et [www.juggling.ch](http://www.juggling.ch/) pour l’inspiration.
+**Merci** à JugglingDB, [Jongle.net](http://jongle.net/) et [www.juggling.ch](http://www.juggling.ch/) pour l’inspiration.
 
 Pour d’autres jeux, vous pouvez consulter cette page en anglais assez complète : 
 [Juggling Games Encyclopaedia](http://www.twjc.co.uk/games.html)
