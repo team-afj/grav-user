@@ -23,6 +23,8 @@ La signalétique permet de trouver rapidement le camping ou le coin camion,pour 
          
 ![img_0581](img_0581.jpg "img_0581")  
 
-Les outils nécessaires pour la décoration :
+**Les outils nécessaires pour la décoration :**
 de la peinture, un bon cutteur, des feutres, du fil de fer, un pistolet à colle, du grillage et des journaux pour le papier mâché, des ballons à sculpter, du papier kraft, une agrafeuse murale, du scotch et du gaffer, un marteau et des clous, une perceuse-visseuse, des palettes, des planches de bois,une scie sauteuse.
 Si besoin étiquetez à qui appartiennent les objets associatifs et ceux qui appartiennent à des individus.
+
+![bidul](bidul.jpg "bidul")
