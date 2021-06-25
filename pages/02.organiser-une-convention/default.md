@@ -20,7 +20,7 @@ published: true
 * > Au moins la veille de la convention	
 * > Pendant la convention	
 * > Après la convention
-* > [Liens utiles]( 	/organiser-une-convention/liens-utiles)
+* > [Liens et téléchargements utiles]( 	/organiser-une-convention/liens-utiles)
 
 
 
