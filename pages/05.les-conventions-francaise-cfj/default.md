@@ -61,9 +61,9 @@ du 29.12.2019 au 03.01.2020
 organisée par l'association française de jonglerie, l'association des nazes, l'association Pyrocircus, et l'association Chill'Ubik 
 
 13ème Convention Française "Jongl’ Ô Païs" / Vanosc (07)
-du au août 2020
+du 22 juillet au 2 août 2020
 organisée par La Ribouldingue
 
 14ème Convention Française "Mamagabe" / Poitiers (86)
-du au août 2021
+du 25 au 29 août 2021
 organisée par l'association Mamagabe
