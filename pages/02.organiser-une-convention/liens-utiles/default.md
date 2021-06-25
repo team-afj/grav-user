@@ -21,7 +21,3 @@ Un lien très utile pour l'organisation de convention est celui de la [British J
 Ce présent guide de l'organisateur de convention de jonglerie existe également en format .pdf 
 
 Néanmoins, il est forcément moins interactif et est susceptible d'être moins à jour que les informations présentes sur notre site internet.
-
-
-
-
