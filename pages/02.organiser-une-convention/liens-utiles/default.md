@@ -8,7 +8,7 @@ title: 'Liens et téléchargements utiles'
 
 ##### Notre page Méta-convention
 
-Depuis 2020, l'AFJ organise une convention à destination des organisateurs de conventions de jonglerie, la Méta-convention. Nous vous invitons donc à consulter la page de site qui lui ai dédiée 
+Depuis 2020, l'AFJ organise une convention à destination des organisateurs de conventions de jonglerie, la Méta-convention. Nous vous invitons donc à consulter la page de site qui lui ai dédiée.
 
 ##### Wiki BJC
 
