@@ -23,51 +23,52 @@ title: Liens
 [Juggling Information Service](http://www.juggling.org/)
 
 ## Associations organisatrices et conventions de jongle
-Ajil / Au Bout Des Doigts (ABDD) / Lyon
 
-Argument Massue / Arts Hachés / Grenoble
+[Ajil / Au Bout Des Doigts (ABDD) / Lyon](http://ajil-asso.fr/)
 
-Association des jongleurs d’Afrique (AJA)
+[Argument Massue / Arts Hachés / Grenoble](https://fr-fr.facebook.com/argument.massue.grenoble)
 
-Association Parisienne de Jonglerie (APJ) / Paris
+[Association des jongleurs d’Afrique (AJA)](https://www.facebook.com/Association-des-Jongleurs-dAfrique-AJA-1648772798695529/)
 
-Burn Crew Concept / Paris
+[Association Parisienne de Jonglerie (APJ) / Paris](https://www.asso-apj.fr/)
 
-C Koi Ce Cirque / Ploeven
+[Association Trac / Jonglissimo / Reims](http://www.asso-trac.fr/)
 
-C pas nous / Sarrenjongle / Sarreguemines
+[Burn Crew Concept / Paris](https://www.burncrewconcept.net/fr/)
 
-Chapeaux Pointus / Turlututu / Chambéry
+[C Koi Ce Cirque / Ploeven](https://www.facebook.com/CKoiCeCirque/)
 
-Cirque Sauvage / Safari Hoop / Lille - Wesserling
+[C pas nous / Sarrenjongle / Sarreguemines](https://fr-fr.facebook.com/assocpasnous/)
 
-Cir’convivial / Bolbec
+[Chapeaux Pointus / Turlututu / Chambéry](http://asso.chapeauxpointus.free.fr/)
 
-Convention Arts du Cirque (CAC) / Belgique
+[Cirque Sauvage / Safari Hoop / Lille - Alsace](https://safarihoopcamp.wixsite.com/safarihoopcamp)
 
-École De Cirque Zmam / Roca’balle / Rocalet (Vabre)
+[Cir’convivial / Bolbec](https://fr-fr.facebook.com/CIRCONVIVIAL76/)
 
-Extrême Jonglerie / Marseille
+[Convention Arts du Cirque (CAC) / Belgique](https://www.facebook.com/convention.CAC/)
 
-Fo Ksa Bouge
+[École De Cirque Zmam / Roca’balle / Rocalet (Vabre)](https://www.facebook.com/events/lieu-dit-rocalet-81330-vabre-france/rocaballe/306579483942477/)
 
-Graulich convention feu / Rodemack
+[Extrême Jonglerie / Marseille](http://www.extreme-jonglerie.com/)
 
-Jongl’ ô Païs / Vanosc
+[Fo Ksa Bouge / Passe la jongle à tes voisins / Voisins-le-Bretonneux](http://passelajongle.blogspot.com/)
 
-Jonglagogo / Troyes
+[Graulich convention feu / Rodemack](https://www.facebook.com/GraulichConventionFeu/)
 
-Jonglargonne / Bordeaux
+[Jongl’ ô Païs / Vanosc](https://fr-fr.facebook.com/JOP07690/)
 
-Jongle & Rit / Bigoud’N’Jongle / Vezin le coquet
+[Jonglagogo / Troyes](http://jonglagogo.fr/)
 
-Jonglissimo / Reims
+[Jonglargonne / Bordeaux](https://www.jonglargonne.org/)
 
-Juggling Virtual Convention (JVC) / Discord
+[Jongle & Rit / Bigoud’N’Jongle / Vezin le coquet](https://jongleetrit.wordpress.com/)
 
-Le Cirque du Bout du Monde / Lille
+[Juggling Virtual Convention (JVC) / Discord](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fjugglingvirtualconvention%2F)
 
-Les Nazes / Glühwein / Wesserling
+[Le Cirque du Bout du Monde / Lille](http://lecirqueduboutdumonde.fr/)
+
+[Les Nazes / Glühwein / Wesserling](https://www.les-nazes.com/gluhwein.html)
 
 Limouzirk / Limoges
 
@@ -93,11 +94,11 @@ Zik en Piste / Jongle en Zik / Carpentras
 
 [Circopedia](http://www.circopedia.org/Main_Page)
 
-Juggling.tv
+[Juggling.tv](https://juggling.tv/)
 
-Metlili
+[Metlili](https://vimeo.com/metlili)
 
 [Playlists de l'AFJ des vidéos de conventions en France](https://www.youtube.com/channel/UCEkbPHK3n9M3o4SQFYA99bA/playlists)
 
-The ministry of manipulation
+[The ministry of manipulation](http://www.ministryofmanipulation.com/)
 
