@@ -8,52 +8,58 @@ Ahhh les CFJ ! C’est toujours une occasion de retrouver des amis, faire de nou
 
 Voici un bref historique des dates et des lieux des conventions françaises de jonglerie (CFJ).
 
-1ère Convention Française / CARVIN (62)
+1ère Convention Française / Carvin (62)
 du au 2008
 organisée par le Cirque du Bout du Monde 
 
-2ème Convention Française / CARVIN (62)
+2ème Convention Française / Carvin (62)
 du au 2009
 organisée par le Cirque du Bout du Monde
 
-3ème Convention Française / NANTES (44)
+3ème Convention Française / Nantes (44)
 du au
 organisée par
 	
-4ème Convention Française / RENNES (35)
+4ème Convention Française / Rennes (35)
 du 10 au 17 juillet 2011 
+organisée par
 
-5ème Convention Française / TOULOUSE (31)
+5ème Convention Française "Boudu" / Toulouse (31)
 du au 2012
 organisée par l'association ParHazArt
 	
-6èmeConvention Française / POITIERS (86)
+6èmeConvention Française "Mamagabe" / Poitiers (86)
 du au 2014
 organisée par l'association Mamagabe
 
-7ème Convention Française / COLLINEE (22)
+7ème Convention Française "Les Irreductibles" / Colinée (22)
 du au 2015
 organisée par Les Irreductibles
 
-8ème Convention Française / VANOSC (07)
+8ème Convention Française "Jongl’ Ô Païs" / Vanosc (07)
 du au 2016
-organisée par Jongl’ Ô Païs
+organisée par La Ribouldingue
 
-9ème Convention Française / ~~Cirkoues~~t (44)
+9ème Convention Française "Cirkouest" / ? (44)
 du au 2017
-organisée par Cirkouest 
+organisée par l'association Cirkouest 
 
-10ème Convention Française / Ambérieu-en-Bugey (01)
+10ème Convention Française "Au Bout Des Doigts" / Ambérieu-en-Bugey (01)
 du au 2018
-organisée par l'Ajil
+organisée par l’association Ajil
 
-11ème Convention Française / Bigoud’n’Jongle (35)
-Bigoud’n’Jongle convention 2019
+11ème Convention Française "Bigoud'N'Jongle" / Vezin-le-Coquet (35)
+du au 2019
+organisée par l'association Jongle & Rit
 
-12ème Convention Française / Glühwein (68)
-Glühwein du nouvel an 2019-2020
+12ème Convention Française "Glühwein" / Habsheim (68)
+du 29.12.2019 au 03.01.2020
+organisée par l'association française de jonglerie, l'association des nazes, l'association Pyrocircus, et l'association Chill'Ubik 
 
-13ème Convention Française / Vanosc (07)
-Jongl’ Ô Païs 2020
+13ème Convention Française "Jongl’ Ô Païs" / Vanosc (07)
+du au août 2020
+organisée par La Ribouldingue
 
-14ème Convention Française / Poitiers (86)
+14ème Convention Française "Mamagabe" / Poitiers (86)
+du au août 2021
+organisée par l'association Mamagabe
