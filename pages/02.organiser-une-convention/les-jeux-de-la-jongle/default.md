@@ -14,10 +14,11 @@ Beaucoup de jeux sont communs à toutes les conventions, mais rien ne vous empê
 
 **Les endurances**
 
+![5balles](5balles.jpg "5balles")
+
 Cette épreuve peut se décliner avec tous les objets de la jonglerie. Le principe est archi-simple : les participant se munissent du matériel nécessaire et commencent à jongler en même temps. Lorsqu’un participant fait tomber un objet, il a perdu et arrête de jongler. Le dernier participant qui continue à jongler est le vainqueur de l’épreuve. Les endurances les plus classiques sont l’endurance à 5 balles et celle ou les participants doivent tenir une massue en équilibre sur leur tête. Mais ensuite, tout est possible : 7 balles, 5 massues, 3 diabolos, à 3 balles les yeux fermés, 3 balles à 1 main, 5 balles sur les épaules de quelqu’un, 5 balles à 2 jongleurs avec chacun 1 main, ... C’est au choix des organisateurs et à adapter en fonction du niveau général des participants.
 
 Attention ceci est une épreuve d’endurance, les participants n’ont pas le droit de se gêner les uns les autres ou de s’affronter physiquement (on garde ça pour l’épreuve du gladiator, voir plus loin). A noter que cette épreuve peut durer très, très, longtemps. Deux choix s’offrent alors au maître de cérémonie. Le premier est de demander aux derniers participants d’exécuter des figures, ou de leur donner des contraintes pour les forcer à prendre des risques et donc augmenter les chances de faire tomber un objet. Le second choix est de demander aux derniers participants de se mettre dans un endroit précis, de les laisser s’affronter et pendant ce temps-là d’enchainer sur les épreuves suivantes.
-
 
 **Le Gladiateur (aussi appelé lutte ou combat)**
 
