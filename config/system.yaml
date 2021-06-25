@@ -3,7 +3,7 @@ timezone: null
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
-force_ssl: false
+force_ssl: true
 force_lowercase_urls: true
 custom_base_url: null
 username_regex: '^[a-z0-9_-]{3,16}$'
@@ -96,7 +96,7 @@ pages:
       - form
       - forms
 cache:
-  enabled: true
+  enabled: false
   check:
     method: file
   driver: file
@@ -178,7 +178,7 @@ media:
   unsupported_inline_types: null
   allowed_fallback_types: null
   auto_metadata_exif: false
-  upload_limit: 104857600
+  upload_limit: 134217728
 session:
   enabled: true
   initialize: false
