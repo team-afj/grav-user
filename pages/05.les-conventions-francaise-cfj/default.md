@@ -36,9 +36,9 @@ organisée par l'association [ParHazArt](https://www.parhazart.org/)
 du 26 au 31 aout 2014
 organisée par l'association [Mamagabe](http://assomamagabe.blogspot.com/)
 
-**7ème Convention Française** "Les Irréductibles" / Colinée (22)
+**7ème Convention Française** "[Les Irréductibles](https://www.facebook.com/pg/cnj2015/posts/)" / Colinée (22)
 du 28 juillet au 2 août 2015
-organisée par Les Irréductibles
+organisée par [Les Irréductibles](https://www.facebook.com/pg/cnj2015/posts/)
 
 **8ème Convention Française** "[Jongl’ Ô Païs](https://fr-fr.facebook.com/login/?next=https%3A%2F%2Ffr-fr.facebook.com%2FJOP07690%2F)" / Vanosc (07)
 du 13 au 17 juillet 2016
