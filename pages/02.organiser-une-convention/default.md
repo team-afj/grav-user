@@ -8,7 +8,7 @@ published: true
 ## # > SOMMAIRE
 
 * > [Avant-propos]( 	/organiser-une-convention/avant-propos)	
-* > Remerciements	
+* > [Remerciements]( 	/organiser-une-convention/remerciements)	 	
 * > Introduction	
 * > Pré-requis nécessaires
 * > Avant la convention – Les tâches fondamentales
