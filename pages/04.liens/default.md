@@ -70,25 +70,25 @@ title: Liens
 
 [Les Nazes / Glühwein / Wesserling](https://www.les-nazes.com/gluhwein.html)
 
-Limouzirk / Limoges
+[Limouzirk / Limoges](http://www.limouzirk.fr/)
 
-Mamagabe / Poitiers
+[Mamagabe / Poitiers](http://assomamagabe.blogspot.com/)
 
-Maraboule / En Maine Ta Jongle / Angers
+[Maraboule / En Maine Ta Jongle / Angers](http://maraboule.blogspot.com/)
 
-MJC 3 Maisons / Bibasse / Nancy
+[MJC 3 Maisons / Bibasse / Nancy](https://www.mjc3maisons.fr/)
 
-NLC / La guinguette du jongleur / Nonville
+[NLC / La guinguette du jongleur / Nonville](http://assonlc.free.fr/)
 
-Par Haz’art / Boudu la jongle / Toulouse
+[Par Haz’art / Boudu la jongle / Toulouse](https://www.parhazart.org/)
 
-Pass’moi L’Cirk / Tour de Pass Pass / Tours
+[Pass’moi L’Cirk / Tour de Pass Pass / Tours](http://passmoilcirk.blogspot.com/)
 
-Pyrocircus / Glühwein / Strasbourg
+[Pyrocircus / Glühwein / Strasbourg](http://troupe-pyrocircus.fr/)
 
-Tartajongle
+[Tartajongle](https://www.tartajongle.org/)
 
-Zik en Piste / Jongle en Zik / Carpentras
+[Zik en Piste / Jongle en Zik / Carpentras](https://www.zikenpiste.com/)
 
 ## Sites et chaînes de vidéos de jongle
 
