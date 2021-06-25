@@ -2,7 +2,7 @@
 title: 'La décoration'
 ---
 
-# La décoration
+### La décoration
 
 Une jolie décoration est importante pour donner de l’originalité et une identité visuelle à votre convention. Voici des trucs et astuces pour faire de la recup et créer des décos sympas et faciles.
 
