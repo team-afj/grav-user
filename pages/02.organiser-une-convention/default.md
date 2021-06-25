@@ -9,7 +9,7 @@ published: true
 
 ### Guide de l'organisateur de convention de jonglerie - par chronologie de l'organisation
 
-##### ## # > SOMMAIRE
+##### ## #  SOMMAIRE
 
 * > [Avant-propos]( 	/organiser-une-convention/avant-propos)	
 * > [Remerciements]( 	/organiser-une-convention/remerciements)	 	
