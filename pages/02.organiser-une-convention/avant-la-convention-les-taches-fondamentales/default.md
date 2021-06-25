@@ -10,12 +10,13 @@ C’est pourquoi, le montage du projet, la recherche d’un lieu et des dates so
 
 Cette section vous propose déterminer ce que vous voulez faire (vos besoins), puis d’identifier ce que vous pouvez faire (vos moyens), pour ensuite confronter vos besoins et vos moyens afin de trouver le bon compromis entre les deux ! Il s’agit de faire une liste de tout, puis de projeter une "vision d'ensemble".
 
-**1)	Réunions de l'équipe organisatrice **
+##### **1)	Réunions de l'équipe organisatrice **
 
 Proposez à l’équipe organisatrice, une première date de réunion au moins quelques mois avant l’événement pour se laisser le temps de s’organiser. On peut par exemple faire une demande de réunion par mail en créant d’abord un « Framadate » ou un « Doodle » ou créer un forum (comme « Slack » ou autre) pour informer les personnes susceptibles d’être motivées par le projet. Ensemble, vous formerez le "noyau" de l'organisation, et vous partager les responsabilités.
 Faire un ordre du jour. Si vous avez déjà organisé une convention, vous pouvez préparer cette réunion en vous appuyant sur le dernier bilan moral et financier de l’édition précédente, pour fixer les objectifs de l’événement à venir. 
 
 **Définir vos besoins (idées et envies : quoi, pourquoi, pour qui, pour combien ?) :**
+
 Pour que l’équipe organisationnelle soit motivée, il est important que chacun puisse exposer ses envies et proposer ses idées. L’équipe devra ainsi déterminer ses besoins en sélectionnant collectivement les idées qui seront retenues pour organiser la convention. Au terme de la réunion, l’équipe devrait avoir un cadre consensuel clair qui permet de répondre unanimement et sans ambiguïté aux questions suivantes : 
 -	Quel est le nom de la convention ?
 -	Qu’est-ce que l’équipe veut véhiculer comme messages ou actions (culturels, artistiques, citoyens…) ?
@@ -26,27 +27,29 @@ Pour que l’équipe organisationnelle soit motivée, il est important que chacu
 -	En fonction du nombre de participants, évaluer l’espace dont vous aurez besoin pour : la jongle, la cuisine, les petits déjeuners et la restauration, l’espace scénique, l’espace feu, dormir, les parkings voitures et camions, les sanitaires… ? 
 -	Est-ce que vous favoriser l’autogestion des participants (nourriture, nettoyage...), ou faites-vous « sous-traiter » ces actions par des bénévoles ?
 	
-Remarque : il faut distinguer une convention, d’une rencontre de jonglerie.
-	Une convention se déroule sur plusieurs jours consécutifs et à un programme important. Lorsqu’on annonce une convention de jongle, il est probable que des jongleurs font plus de 800 km pour venir vous voir… 
-	Si cette ambition est trop forte pour vous pour le moment, vous pouvez toujours organiser une rencontre de jonglerie. La rencontre de jonglerie est destinée à un public plus régional, elle dure moins longtemps et la programmation peut être très flexible.
+_Remarque : il faut distinguer une convention, d’une rencontre de jonglerie.
+Une convention se déroule sur plusieurs jours consécutifs et à un programme important. 
+Lorsqu’on annonce une convention de jongle, il est probable que des jongleurs font plus de 800 km pour venir vous voir…
+Si cette ambition est trop forte pour vous pour le moment, vous pouvez toujours organiser une rencontre de jonglerie. La rencontre de jonglerie est destinée à un public plus régional, elle dure moins longtemps et la programmation peut être très flexible._
 
-Définir vos moyens (qui, quand, où, comment, avec quoi et avec combien ?) :
+**Définir vos moyens (qui, quand, où, comment, avec quoi et avec combien ?) :**
+
 Une fois que les besoins de la convention ont été déterminés et validés collectivement, il s’agit de déterminer les moyens qui vont vous permettre de mener à bien l’événement.
-	L’équipe devra ainsi identifier ses moyens en les listant collectivement. Au terme de la réunion, l’équipe devrait avoir un cadre consensuel clair qui permet de répondre unanimement et sans ambiguïté aux questions suivantes : 
+L’équipe devra ainsi identifier ses moyens en les listant collectivement. Au terme de la réunion, l’équipe devrait avoir un cadre consensuel clair qui permet de répondre unanimement et sans ambiguïté aux questions suivantes : 
 -	Qui et combien de personnes organisent la convention ?
 -	Comment se répartir les tâches entre organisateurs ? Qui veut faire quoi ?
 -	De combien de bénévoles avons-nous à disposition ?
 -	Où et quand réaliser la convention ? Quelle période de l’année ? Quel type de site (intérieur en salle, ou extérieur avec chapiteau, ou les deux) ? La saison et zone géographique peuvent avoir des conséquences sur votre événement. Il faudra donc pensez au froid, à la chaleur, à la pluie, aux orages, ...
 -	Lister le matériel nécessaire de sonorisation, lumière, cuisine, restauration, décoration, sécurité… Réfléchissez à comment trouver le matériel, comment l’emmener sur place et comment le ramener.
 
-	Organiser autant de réunions que nécessaires pour proposer vos idées, pour décider ensemble de ce que vous allez faire et pour vous répartir les tâches. À chaque réunion, prenez des notes, puis envoyer tous les compte-rendu à tous les organisateurs. 
-	Une fois que le compte rendu est envoyé à tous les autres organisateurs, chacun se charge de faire ce pourquoi il s’est engagé. Il est intéressant de faire une liste récapitulative en bas du compte-rendu de « qui fait quoi ».
+Organiser autant de réunions que nécessaires pour proposer vos idées, pour décider ensemble de ce que vous allez faire et pour vous répartir les tâches. À chaque réunion, prenez des notes, puis envoyer tous les compte-rendu à tous les organisateurs. 
+Une fois que le compte rendu est envoyé à tous les autres organisateurs, chacun se charge de faire ce pourquoi il s’est engagé. Il est intéressant de faire une liste récapitulative en bas du compte-rendu de « qui fait quoi ».
 
-**2)	Rédiger un document détaillé du montage de la convention**
+##### **2)	Rédiger un document détaillé du montage de la convention**
 
 Maintenant que vous avez défini vos besoins et vos moyens généraux, il s’agit de les concrétiser… Pour se faire, nous vous conseillons de vous appuyer sur les conseils qui vont suivre et sur les compte-rendu de vos réunions. Les besoins et les moyens du montage du projet (humains techniques, financiers, lieu, dates…) devraient à terme être rédigés et compilés dans un document qui vous servira à répondre aux différentes questions sur la convention, des organisateurs, des bénévoles, des partenaires, des médias et des pouvoirs publics. La suite détaille plus précisément les tâches à effectuer pour le montage de ce dossier.
 
-**3)	Trouver un lieu et une date**
+##### **3)	Trouver un lieu et une date**
 
 C’est une phase très importante de l’organisation. Il faut prévoir un temps suffisant pour rechercher le site adéquat.  
 
