@@ -4,7 +4,7 @@ title: 'Les conventions régionales'
 
 # Les conventions régionales
 
-Voici la liste des liens vers les associations organisatrices de conventions de jonglerie francophones (France, Belgique, Afrique).
+Voici la liste des liens vers les associations organisatrices de conventions de jonglerie francophones (France, Belgique, Suisse et Afrique).
 
 [Ajil / Au Bout Des Doigts (ABDD) / Lyon](http://ajil-asso.fr/)
 
@@ -13,6 +13,8 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 [Association des jongleurs d’Afrique (AJA)](https://www.facebook.com/Association-des-Jongleurs-dAfrique-AJA-1648772798695529/)
 
 [Association Parisienne de Jonglerie (APJ) / Paris](https://www.asso-apj.fr/)
+
+[Association Suisse de Jonglerie / Suisse](http://www.juggling.ch/index_fr.html)
 
 [Association Trac / Jonglissimo / Reims](http://www.asso-trac.fr/)
 
