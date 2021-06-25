@@ -3,15 +3,18 @@ title: 'Organiser une convention'
 published: true
 ---
 
-# > SOMMAIRE
+# Guide de l'organisateur de convention de jonglerie
+
+## # > SOMMAIRE
+
 * > Avant-propos	
 * > Remerciements	
 * > Introduction	
 * > Pré-requis nécessaires
-* > Avant la convention – LES TÂCHES FONDAMENTALES
-* > AVANT LA CONVENTION – LES TÂCHES FREQUENTEs
-* > AU MOINS LA VEILLE DE LA CONVENTION	
-* > PENDANT LA CONVENTION	
-* > APRES LA CONVENTION
+* > Avant la convention – Les tâches fondamentales
+* > Avant la convention – Les tâche fréquentes
+* > Au moins la veille de la convention	
+* > Pendant la convention	
+* > Après la convention
 
 
