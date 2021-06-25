@@ -1,5 +1,6 @@
 ---
 title: 'Les jeux de la jongle'
+media_order: '5balles.jpg,gladiator02.jpg,equimassue.jpg,corde.jpg,tiralacorde.jpg,brouette01.jpg,tossup.jpg'
 ---
 
 ### Les jeux de la jongle
@@ -20,7 +21,11 @@ Cette épreuve peut se décliner avec tous les objets de la jonglerie. Le princi
 
 Attention ceci est une épreuve d’endurance, les participants n’ont pas le droit de se gêner les uns les autres ou de s’affronter physiquement (on garde ça pour l’épreuve du gladiator, voir plus loin). A noter que cette épreuve peut durer très, très, longtemps. Deux choix s’offrent alors au maître de cérémonie. Le premier est de demander aux derniers participants d’exécuter des figures, ou de leur donner des contraintes pour les forcer à prendre des risques et donc augmenter les chances de faire tomber un objet. Le second choix est de demander aux derniers participants de se mettre dans un endroit précis, de les laisser s’affronter et pendant ce temps-là d’enchainer sur les épreuves suivantes.
 
+![equimassue](equimassue.jpg "equimassue")
+
 **Le Gladiateur (aussi appelé lutte ou combat)**
+
+![gladiator02](gladiator02.jpg "gladiator02")
 
 Les participants se saisissent de trois massues et forment un cercle, en général le plus grand possible. Puis ils commencent tous à jongler à trois massues. Le but est simple : être le dernier à jongler ! Tout est permis ou presque pour faire tomber les massues des autres, mais il faut bien sûr rester fair play. Les figures sont autorisées, mais il faut au moins une massue en l’air à chaque instant. Voler les massues des autres est aussi possible. Lorsqu’un participant fait tomber une massue, il quitte le jeu et reste sur le bord du terrain. Petit à petit les massues tombent, et un cercle de participants perdants se forme tout autour. Les éliminés peuvent alors commencer à rétrécir le cercle pour forcer les derniers participants à se rapprocher et à s’affronter. Le dernier qui reste à jongler a gagné. On peut alors faire plusieurs manches pour sélectionner un certain nombre de participants et à la fin organiser la grande finale des meilleurs joueurs.
 
@@ -71,9 +76,13 @@ Tous les participants forment un cercle et lancent leur diabolo dans une boîte 
 
 **La corde** 
 
+![corde](corde.jpg "corde")
+
 Jongler 3 balles (ou massues) et essayer de passer sous une corde tendue de hauteur décroissante à chaque passage. Si tu droppes, tu es dehors. Si tu fais tomber la corde, tu as paumé. Les règles peuvent varier et certains n’autorisent que le contact des pieds avec le sol.
  
 **Le Tir à la corde**
+
+![tiralacorde](tiralacorde.jpg "tiralacorde")
 
 Jeu par équipe d’entre 4 et 6 jongleurs. C’est un tir à la corde classique, où chaque équipe en affronte une autre, mais chaque participant tient la corde d’une main et jongle à deux balles de l’autre main. Dès qu’il droppe une balle, il doit lâcher la corde. L'équipe qui arrivera à faire franchir la ligne matérialisée au sol à l'autre équipe sera déclarée vainqueur. Organiser tout cela en quart de finale, demi-finale et finale !
  
@@ -87,6 +96,8 @@ On joue à "Jacques a dit" en y incorporant de la jongle à 3 balles. Si tu drop
 Course par équipe de deux participants, attachés l’un à l’autre par la cheville. Ils doivent jongler à trois balles au total, donc en passing. Quand une balle tombe, on la ramasse et on continue. Mais on perd du temps !
 
 **La brouette**
+
+![brouette01](brouette01.jpg "brouette01")
 
 Course par équipe de trois participants. L’un pose les mains à terre, et joue le rôle de brouette. Les deux autres restent debout, lui saisissent chacun une jambe avec une main et doivent jongler avec leur autre main en passing avec leur partenaire, le tout à trois balles. Quand une balle tombe, on la ramasse et on continue. Mais on perd du temps !
  
@@ -117,6 +128,9 @@ C’est les mêmes règles et condition que le foot, mais en plus il faut jongle
 **Le Toss up**
 
 C’est le grand final en général des jeux de la jongle. Le Toss up n’est pas une épreuve ; tous les participants lancent un ou plusieurs objet (tout type d’objet est accepté pourvu qu’il puisse être lancé) en l’air le plus haut possible en même temps, l’effet visuel est magnifique bien que rapide. Il est possible d’en faire plusieurs et pour éviter de se reprendre les objets sur la tronche, il est préférable de placer les participants en cercle et d’envoyer les objets au centre.
+
+![tossup](tossup.jpg "tossup")
+
  
 **Merci** à JugglingDB, [Jongle.net](http://jongle.net/) et [www.juggling.ch](http://www.juggling.ch/) pour l’inspiration.
 
