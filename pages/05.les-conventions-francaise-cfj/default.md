@@ -1,8 +1,8 @@
 ---
-title: 'Les conventions française "CFJ"'
+title: 'Les conventions françaises "CFJ"'
 ---
 
-# Les conventions française de jonglerie "CFJ"
+# Les conventions françaises de jonglerie "CFJ"
 
 Ahhh les CFJ ! C’est toujours une occasion de retrouver des amis, faire de nouvelles rencontres, en prendre plein les yeux et les mains pendant une semaine ! On peut venir de loin, prévoir un petit voyage, venir avec des copains, repartir avec d’autres, c’est toujours un moment inoubliable.
 
