@@ -15,5 +15,3 @@ En général, la programmation inclut : scène ouverte, scène de feu, gala, ren
 Pour le reste, chaque convention est unique et comme la Jonglerie, la Convention devrait changer, se développer, être inspirée, être flexible et créative. La même convention peut être différente d’édition en édition (d’autres organisateurs, dans un lieu différent, avec d’autres animations, d’autres personnes…).
 
 La dernière chose à noter est que ces conventions sont généralement organisées avec les jongleurs, pour les jongleurs. Dans l’idéal, chacun offre de son temps et de son expertise gratuitement, se responsabilise et facilite le bon déroulement de l’événement. Tout le monde peut progresser dans sa discipline, mais chacun choisit sa propre aventure.
-
-[Retour au sommaire]( 	/organiser-une-convention)
