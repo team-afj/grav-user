@@ -99,7 +99,7 @@ cache:
   enabled: true
   check:
     method: hash
-  driver: apcu
+  driver: file
   prefix: g
   purge_at: '0 4 * * *'
   clear_at: '0 3 * * *'
