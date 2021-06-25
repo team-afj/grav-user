@@ -19,7 +19,7 @@ published: true
 * > [Avant la convention – Les tâches fréquentes]( 	/organiser-une-convention/avant-la-convention-les-taches-frequentes)
 * > [Au moins la veille de la convention]( 	/organiser-une-convention/au-moins-la-veille-de-la-convention)
 * > [Pendant la convention]( 	/organiser-une-convention/pendant-la-convention)	
-* > Après la convention
+* > [Après la convention]( 	/organiser-une-convention/apres-la-convention)
 * > [Liens et téléchargements utiles]( 	/organiser-une-convention/liens-utiles)
 
 
