@@ -9,7 +9,7 @@ published: true
 
 * > [Avant-propos]( 	/organiser-une-convention/avant-propos)	
 * > [Remerciements]( 	/organiser-une-convention/remerciements)	 	
-* > Introduction	
+* > [Introduction]( 	/organiser-une-convention/introduction)	
 * > Pré-requis nécessaires
 * > Avant la convention – Les tâches fondamentales
 * > Avant la convention – Les tâche fréquentes
