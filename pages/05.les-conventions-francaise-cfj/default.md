@@ -9,50 +9,54 @@ Ahhh les CFJ ! C’est toujours une occasion de retrouver des amis, faire de nou
 Voici un bref historique des dates et des lieux des conventions françaises de jonglerie (CFJ).
 
 1ère Convention Française / Carvin (62)
-du au 2008
+du 21 au 27 juillet 2008
 organisée par le Cirque du Bout du Monde 
 
 2ème Convention Française / Carvin (62)
-du au 2009
+du 22 au 26 juillet 2009
 organisée par le Cirque du Bout du Monde
 
-3ème Convention Française / Nantes (44)
-du au
-organisée par
+3ème Convention Française "West Coast Convention" / Nantes (44)
+du 20 au 27 juin 2010
+organisée par Archiballes et le Cajo
 	
-4ème Convention Française / Rennes (35)
+4ème Convention Française "Bigoud'N'Jongle" / Vezin-le-Coquet (35)
 du 10 au 17 juillet 2011 
-organisée par
+organisée par l'association Jongle & Rit
 
-5ème Convention Française "Boudu" / Toulouse (31)
-du au 2012
+5ème Convention Française "Boudu la jongle" / Toulouse (31)
+du 10 au 15 juillet 2012
+organisée par l'association ParHazArt
+
+(_En 2013, la CFJ a été remplacée par la 36ème convention européenne de jonglerie l'EJC) _/ Toulouse (31)
+du 27 juillet au 3 août 2013
 organisée par l'association ParHazArt
 	
-6èmeConvention Française "Mamagabe" / Poitiers (86)
-du au 2014
+6ème Convention Française "Mamagabe" / Poitiers (86)
+du 26 au 31 aout 2014
 organisée par l'association Mamagabe
 
-7ème Convention Française "Les Irreductibles" / Colinée (22)
-du au 2015
-organisée par Les Irreductibles
+7ème Convention Française "Les Irréductibles" / Colinée (22)
+du 28 juillet au 2 août 2015
+organisée par Les Irréductibles
 
 8ème Convention Française "Jongl’ Ô Païs" / Vanosc (07)
-du au 2016
+du 13 au 17 juillet 2016
 organisée par La Ribouldingue
 
-9ème Convention Française "Cirkouest" / ? (44)
-du au 2017
-organisée par l'association Cirkouest 
+9ème Convention Française "West Coast Convention" / Saint Viaud (44)
+du 12 au 16 juillet 2017
+organisée par le collectif Cirkouest 
 
 10ème Convention Française "Au Bout Des Doigts" / Ambérieu-en-Bugey (01)
-du au 2018
+du 13 au 19 juillet 2018
 organisée par l’association Ajil
 
 11ème Convention Française "Bigoud'N'Jongle" / Vezin-le-Coquet (35)
 du au 2019
 organisée par l'association Jongle & Rit
 
-12ème Convention Française "Glühwein" / Habsheim (68)
+12ème Convention Française "Glühwein-convention" / Habsheim (68)
 du 29.12.2019 au 03.01.2020
 organisée par l'association française de jonglerie, l'association des nazes, l'association Pyrocircus, et l'association Chill'Ubik 
 
