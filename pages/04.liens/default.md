@@ -3,17 +3,17 @@ title: Liens
 published: true
 ---
 
-# Liens
+### Liens
 
-## Sites généralistes francophones
+##### Sites généralistes francophones
 
 [Association Suisse de Jonglerie](http://www.juggling.ch/index_fr.html)
 
 [Jongle.net](http://www.jongle.net/)
 
 [Maison des Jonglages](http://maisondesjonglages.fr/fr)
-
-## Sites généralistes anglophones
+ 
+##### Sites généralistes anglophones
 
 [Association Européenne de Jonglerie (EJA)](https://www.eja.net/)
 
@@ -23,7 +23,7 @@ published: true
 
 [Juggling Information Service](http://www.juggling.org/)
 
-## Sites et chaînes de vidéos de jongle
+##### Sites et chaînes de vidéos de jongle
 
 [Circopedia](http://www.circopedia.org/Main_Page)
 
@@ -35,7 +35,7 @@ published: true
 
 [The ministry of manipulation](http://www.ministryofmanipulation.com/)
 
-## Sites de vendeurs de matériel de jongle
+##### Sites de vendeurs de matériel de jongle
 
 [Flowtoys](https://flowtoys.com/)
 
