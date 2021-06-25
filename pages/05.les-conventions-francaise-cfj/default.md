@@ -53,7 +53,7 @@ du 13 au 19 juillet 2018
 organisée par l’association Ajil
 
 11ème Convention Française "Bigoud'N'Jongle" / Vezin-le-Coquet (35)
-du au 2019
+du 23 au 28 juillet 2019
 organisée par l'association Jongle & Rit
 
 12ème Convention Française "Glühwein-convention" / Habsheim (68)
