@@ -98,8 +98,8 @@ pages:
 cache:
   enabled: true
   check:
-    method: file
-  driver: file
+    method: hash
+  driver: apcu
   prefix: g
   purge_at: '0 4 * * *'
   clear_at: '0 3 * * *'
