@@ -15,7 +15,7 @@ published: true
 * > [Remerciements]( 	/organiser-une-convention/remerciements)	 	
 * > [Introduction]( 	/organiser-une-convention/introduction)	
 * > [Pré-requis nécessaires]( 	/organiser-une-convention/pre-requis-necessaires)
-* > Avant la convention – Les tâches fondamentales
+* > [Avant la convention – Les tâches fondamentales]( 	/organiser-une-convention/avant-la-convention-les-taches-fondamentales)
 * > Avant la convention – Les tâches fréquentes
 * > Au moins la veille de la convention	
 * > Pendant la convention	
