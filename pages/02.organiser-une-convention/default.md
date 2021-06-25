@@ -22,7 +22,7 @@ published: true
 * > [Après la convention]( 	/organiser-une-convention/apres-la-convention)
 * > [Liens et téléchargements utiles]( 	/organiser-une-convention/liens-utiles)
 
-# Guide de l'organisateur de convention de jonglerie - par thématiques organisationnelles
+# Guide de l'organisateur de convention de jonglerie - par thématiques de l'organisation
 
 * > Les jeux de la jongle
 * > La décoration
