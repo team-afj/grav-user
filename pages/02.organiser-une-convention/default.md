@@ -24,7 +24,7 @@ published: true
 
 # Guide de l'organisateur de convention de jonglerie - par thématiques de l'organisation
 
-* > L'accueil
+* > [L'accueil]( 	/organiser-une-convention/accueil)
 * > Les jeux de la jongle
 * > La décoration
 
