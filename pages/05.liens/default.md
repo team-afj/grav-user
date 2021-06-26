@@ -29,6 +29,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Circopedia](http://www.circopedia.org/Main_Page)
 
+[Chaîne YT d'Eloi P.](https://www.youtube.com/channel/UC12ztoIIOOs4c0B0d_g-cmQ)
+
 [Jonglage.net](https://www.jonglage.net/)
 
 [Juggling.tv](https://juggling.tv/)
