@@ -52,6 +52,7 @@ Une fois que le compte rendu est envoyé à tous les autres organisateurs, chacu
 Maintenant que vous avez défini vos besoins et vos moyens généraux, il s’agit de les concrétiser… Pour se faire, nous vous conseillons de vous appuyer sur les conseils qui vont suivre et sur les compte-rendu de vos réunions. Les besoins et les moyens du montage du projet (humains techniques, financiers, lieu, dates…) devraient à terme être rédigés et compilés dans un document qui vous servira à répondre aux différentes questions sur la convention, des organisateurs, des bénévoles, des partenaires, des médias et des pouvoirs publics. La suite détaille plus précisément les tâches à effectuer pour le montage de ce dossier.
 
 Exemple de dossier de présentation: [CFJ2020 Dossier de présentation.pdf](CFJ2020%20Dossier%20de%20pr%C3%A9sentation.pdf)
+
 Remarque importante: à cette étape du montage de l'événement, le dossier n'a pas besoin d'être aussi fourni que l'exemple ci-joint. Néanmoins, il permet de se faire une idée des questions à ce poser en réunions.
 
 ##### **3)	Trouver un lieu et une date**
