@@ -6,7 +6,7 @@ title: 'Les conventions françaises "CFJ"'
 
 "_Ahhh les CFJ ! C’est toujours une occasion de retrouver des amis, faire de nouvelles rencontres, en prendre plein les yeux et les mains pendant une semaine ! On peut venir de loin, prévoir un petit voyage, venir avec des copains, repartir avec d’autres, c’est toujours un moment inoubliable_".
 
-##### Qu'est-ce que la convention française de jonglerie (CFJ)  ?
+##### Qu'est-ce que la Convention Française de Jonglerie (CFJ)  ?
 
 La Convention Française de Jonglerie (CFJ) _ou French Juggling Convention (FJC)_, est la convention nationale française de jonglerie.
 
@@ -17,7 +17,7 @@ Il en va, bien évidemment, de même en ce qui concerne l'appellation "Conventio
 
 La CFJ est accueillie chaque année dans une commune différente de France, se déroule pendant une semaine environ et est organisée la plupart du temps par des associations organisatrices de convention régionale de jonglerie déjà existante.
 
-Pour déterminer qui accueillera la prochaine CFJ, les différentes organisations volontaires candidatent auprès de l'AFJ. La décision finale est prise lors d'un vote de l'assemblée générale de l'AFJ, qui se déroule pendant la CFJ en cours (_Remarque: toutes les personnes présentes lors de l'AG peuvent voter, peu importe quelle soit membres ou non de l'AFJ_).
+Pour déterminer qui accueillera la prochaine CFJ, les différentes organisations volontaires candidatent auprès de l'AFJ. La décision finale est prise lors d'un vote de l'assemblée générale de l'AFJ, qui se déroule pendant la CFJ en cours (_Remarque: toutes les personnes présentes lors de l'AG peuvent voter, peu importe quelle soit membre ou non de l'AFJ_).
 
 
 **Voici un bref historique des dates, lieux et associations organisatrices des CFJ passées**
