@@ -1,8 +1,9 @@
 ---
 title: 'Avant la convention – Les tâches fondamentales'
+media_order: budget_prev.jpg
 ---
 
-### Avant la convention – Les tâches fondamentales
+![budget_prev](budget_prev.jpg "budget_prev")### Avant la convention – Les tâches fondamentales
 
 L’architecture de l’organisation repose sur un équilibre harmonieux entre plusieurs piliers distincts, mais fondamentaux. La convention repose sur les envies, les idées et sur le temps que l’on consacre à sa préparation. De même, elle repose sur les moyens de l’association (humains, techniques et financiers) et sur le lieu et les dates de l’événement. Enfin, la convention dépend du nombre de participants.
 
