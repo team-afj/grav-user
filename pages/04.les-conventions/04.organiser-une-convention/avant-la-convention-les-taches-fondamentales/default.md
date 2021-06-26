@@ -54,9 +54,9 @@ Maintenant que vous avez défini vos besoins et vos moyens généraux, il s’ag
 
 **C’est une phase très importante de l’organisation. Il faut prévoir un temps suffisant pour rechercher le site adéquat.  **
 
-Posez-vous d’abord la question de la période de l’année à laquelle vous voulez organiser votre convention ! Selon la région et la période de l’année, le climat peut être plus ou moins clément. Vous pouvez organiser une convention qui se déroulera 100 % à l’intérieur, ou 100 % à l’extérieur, ou faire un mixe des deux. À l’intérieur, il faut suffisamment de hauteur de plafond pour pouvoir jongler. À l’extérieur, il faut veiller plus attentivement à la sécurité des participants et du site en général : Canicule ? Pluie ? Froid ? Faut-il des barrières Heras ?, faut-il des toilettes sèches ?, Y a-t-il un accès à l’eau potable ? Douches extérieures ? Accès à l’électricité (ou groupe électrogène)? Camping (tentes, camion) ? Chapiteau ? Tonnelles ? Restauration (pensez à prendre en compte le climat quand on compare les consommations de bar) ?
+Posez-vous d’abord la question de la période de l’année à laquelle vous voulez organiser votre convention ! Selon la région et la période de l’année, le climat peut être plus ou moins clément. Vous pouvez organiser une convention qui se déroulera 100 % à l’intérieur, ou 100 % à l’extérieur, ou faire un mixe des deux. À l’intérieur, il faut suffisamment de hauteur de plafond pour pouvoir jongler. À l’extérieur, il faut veiller plus attentivement à la sécurité des participants et du site en général : Canicule ? Pluie ? Froid ? Faut-il des barrières Heras ?, faut-il des toilettes sèches ?, Y a-t-il un accès à l’eau potable ? Douches extérieures ? Accès à l’électricité (ou groupe électrogène)? Camping (tentes, camion) ? Parking ? Chapiteau ? Tonnelles ? Bar et Restauration (pensez à prendre en compte le climat quand on compare les consommations du bar et aussi les menus pour la restauration) ?
 	
-Une fois que vous avez choisi la configuration du site, il faut le trouver ! Renseignez-vous pour connaître les endroits potentiels : sur Internet, chez vos amis, les histoires du week-end de vos collègues, les lieux de fêtes et festivals de vos régions… 
+Une fois que vous avez choisi la configuration du site, il faut le trouver ! Renseignez-vous pour connaître les endroits potentiels : sur Internet (n’hésitez pas à regarder la cartographie, les images satellites… sur [géoportail](https://www.geoportail.gouv.fr/) par exemple, pour voir la taille des terrains, la surface des salles, la distance avec le voisinage...), chez vos amis, les histoires du week-end de vos collègues, les lieux de fêtes et festivals de vos régions… 
 
 Une fois que vous avez trouvé un ou plusieurs site(s) potentiel(s), il faut trouver le contact des gérants du site et les contacter.
 
@@ -66,4 +66,23 @@ Le petit conseil que l’on peut vous donner, c’est d’essayer d’avoir le s
 
 Trouver ensuite, la personne qui s’occupe de contacter les mairies pour convenir d’un rendez-vous pour expliquer le projet. Et définir qui, par la suite, assure le contact avec la ville d’accueil définitive et assure la gestion du site et des salles. Il faudra prendre rendez-vous pour une visite du site (pensez à prendre des photos ou vidéos) et éventuellement prendre rendez-vous avec les services techniques de la ville. Renseignez-vous afin de connaître la date et l’heure à laquelle vous pouvez occuper le site et à quelle date vous devez quitter et faire l’état des lieux. Voir pour les clefs, les alarmes, l’inventaire du matériel à disposition, les équipements de cuisine (fours, plaques de cuisson, réfrigérateurs …), les poubelles, la caution, les branchements électriques…
 
-Les questions à poser au propriétaire du site sont des critères nécessaires à la réalisation de la convention. Pour 300 jongleurs :
+Les questions à poser au propriétaire du site devraient concerner les critères nécessaires à la réalisation de la convention. 
+Par exemple, voici une liste de critères nécessaires et les questions techniques et budgétaires à poser pour une convention de 300 jongleurs, pendant 3 jours (pour avoir un confort convenable pour tous) :
+- Grande salle ouverte 24h/24 (min 800m², si une seule salle ; min 400m² si deux salles) avec un haut plafond
+- Cuisine équipée
+- Sleeping ou camping pour 300 personnes
+- Toilettes et Douches
+- Chauffage (selon la période de l'année et le lieu géographique de la convention)
+- Scène de spectacle (avec du plafond)
+- Lieu de stockage fermé à clef (pour certains matériels précieux pendant la convention)
+- Lumières
+- Tarifs et conditions pour l’ensemble des jours de la convention
+- Listing du matériel à disposition
+- Date de mise à disposition des lieux (début et fin)
+- Contact de la personne coordinatrice de la mairie (attaché culturelle + service technique)
+
+
+
+
+
+
