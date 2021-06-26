@@ -8,6 +8,7 @@ media_order: VOLLEY.pdf
 Si vous avez faits tous les points précédents, vous devriez déjà avoir de quoi faire une convention ! Cette section présente les autres tâches qui sont fréquentes, mais pas forcément nécessaire à une convention.
 
 **●	Les recherches de subventions**
+
 	Si besoin est, vous pouvez faire des demandes de subventions pour financer la convention. De nombreux organismes sont susceptibles d’être intéressés par votre projet. Répondez aux différents appels à projets auxquels vous pouvez prétendre.
 	Voici une liste non-exhaustive des partenaires financiers que vous pouvez solliciter (j’ai essayé de les classer par thématiques) : 
 -	Animation locale : commune, intercommunalité, entreprise locale (partenariat financier ou en nature), Financement Européen (LEADER, mais attention c’est compliqué et chronophage)
