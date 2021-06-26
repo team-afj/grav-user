@@ -4,16 +4,21 @@ title: 'Les conventions françaises "CFJ"'
 
 ### Les conventions françaises de jonglerie "CFJ"
 
-Ahhh les CFJ ! C’est toujours une occasion de retrouver des amis, faire de nouvelles rencontres, en prendre plein les yeux et les mains pendant une semaine ! On peut venir de loin, prévoir un petit voyage, venir avec des copains, repartir avec d’autres, c’est toujours un moment inoubliable.
+"_Ahhh les CFJ ! C’est toujours une occasion de retrouver des amis, faire de nouvelles rencontres, en prendre plein les yeux et les mains pendant une semaine ! On peut venir de loin, prévoir un petit voyage, venir avec des copains, repartir avec d’autres, c’est toujours un moment inoubliable_".
 
 ##### Qu'est-ce que la convention française de jonglerie (CFJ)  ?
 
-La Convention Française de Jonglerie (CFJ) _ou French Juggling Convention (FJC)_, est la convention nationale française.
+La Convention Française de Jonglerie (CFJ) _ou French Juggling Convention (FJC)_, est la convention nationale française de jonglerie.
 
-A l'instar de plusieurs autres pays, tels que le Royaume-Uni avec la "_British Juggling Convention_" (BJC), le Japon avec le "_Japan Juggling Festival_" (JJF), Israël avec la "_Israeli Juggling Convention_" (IJC),  la Turquie avec la "_Turkish Juggling Convention_" (TJC)... l'appellation "_Convention française_" fait référence à la convention nationale d'un pays et se distingue donc d'une convention régionale qui aurait lieu dans ce même pays. 
-Il en va, bien évidemment de même en ce qui concerne l'appellation "Convention Européenne de Jonglerie" (_European Juggling Convention_, EJC) qui se déroule une fois par an dans un pays européen.
+Tout comme plusieurs autres pays, tels que le Royaume-Uni avec la "_British Juggling Convention_" (BJC), le Japon avec le "_Japan Juggling Festival_" (JJF), Israël avec la "_Israeli Juggling Convention_" (IJC),  la Turquie avec la "_Turkish Juggling Convention_" (TJC)... l'appellation "_Convention française_" fait référence à la convention nationale d'un pays et se distingue donc d'une convention régionale qui aurait lieu dans ce même pays. 
+Il en va, bien évidemment, de même en ce qui concerne l'appellation "Convention Européenne de Jonglerie" (_European Juggling Convention_, EJC) qui se déroule une fois par an dans un pays européen et se distingue à la fois e la convention nationale et des conventions régionales de ce même pays.
 
-La CFJ est accueillie chaque année par une ville différente de France, se déroule pendant une semaine environ et est organisée la plupart du temps par des associations organisatrices de conventions de jonglerie régionale déjà existante.
+#### La CFJ : qui, quoi, quand, où, comment ?  
+
+La CFJ est accueillie chaque année dans une commune différente de France, se déroule pendant une semaine environ et est organisée la plupart du temps par des associations organisatrices de conventions de jonglerie régionale déjà existante.
+
+Pour déterminer qui accueillera la prochaine CFJ, les différentes organisations volontaires candidatent auprès de l'AFJ. La décision finale est prise lors d'un vote de l'assemblée générale de l'AFJ, qui se déroule pendant la CFJ en cours (_Remarque: toutes les personnes présentes lors de l'AG peuvent voter, peu importe quelle soit membres ou non de l'AFJ_).
+
 
 **Voici un bref historique des dates, lieux et associations organisatrices des CFJ passées**
 
