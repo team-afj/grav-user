@@ -107,3 +107,36 @@ Il faut se poser plusieurs questions :
 Exemple de budget prévisionnel:
 
 ![budget_prev](budget_prev.jpg "budget_prev")
+
+Attention : le budget prévisionnel présenté aux partenaires doit être à l’équilibre. Néanmoins il est possible d’avoir un budget légèrement différent en interne : comme habituellement les financeurs donnent moins que le montant des demandes, vous pourrez avoir moins de ressources que prévues, et donc il faudra diminuer certaines charges.
+
+##### **6)	DEFINIR LA PROGRAMMATION**
+
+Qu’est ce qui va se passer jour par jour  ?
+
+##### **7)	DEFINIR LES MOYENS HUMAINS **
+
+Combien de personnes organisent, combien sont bénévoles (en amont ?, en aval ?) ; qui fait quoi ?...
+Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir de définir des référents par pôle :
+●	superviseur général (gestion du projet et de l’équipe, gestion des plannings organisateurs, bénévoles et volontaire, planning montage et démontage…)
+●	réunions (communication de la date, ordre du jour, compte rendu…)  
+●	administratif et financier (subventions, bilan, autorisations...)
+●	communication (mairie, journaliste, conventionniste…)
+●	logistique & développement durable (site, électricité, coin orga, artistes et bénévoles, chapiteaux, tentes, barrières, services municipaux, chill-out, toilettes sèches, poubelles de tri, déchet, recyclage...) 
+●	décoration et signalétique
+●	sécurité
+●	technique scénique
+●	plateau artistique
+●	cuisine (récup en amont + menu + gestion en aval)
+●	petit-déjeuner
+●	accueil des conventionnistes (préinscriptions, tarifs, badges, billetterie, goodies...)
+●	buvette
+●	scène ouverte
+●	renegade
+●	espace feu 
+●	workshop
+●	jeux de la jongle 
+●	musique et concerts
+●	animation cirque des enfants
+
+
