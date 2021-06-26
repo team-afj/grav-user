@@ -1,5 +1,6 @@
 ---
 title: 'L''accueil'
+media_order: ex.planning.jpg
 ---
 
 ### L’organisation du pôle accueil en convention
@@ -55,7 +56,6 @@ Compétences :
 - Être en interaction avec d’autres pôles (pôle orga générale + pôle bénévole + pôle artistique + pôle merchandising …).
 - Savoir déléguer.
 
-
 **Les « super-bénévoles » :**
 
 Combien ? : Variable selon la taille et les besoins de la convention (fréquentation et durée).
@@ -70,7 +70,6 @@ Compétences :
 - Parler plusieurs langues.
 - Prise d'initiative.
 - Savoir résoudre des problèmes et gérer des conflits.
-
 
 **Les bénévoles :**
 
@@ -153,7 +152,9 @@ Devrait apparaitre sur ce listing, au minimum : nom, prénom, e-mail et numéro 
 **Créer un planning bénévole. **
 
 Ayez un calendrier avec les horaires précises à occuper pour chaque poste à pourvoir.
-Exemple de planning: Voir page suivante ou [document Excel: planning bénévole]
+Exemple de planning:
+
+![ex.planning](ex.planning.jpg "ex.planning")
 
 Informer les bénévole et garder le contact avec eux.
 - Une fois qu’on a le listing et les horaires d’ouverture (planning), il faut contacter les bénévoles, leurs donner des informations (dates, fiche de postes, gratifications bénévoles…), envoyer le planning (pour qu'ils puissent remplir les temps qui leur conviennent) et répondez à leurs questions. Remarque: voir la partie « Pré-inscription », pour décider si on met en place un questionnaire de recrutement bénévole en ligne.
