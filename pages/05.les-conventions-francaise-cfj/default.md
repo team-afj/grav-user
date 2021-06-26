@@ -3,8 +3,17 @@ title: 'Les conventions françaises "CFJ"'
 ---
 
 ### Les conventions françaises de jonglerie "CFJ"
+ 
+#### La CFJ : Pourquoi ?
 
+**Point de vue d'un jongleur lambda :**
 "_Ahhh les CFJ ! C’est toujours une occasion de retrouver des amis, faire de nouvelles rencontres, en prendre plein les yeux et les mains pendant une semaine ! On peut venir de loin, prévoir un petit voyage, venir avec des copains, repartir avec d’autres, c’est toujours un moment inoubliable_".
+
+**Point de vue des organisateurs potentiels :**
+C'est un bon moyen de faire une grande et belle convention (encore plus que d'habitude). La plupart du temps, elle dure plus longtemps, attire plus de participants, la programmation est plus fournie et de meilleure qualité qu'une convention régionale... car son prix et le budget alloué est lui aussi en général, plus conséquent. Mais attention : l'implication des organisateurs et des bénévoles et des pouvoirs publics est elle aussi en générale supérieure à une convention régionale.
+
+**Point de vue de la commune d'accueil :**
+C'est un bon moyen de donner un coup de projecteur culturel sympathique, car la CFJ est destinée à tous les publics et propose une offre d'activité et de spectacles intéressante. Et comme la CFJ attire plus de participants, les commerces de proximité en profitent également. C'est du gagnant-gagnant pour toutes les parties prenantes.
 
 ##### Qu'est-ce que la Convention Française de Jonglerie (CFJ)  ?
 
