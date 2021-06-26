@@ -302,10 +302,37 @@ Gestion et management de l’équipe-accueil – POSTES et PLANNING.
 Installation du matériel « sensible ».
 Installation du fond de caisse, des caisses, des passes, tickets, listing …
 
+**Ouverture**
 
+« Billetterie Pré-inscription »
+Nombre de personne. Tâches à effectuer: Accueillir le public préinscrit, cocher le listing des entrées (préventes, orgas, artistes et invitations), leur donner un passe (ou une enveloppe avec tout (passes, tickets spectacle, programme, plan …)) et répondre à leurs questions. Compétences: parler plusieurs langues, avoir le sourire, connaître les principales informations sur la convention (indiqué sur la fiche de poste). 
 
+« Billetterie des non-pré-inscription »
+Nombre de personne. Tâches à effectuer: Accueillir le public non-préinscrit en leur faisant remplir le listing des entrées, les encaisser du montant de l’entrée, leur donner un passe ou un ticket spectacle et répondre à leur questions. Compétences: parler plusieurs langues, avoir le sourire, connaître les principales informations sur la convention (indiqué sur la fiche de poste).
 
+« Stand Merchandising »
+Nombre de personne. Tâches à effectuer: Renseigner sur les produits à vendre, encaisser de l’argent. Compétences: parler plusieurs langues, avoir le sourire, gérer une caisse et de l’argent, connaître les tarifs des produits à vendre, les tailles, couleurs …
 
+« Jetons »
+Nombre de personne. Tâches à effectuer: Echanger des jetons (monnaie de la convention) contre de l’argent. Compétences: parler plusieurs langues, avoir le sourire, gérer une caisse et de l’argent.
 
+« Info-point » 
+Nombre de personne. Tâches à effectuer: Répondre à toutes sortes de questions, transmettre des informations, gérer les objets trouvés, … Compétences: parler plusieurs langues, avoir le sourire, résoudre des problèmes.
 
+« Renfort » 
+Nombre de personne. Tâches à effectuer: Etre capable de faire n’importe quel poste de l’accueil. Compétences: celles de chaque poste.
 
+**Fermeture de l’accueil**
+
+Vidage caisse.
+Ce comptage caisse s'effectue à deux personnes avec documents de tenues de caisse à l'appuie, signé et rangé dans le classeur.
+
+Rangement.
+Il faut ranger toute la billetterie (listing, passes…), les jetons, le merchandising, les objets trouvés…  
+
+Sécurisation.
+Lorsque l’accueil est fermé, il faut un moyen de sécuriser le stock, les laissez-passer, les billets, le merchandising...
+Le responsable ferme l'accueil.
+
+**Démontage et rangement**
+Comme le titre l'indique !
