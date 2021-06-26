@@ -87,10 +87,13 @@ Dernier point, histoire de ne pas vous faire avoir ou de répondre à la premiè
 -	Voir quel matériel il faut prévoir (fil, boule, monocycle, balles, massues, diabolo, bâton du diable, tapis de gym, de quoi faire boire les enfants...)
 -	Qui peut être présent pour animer l'atelier ?
 -	Quelles animations faire pendant l'atelier ?
+
 Voici des rapports sur le cirque à l’école, qui peuvent éventuellement donner des pistes de réflexion :
-http://ww2.ac-poitiers.fr/ia17-pedagogie/IMG/pdf/cirque_ec_elem_-1.pdf
-http://crdp.ac-bordeaux.fr/cddp24/cirque/cirque_ecole.pdf
-http://www.ien-guyancourt.ac-versailles.fr/IMG/pdf/le_cirque_a_lecole.pdf
+
+[Les activités de cirque à l’école primaire](http://ww2.ac-poitiers.fr/dsden17-pedagogie/IMG/pdf/cirque_ec_elem_-1.pdf)
+
+[« CIRQUE A L’ECOLE » une approche corporelle](http://www.ien-guyancourt.ac-versailles.fr/IMG/pdf/le_cirque_a_lecole.pdf)
+
 
 **●	L’espace enfant **
 
