@@ -3,26 +3,26 @@ title: 'Les conventions françaises "CFJ"'
 ---
 
 ### Les conventions françaises de jonglerie "CFJ"
- 
-#### La CFJ : Pourquoi ?
 
-**Point de vue d'un jongleur lambda :**
-"_Ahhh les CFJ ! C’est toujours une occasion de retrouver des amis, faire de nouvelles rencontres, en prendre plein les yeux et les mains pendant une semaine ! On peut venir de loin, prévoir un petit voyage, venir avec des copains, repartir avec d’autres, c’est toujours un moment inoubliable_".
-
-**Point de vue des organisateurs potentiels :**
-C'est un bon moyen de faire une grande et belle convention (encore plus que d'habitude). La plupart du temps, elle dure plus longtemps, attire plus de participants, la programmation est plus fournie et de meilleure qualité qu'une convention régionale... car son prix et le budget alloué est lui aussi en général, plus conséquent. Mais attention : l'implication des organisateurs et des bénévoles et des pouvoirs publics est elle aussi en générale supérieure à une convention régionale.
-
-**Point de vue de la commune d'accueil :**
-C'est un bon moyen de donner un coup de projecteur culturel sympathique, car la CFJ est destinée à tous les publics et propose une offre d'activité et de spectacles intéressante. Et comme la CFJ attire plus de participants, les commerces de proximité en profitent également. C'est du gagnant-gagnant pour toutes les parties prenantes.
-
-##### Qu'est-ce que la Convention Française de Jonglerie (CFJ)  ?
+#### La CFJ: c'est quoi  ?
 
 La Convention Française de Jonglerie (CFJ) _ou French Juggling Convention (FJC)_, est la convention nationale française de jonglerie.
 
 Tout comme plusieurs autres pays, tels que le Royaume-Uni avec la "_British Juggling Convention_" (BJC), le Japon avec le "_Japan Juggling Festival_" (JJF), Israël avec la "_Israeli Juggling Convention_" (IJC),  la Turquie avec la "_Turkish Juggling Convention_" (TJC)... l'appellation "_Convention française_" fait référence à la convention nationale d'un pays et se distingue donc d'une convention régionale qui aurait lieu dans ce même pays. 
 Il en va, bien évidemment, de même en ce qui concerne l'appellation "Convention Européenne de Jonglerie" (_European Juggling Convention_, EJC) qui se déroule une fois par an dans un pays européen et se distingue à la fois e la convention nationale et des conventions régionales de ce même pays.
+ 
+#### La CFJ : Pourquoi ?
 
-#### La CFJ : qui, quoi, quand, où, comment ?  
+**Point de vue d'un jongleur lambda :**
+"_Ahhh les CFJ ! C’est toujours une occasion de retrouver des amis, de faire de nouvelles rencontres, en prendre plein les yeux et les mains pendant une semaine ! On peut venir de loin, prévoir un petit voyage, venir avec des copains, repartir avec d’autres, c’est toujours un moment inoubliable_".
+
+**Point de vue des organisateurs potentiels :**
+C'est un bon moyen de faire une grande et belle convention (encore plus que d'habitude). La plupart du temps, elle dure plus longtemps, attire plus de participants, la programmation est plus fournie et de meilleure qualité qu'une convention régionale... car son prix et le budget alloué sont eux aussi en général, plus conséquents. Mais attention : l'implication des organisateurs, des bénévoles et des pouvoirs publics est elle aussi en générale supérieure à une convention régionale.
+
+**Point de vue de la commune d'accueil :**
+C'est un bon moyen de donner un coup de projecteur culturel sympathique, car la CFJ est destinée à tous les publics et propose une offre d'activité et de spectacles intéressante. Et comme la CFJ attire plus de participants, les commerces de proximité en profitent également. C'est du gagnant-gagnant pour toutes les parties prenantes.
+
+#### La CFJ : c'est qui, quand, où, comment ?  
 
 La CFJ est accueillie chaque année dans une commune différente de France, se déroule pendant une semaine environ et est organisée la plupart du temps par des associations organisatrices de convention régionale de jonglerie déjà existante.
 
