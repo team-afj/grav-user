@@ -156,7 +156,8 @@ Exemple de planning:
 
 ![ex.planning](ex.planning.jpg "ex.planning")
 
-Informer les bénévole et garder le contact avec eux.
+**Informer les bénévole et garder le contact avec eux.**
+
 - Une fois qu’on a le listing et les horaires d’ouverture (planning), il faut contacter les bénévoles, leurs donner des informations (dates, fiche de postes, gratifications bénévoles…), envoyer le planning (pour qu'ils puissent remplir les temps qui leur conviennent) et répondez à leurs questions. Remarque: voir la partie « Pré-inscription », pour décider si on met en place un questionnaire de recrutement bénévole en ligne.
 Après réponse de leur part, informer les bénévoles en leur envoyant le planning avec leurs horaires pour valider avec eux et rester en contact.
 - Si les bénévoles ont un pass, on peut prévoir de mettre au dos la liste des responsables de pôles avec le numéro de téléphone (ou talkie-walkie).
