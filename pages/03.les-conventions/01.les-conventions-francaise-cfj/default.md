@@ -1,5 +1,5 @@
 ---
-title: 'Les conventions françaises "CFJ"'
+title: 'Conventions françaises "CFJ"'
 media_order: 'CFJ 01(2008).jpg,CFJ 02(2009).jpg,CFJ 03(2010).jpg,CFJ 04 (2011).jpg,CFJ 05 (2012).jpg,CFJ 06 (2014).jpg,CFJ 07(2015).jpg,CFJ 08 (2016).jpg,CFJ 09 (2017).png,CFJ 10(2018).jpg,index.jpg,CFJ12(2020).png.png,jop.jpg'
 ---
 
