@@ -19,6 +19,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Association Européenne de Jonglerie (EJA)](https://www.eja.net/)
 
+[Giocoleria.org](https://www.giocoleria.org/en/)
+
 [International Jugglers’ Association (IJA)](https://www.juggle.org/)
 
 [Juggle Wiki](https://juggle.fandom.com/wiki/Juggle_Wiki)
