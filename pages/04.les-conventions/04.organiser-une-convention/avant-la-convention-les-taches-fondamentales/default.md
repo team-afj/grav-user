@@ -84,6 +84,26 @@ Par exemple, voici une liste de critères nécessaires et les questions techniqu
 
 ##### **Nous vous recommandons très fortement d'avoir la confirmation de la réservation du site avant de faire les autres étapes.**
 
+##### **4)	DEFINIR LES MOYENS TECHNIQUES PRIMORDIAUX**
+
+Lister le matériel nécessaire de sonorisation, lumière, cuisine, restauration, décoration, sécurité… Réfléchissez à comment trouver le matériel, comment l’emmener sur place et comment le ramener.
+
+##### **5)	DEFINIR LES MOYENS FINANCIERS ET LE BUDGET PREVISIONNEL**
+
+Il faut se poser plusieurs questions :
+- Qu’est-ce qu’on doit acheter ? : faire la liste exhaustive de tous les achats prévisionnels 
+- Quel est le budget prévisionnel ? 
+- Comment sont répartis les bénéfices ou les pertes ?
+- …
+
+**●	Définir le budget prévisionnel**
+-	Qui se propose de centraliser les infos budgétaires (dépenses et recettes prévisionnelles) et de faire un tableau récapitulatif ? Le mieux, c’est que ce soit le trésorier de l’association, ou qu’une personne coordonne le pôle administratif et financier et que les charges soient réparties sur plusieurs personnes. C’est une sécurité en cas de défection.
+-	Et qui se propose de centraliser les recettes et dépenses réelles de faire un tableau récapitulatif ? Là aussi, le mieux c’est que ce soit le trésorier de l’association.
+
+	Attention : il faut avoir assez d'argent pour couvrir tous les dépôts dont vous avez besoin (fonds propres, dons, préinscriptions, subventions…).
+	Une fois que votre budget a été approuvé par l’équipe, le référent devrait essayer d'obtenir autant de confirmations que possible sur les dépenses. 
+
+Exemple de budget prévisionnel:
 
 
 
