@@ -91,7 +91,7 @@ Il est préférable de se mettre également en lien avec le pôle communication,
 
 ### AVANT LA CONVENTION
 
-##### **3a. Où, comment et avec quoi faire une pré-inscription ?**
+#### **3a. Où, comment et avec quoi faire une pré-inscription ?**
 
 **Gestion de la billetterie en pré-inscription :**
 Mise en place opérationnelle des pré-inscriptions :
@@ -115,7 +115,7 @@ le programme de la convention et le plan du site.
 Si pré-enregistré.e, pour le t-shirt il/elle reçoit un ticket pour le récupérer au stand merchandising.
 Cela peut être fait pour les artistes, les prestataires et les bénévoles (à voir avec le pôle bénévole et le pôle artiste).
 
-##### **3b. Où, comment et avec quoi faire un accueil ?**
+#### **3b. Où, comment et avec quoi faire un accueil ?**
 
 **Remarque générale concernant les bénévoles de l’accueil :**
 
