@@ -118,7 +118,7 @@ Cela peut être fait pour les artistes, les prestataires et les bénévoles (à 
 Monter une équipe bénévole se fait plusieurs mois avant la convention. La mise en place est réalisé conjointement par 
 le pôle accueil et le pôle bénévole pour définir les besoins et les capacités de ces ressources humaines.
 
-**Planifier le temps et les besoins en bénévoles (1/3) :**
+**Planifier le temps et les besoins en bénévoles :**
 
 Créer des fiches de poste. 
 Chaque fiche doit comprendre les instructions de ce que doivent faire les bénévoles, comment communiquer entre les responsables de pôles et les bénévoles et toute autre information pertinente. Vous pouvez les mettre par écrit (disponible à l’accueil), mais vous devez également demander aux gens de transmettre ces informations aux volontaires suivants, par le biais d'une initiation rapide.
@@ -135,6 +135,30 @@ Chaque fiche doit comprendre les instructions de ce que doivent faire les béné
 
 « Info-point » Nombre de personne: 1. Tâches à effectuer: Répondre à toutes sortes de questions, transmettre des informations, gérer les objets trouvés, … Compétences: parler plusieurs langues, avoir le sourire, résoudre des problèmes.
 
-« Renfort » Nombre de personne: 1. Tâches à effectuer: Être capable de faire n’importe quel poste de l’accueil. Compétences: celles de chaque poste.
+« Renfort » Nombre de personne: 1. Tâches à effectuer: Être capable de faire n’importe quel poste de l’accueil. Compétences: celles de chaque poste détaillé juste à l'instant.
+
+**Définir les horaires d'ouverture et de fermeture de l’accueil.**
+
+Pour définir les horaires il faut prendre en considération: 
+
+- La programmation (horaires d’ouverture publics pour spectacle, animation, concert…).
+- Le nombre total de bénévoles et d’orgas que l’on peut allouer sur ces postes (en prenant en considération que les orgas ont d’autres fiches de postes qui les concerne. Attention donc à ne pas surcharger les tâches à effectuer). Ne gaspillez pas vos volontaires... il n'est pas bon d'avoir sept personnes assises derrière l'inscription pendant deux heures, elles ne peuvent pas aider le reste de la journée. Mais en même temps, il faut faire attention aux périodes de rush (ouverture de la convention, soirée spectacles…), car il faut que les bénévoles soient en nombre suffisant pour assurer l’ensemble des postes et tâches, avec une certaine fluidité et un certain confort.
+- Il faut donc communiquer avec les responsables généraux, le pôle bénévoles (nombre et durée de bénévoles disponible), le pôle programmation (horaire d’ouverture stratégique), le pôle budget (catering) et le pôle merchandising (coût des t-shirts bénévoles) avant de définir les horaires de l’accueil, qui seront définies en fonction des besoins, des coûts et des capacités en ressources humaines.
+
+**Créer un listing bénévole. **
+
+Pour se faire, on peut se mettre en lien avec le pôle bénévole, qui pourra le cas échéant vous fournir ce listing.
+Devrait apparaitre sur ce listing, au minimum : nom, prénom, e-mail et numéro de téléphone.
+
+**Créer un planning bénévole. **
+
+Ayez un calendrier avec les horaires précises à occuper pour chaque poste à pourvoir.
+Exemple de planning: Voir page suivante ou [document Excel: planning bénévole]
+
+Informer les bénévole et garder le contact avec eux.
+- Une fois qu’on a le listing et les horaires d’ouverture (planning), il faut contacter les bénévoles, leurs donner des informations (dates, fiche de postes, gratifications bénévoles…), envoyer le planning (pour qu'ils puissent remplir les temps qui leur conviennent) et répondez à leurs questions. Remarque: voir la partie « Pré-inscription », pour décider si on met en place un questionnaire de recrutement bénévole en ligne.
+Après réponse de leur part, informer les bénévoles en leur envoyant le planning avec leurs horaires pour valider avec eux et rester en contact.
+- Si les bénévoles ont un pass, on peut prévoir de mettre au dos la liste des responsables de pôles avec le numéro de téléphone (ou talkie-walkie).
+Remarque: Cette partie peut aussi être réalisée par le pôle bénévole.
 
 
