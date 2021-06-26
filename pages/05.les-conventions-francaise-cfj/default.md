@@ -15,7 +15,7 @@ Il en va, bien évidemment, de même en ce qui concerne l'appellation "Conventio
 
 #### La CFJ : qui, quoi, quand, où, comment ?  
 
-La CFJ est accueillie chaque année dans une commune différente de France, se déroule pendant une semaine environ et est organisée la plupart du temps par des associations organisatrices de conventions de jonglerie régionale déjà existante.
+La CFJ est accueillie chaque année dans une commune différente de France, se déroule pendant une semaine environ et est organisée la plupart du temps par des associations organisatrices de convention régionale de jonglerie déjà existante.
 
 Pour déterminer qui accueillera la prochaine CFJ, les différentes organisations volontaires candidatent auprès de l'AFJ. La décision finale est prise lors d'un vote de l'assemblée générale de l'AFJ, qui se déroule pendant la CFJ en cours (_Remarque: toutes les personnes présentes lors de l'AG peuvent voter, peu importe quelle soit membres ou non de l'AFJ_).
 
