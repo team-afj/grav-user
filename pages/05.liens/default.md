@@ -1,5 +1,5 @@
 ---
-title: Liens
+title: 'Liens et contacts'
 published: true
 ---
 
