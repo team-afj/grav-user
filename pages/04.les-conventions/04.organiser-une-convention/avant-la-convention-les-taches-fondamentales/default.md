@@ -168,12 +168,12 @@ Pour pouvoir s’organiser, il faut savoir si toutes les différentes tâches on
 Le référent général voit comment l’ensemble des pôles évolue et décide s’il faut ou non recadrer, au cas par cas ou de manière plus globale.
 
 
-Voici une liste des différentes tâches fondamentales à réaliser :
+**Voici une liste des différentes tâches fondamentales à réaliser :**
 
-●	Le référent général
+**●	Le référent général**
 -	Si ce n’est pas encore fait, il faut désormais choisir une personne qui coordonne et redistribue les infos à l’ensemble du groupe pour faire régulièrement le point sur « où on en est ?» et « qu’est-ce qui reste à faire ?»
 
-●	Les tâches administratives
+**●	Les tâches administratives**
 -	Assurer l’évènement : téléphoner à l’assureur et lui demander une attestation temporaire d’évènement culturel, qui couvre toute la durée de l'évènement.
 -	Donner l’attestation d’assurance de l’évènement à la mairie (et en garder une copie) et demander une autorisation municipale ou préfectorale de débit de boisson (qu’il faudra avoir sur soi, en cas de contrôle) .
 -	Choisir une personne coordinatrice avec la mairie, et les services techniques de la ville, les médias…
@@ -182,7 +182,7 @@ Voici une liste des différentes tâches fondamentales à réaliser :
 -	Avant, pendant et après, récupérer toutes les factures, tickets de caisse et notes de frais pour chaque dépense inhérente à la convention permet de faire un budget réalisé complet.
 -	Prévenir les pompiers pour la scène feu…
 
-●	La communication
+**●	La communication**
 
 -	Faire un logo de la convention
 -	Faire une affiche de l’évènement (avec dates, lieu, prix)
@@ -196,6 +196,113 @@ Voici une liste des différentes tâches fondamentales à réaliser :
 -	Lancer et gérer les pré-inscriptions. Créer par exemple une boîte mail, permet de réceptionner les pré-inscriptions, répondre aux questions des conventionnistes, des bénévoles et artistes, de recevoir des propositions de numéros pour le gala, de workshops, de bénévoles... Pleins de jongleurs ont des questions avant de venir, donc il faut y répondre. 
 -	Demande d’autorisation parentale et photocopie de la pièce d’identité pour les mineurs non-accompagnés de leurs responsables légaux (ou demande de responsabilité civile par un adulte présent à la convention, mais qui n’est pas le responsable légal).
 -	Gérer l’après convention : bilan et remboursement, gestion des mails : matériel oublié et perdu et renvoi des affaires… Mise à jour des photos, vidéos et articles de presse sur le net.
+
+**●	Le camping ou le dortoir**
+-	Prévoir les conditions d’hébergement des organisateurs, artistes et conventionnistes : anticiper le nombre de participants pour s’assurer que l’espace convient et assurer la sécurité des personnes et des biens.
+-	Il faudra aussi veiller aux nuisances sonores : camping famille à part du camping fêtards, mais aussi attention aux éventuelles plaintes des voisins.
+
+**●	La cuisine et récup de fruits et légumes**
+-	Pour nourrir les organisateurs, bénévoles et artistes, il faut comptabiliser le nombre de personnes et le nombre de repas, demandez s’il y a des préférences alimentaires (végétarien, végétalien, halal, sans gluten… et faire des menus en avance).
+-	Faire le listing du matériel nécessaire : grandes casseroles, plats qui vont au four, percolateur, thermos, gobelets, bouilloires, couteaux, éplucheurs, planches à découper, serviettes, éponges, couverts, grande bassines pour la vaisselle, plan de travail…
+-	Faire de la récupération de fruits et légumes en fin de marché ou chez les producteurs en leurs expliquant que vous organiser une convention de jonglerie… 
+-	Est-ce qu’on propose une restauration sur place pour les jongleurs ? Si oui, quoi, comment ? Merci de penser aux végétariens et de penser au risque de gaspillage alimentaire.
+-	Pour trouver des producteurs, il est possible de contacter la Confédération Paysanne (syndicat d’agriculteurs qui défend une agriculture paysanne, respectueuse de l’environnement, de l’humain…), Nature & Progrès (une association de producteur et consommateur qui émet une mention plus restrictive que le label bio et qui prend en compte l’humain en plus du côté environnementale) ou le Groupement d’Agriculteurs Biologique.
+
+**●	Les petits déjeuners et les confitures**
+-	Commander le pain à l’avance à la boulangerie, en fonction du nombre de participants (exemple : pour 400 personnes, il faut 40 kg) pour deux petits déjeuners et les repas de l’équipe organisatrice
+-	Avoir un ou plusieurs percolateurs pour le café
+-	Faire éventuellement des confitures en avance avec des récupérations de fruits
+-	Installer le petit-déjeuner le matin pour que les jongleurs puissent se servir
+
+**●	L'accueil**
+L’accueil est un lieu important, c’est le premier lieu de rencontre entre l’organisation et les conventionistes. C’est également un lieu d’information et de vente des tickets d’entrée. Il faut donc lui attribuer une importance particulière. Idéalement, quelqu'un d'expérimenté sera responsable de l’accueil, arrivera tôt pour tout mettre en place, organiser l'espace, recruter une équipe de bénévoles dont il sait qu'il peut s'occuper, mettre des marchandises à portée de main, etc. Le responsable de l'accueil doit être en mesure de travailler à l’accueil (tout en sachant déléguer) - ce n'est donc pas un travail pour quelqu'un qui a d'autres responsabilités qui l'obligeront à se déplacer beaucoup sur le site. Pendant les périodes de grosses fréquentations, ce n'est pas un endroit pour quelqu'un qui n'a pas été briefé en amont.
+
+**Matériel et espace nécessaires :**
+Une zone bien choisie pour l’emplacement de l’accueil. Il faut beaucoup d'espace sécurisé derrière le bureau pour les marchandises, le stockage d'argent et les bénévoles. Idéalement, il y aura un accès facile et sécurisé de l'arrière de l’accueil du site pour l'encaissement. Prévoir d’évacuer l’argent de manière sécurisée et discrète pour qu’il n’y a pas trop d’argent à un moment donné (le premier soir par exemple). Le mieux est que l’argent quitte le site complètement.
+Lorsque l’accueil est fermé, il doit y avoir un moyen de sécuriser le stock, les laissez-passer, les billets et ainsi de suite lorsque le bureau est fermé, ainsi que fermer l’accueil lui-même pour préserver son état de chaos pour le lendemain matin. Des toilettes à proximité sont également utiles, tout comme un point d'alimentation pour les bouilloires / grille-pain.
+
+-	Deux tables ou zones séparées : une pour le paiement à la journée, une pour les préinscrits.
+-	Une table en plus pour la vente de T-shirts (s’il en a), la vente de jetons (s’il en a) et renseignements, c'est-à-dire le point information de la convention.
+-	Pass d’entrée : Trouver une idée + Faire environs 400 pass d’entrée + ticket d'entrée pour public extérieur
+-	Panneau d’affichage des tarifs. À bien réfléchir en amont : tarif réduit pour les enfants, tarifs à la journée, avec ou sans spectacle…
+-	Caisse d'entrée : 
+Il faut définir si vous optez pour des jetons ou pour de la monnaie. Si vous utilisez des jetons, vous pouvez contacter l’AFJ pour en avoir à disposition (afj.jonglerie@gmail.com). Si vous utilisez des euros, il faut prévoir un fond de caisse d’environ 300€ en pièces de 0.5€, 1€, 2€ et quelques billets de 5€
+-	Carton de gobelets recyclable (consigne = 1€)
+-	Avoir des documents pour informer les jongleurs (imprimer le programme et le plan de la ville pour les commerces, gare…)
+-	Stylos, markers, pinceaux, peinture, papier, carton, scotch, ficelle, pâte-à-fixe, punaises, agrafes, clous, marteau, pinces à linge, ciseaux, cutter...
+-	Avoir une liste et des enveloppes toutes prêtes pour toute personne pré-enregistrée : artistes, prestataire, bénévole, prépayé… Cela permet de gagner du temps le premier jour. L’enveloppe contient, le pass, les billets de spectacles, les éventuels tickets boisson et repas…
+-	Avoir une liste d'instructions pour les bénévoles : cela devrait inclure ce qu'ils doivent donner aux arrivants, comment contacter les organisateurs, et une transmission de toute autre information pertinente. Cela peut être écrit, mais vous devez également faire en sorte que les gens transmettent l'information à la prochaine série de volontaires, via une induction rapide.
+-	Monter une équipe de bénévoles pour servir à l’accueil pendant 3 jours. Et prévoir un moyen d’identifier les bénévoles (t-shirt, pass spécifique) si les bénévoles ont un pass prévoir de mettre au dos la liste des responsables de pôles avec le numéro de téléphone.
+
+**●	La sécurité**
+-	Il faut un référent et une équipe qualifiée pour assurer la sécurité 24h/24
+-	Faire une liste d’évaluation des risques et des mesures et actions à prendre pour les supprimer ou les atténuer (accident corporel, sanitaire, feu, inondation, infiltration d’eau, installation électrique, éclairage, circulation des personnes, matériels et véhicules…)
+-	Se constituer une trousse de premier secours (on peut aller en pharmacie par exemple)
+-	Avoir les numéros d’urgence et un plan d’évacuation, en cas de besoin
+-	Faire passer une commission de sécurité, si nécessaire
+
+**●	La décoration de la salle**
+-	Avec quoi on peut personnaliser la salle :
+	Une jolie décoration est importante pour donner de l’originalité et une identité visuelle à votre convention. Voici des trucs et astuces pour faire de la récupération et créer des décorations sympas et faciles.
+-	Des moquettes ! Elles peuvent être récupérées à la fin des salons des parcs d’exposition : elles sont souvent en bon état et en général conformes aux normes incendies. Les jongleurs seront heureux d’avoir un coin moquette pour jongler. 
+-	Les cendriers, plus il y en a et moins on perd de temps à la fin de la convention à courir après les mégots. Il faut qu’ils soient visibles et si possible qu’ils ne se renversent pas... Chacun ces préférences, mais les boîtes de conserve remplies de sable font bien l’affaire. On peut aussi fournir des cendriers de poche. Ils peuvent par exemple, être faits en récupération de bouchon. Il doit y avoir une vidéo sur le net pour voir comment on peut les faire. 
+-	Partenariat (invitations à venir voir des spectacles pendant la convention) avec des entreprises de BTP pour avoir des barrières Heras gracieusement (les grandes de chantier), qui sont souvent assez coûteuses à la location. Les communes/intercommunalités peuvent aussi en avoir à prêter. Pensez à demander aux communes voisines. On peut aussi y trouver des palettes Europe (pour les monocycles) et utiles en cas de pluie.
+-	Le coin salon, récup de canapés grâce au bouche-à-oreille ou à Emmaüs pour que les festivaliers puissent s’installer confortablement dans un coin convivial. Le coin salon est parfois modeste, parfois exubérant quelques canapés, c’est suffisant pour créer un espace détente. 
+-	Le Bar : la déco se concentre souvent sur cet espace qui s’y prête bien (comptoirs en palettes ou en acier, déco lumières, tableau des tarifs). 
+-	Les tentes sont aussi un truc qu'on manque toujours (et trop rares en général chez les mairies, comités des foires ou conseils généraux) : il peut y avoir des bons plans chez les scouts ou le Mouvement Rural de la Jeunesse Chrétienne, pour avoir des tentes marabouts, qui peuvent très bien servir pour accueillir des masseurs ou kinés.
+-	En faisant le tour des magasins de bricolage, il y a moyen de récupérer des pots de peinture de temps en temps. 
+-	Pour des toilettes sèches vite faites, une palissade entourant des grandes poubelles avec de la sciure dedans peut faire très bien l'affaire. Pour refourguer les excréments, c’est des fois un peu compliqué. Mais les agriculteurs peuvent être intéressés. Remarque : l’urine est encore pire à refourguer que les excréments, car elle est super acide et n’est pas très fertile.
+-	Penser à afficher des infos importantes comme : le programme de la convention (français et anglais), les tarifs du bar
+-	Panneau des workshops, 
+-	Panneaux de signalisation (chaussures interdites, espace dodo, douches, tri des déchets, covoiturage pour le retour…)
+-	Quels ateliers proposer en plus. Exemple : jeux de société, vidéos de jongle, carte géographique et punaises pour indiquer d’où viennent les conventionnistes …
+-	Multiprises pour brancher les téléphones portables des conventionnistes. Cela dit, faites attention à la charge électrique, car les chargeurs consomment vraiment beaucoup.
+
+	Les outils nécessaires pour la déco (si besoin, étiquetez à qui appartiennent les objets associatifs /particuliers...) : de la peinture, un bon cutter, des feutres, du fil de fer, un bon vieux pistolet à colle, du grillage et des journaux pour le papier mâché, des ballons à sculpter, du papier craft, une agrafeuse murale, du scotch et du gaffer, des clous, une perceuse visseuse, des palettes, des planches de bois, une scie sauteuse.
+
+**●	Les workshops**
+	Le sentiment d’avoir passé une bonne convention pour un jongleur, c’est aussi lorsqu’il a bien jonglé et qu’il a appris des nouvelles figures. D’où l’importance des workshops, qu’ils soient organisés ou spontanés.
+	Les workshops organisés, c’est pratique à ... organiser... Demandez aux gens intéressés de vous prévenir à l’avance afin d’inclure l’atelier dans votre programmation. Cela peut du coup faire venir des gens à la convention !
+	Les workshops spontanés c’est quand vous voulez, vous vous pointez à la convention et vous inscrivez votre nom sur le tableau et c’est parti (n’oubliez pas d’essayer de négocier ce repas/boisson... des fois ça marche). Et si vous connaissez quelqu’un qui devrait donner un workshop, motivez-le : le partage, c’est l’essence de la convention.
+    
+- Tableau de workshop
+
+WORKSHOP
+	                 SAMEDI	          DIMANCHE
+10H-11H		
+11H-12H		
+12H-13H		
+13H-14H		
+14H-15H		
+15H-16H		
+16H-17H		
+17H-18H		
+18H-19H		
+19H-20H		
+
+Remarque : il faut renseigner le nom, le lieu (ex: grande salle), le thème (balles, diabolo...), le niveau (débutant...).
+
+**●	Les jeux de la jongle**
+-	Savoir qui s’occupe de les présenter et prévoir la logistique s’il y a de la musique.
+-	Définir quels jeux faires 
+-	Savoir ce qu’on offre comme cadeaux aux gagnants et combien de cadeaux il faut.
+-	Demander aux stands de matériel, ils ont toujours des choses à offrir avec parfois des super lots (3 massues)
+-	Si les jeux sont en extérieur, prévoir une zone d’ombre pour la régie son s’il y en a une. Prévoir des bouteilles d’eau.
+
+**●	La logistique et les transports **
+-	Prévoir un nombre de véhicules suffisant (voitures et camionnette).
+-	Voir où se trouve le matériel : qu’on a, qu’on doit acheter, louer, le nombre de personnes qu’il faut pour l’installation …
+-	Est-ce qu’on doit louer des moyens de transports ? Toute la durée de la convention ou seulement pendant le montage et le démontage ?
+-	Qui est disponible pour charger et décharger les courses, la décoration, le matériel de cirque, le son et la lumière, la cuisine, les poubelles … avant pendant et après l’événement.
+
+**●	Les vendeurs**
+-	Est-ce que vous souhaitez avoir des stands de vente de matériel de jonglerie ? Si oui, contacter les vendeurs et s’arranger. Il faut penser aux moyens de mises à disposition des stands, s’ils doivent payer ? Et que faire si d’autres vendeurs non-annoncés s’installent ? 
+Nous vous recommandons _Net’Juggler_, ou _Laribouldingue_ qui se déplace régulièrement avec son camion, sur les conventions en France. Mais vous pouvez également faire appel à des jongleurs qui fabriquent eux-mêmes leurs matériels et sont capables d’installer des stands avec tonnelles. Si vous ne souhaitez pas avoir de vendeur, il faut clairement le préciser aux jongleurs (lors de la communication), sinon certains s’installent et vendent leur matériel fait maison. Vous devriez également vous interroger sur la place des vendeurs d’autres matériels (vêtements, bijoux, maquillage, objets en tout genre…), autorisé ou pas ? Mais attention, vous portez une forme de responsabilité qu’en à par exemple la qualité et la provenance des produits qui sont vendus sur votre événement. Donc attention à la législation et la réglementation du commerce. Pour s’en prémunir, n’autorisez pas les ventes dont vous n’avez pas confiance, ou de certificat.
+
+
+
+
+
 
 
 
