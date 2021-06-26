@@ -204,6 +204,20 @@ Avoir des documents pour informer les jongleurs (imprimer le programme et le pla
 - Expliquer les budgets de conventions = Food, artistes, installation, location... (avec une boîte à dons)
 Tableau : A partir de là... (on peut payer les artistes, un happy-hour, des micros...) avec un curseur (magnétique).
 
+**Sécurisation de l’accueil.**
+
+Prévoir un grand espace sécurisé derrière le « bureau » pour les bénévoles, les papiers importants, les marchandises, les jetons, les objets trouvés... + un endroit où garder les grosses sommes d'argent.
+Idéalement, il y aura un accès facile et sécurisé de l'arrière de l’accueil du site pour l'encaissement.
+Prévoir d’évacuer l’argent de manière sécurisée et discrète pour qu’il n’y a pas trop d’argent à un moment donné (le premier soir par exemple). Le mieux est que l’argent quitte le site complètement.
+
+**Fermeture de l’accueil.**
+
+Lorsque l’accueil est fermé, il faut un moyen de sécuriser le stock, les laissez-passer, les billets, le merchandising...
+Le responsable ferme l'accueil après le dernier vidage/comptage caisse.
+Ce comptage caisse s'effectue à deux personnes avec documents de tenues de caisse à l'appuie, signé et rangé dans le classeur.
+
+
+
 
 
 
