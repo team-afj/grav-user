@@ -180,5 +180,31 @@ L’espace « jeton/merchandising/info-point/objets trouvé » peut-être amé
 
 Pensez à des espaces de rangements pratiques (sous les tables dans des boites ou cartons séparés...).
 
+**Logistique.**
+
+Des toilettes à proximité sont utiles pour les bénévoles et pour le public. 
+Des prises électriques pour le rechargement mobile, les lumières, bouilloires / grille-pain… 
+Il faut bien penser à l'éclairage, prévoir des lampes pour les tables.
+
+**Décoration et affichage.**
+
+- Préparation des PLV, affiches, signalétiques, tarifs, merchandising.
+Avoir des documents pour informer les jongleurs (imprimer le programme et le plan de la ville pour les commerces, gare, transport…)
+- Une liste de prix pour les différentes passes.
+- Imprimer les fiches de postes, les plastifier, et les scotcher sur les tables aux postes correspondants.
+- Un tableau de workshop et d'autres informations. Ce tableau doit comprendre une carte sur laquelle sont indiqués les magasins, les points de vente, la nourriture et la bière. Un tableau d'affichage est également une bonne idée. Les orgas vous demandent souvent : "Quand un tel ou un tel arrive, tu peux lui dire que ...". Vous oublierez inévitablement. Faites-le leur écrire !
+
+**Le top du top (mais pas nécessaire).**
+
+- Un chill-out juste à côté de l’accueil (espace avec jeux/canapés...), permet un recrutement de bénévoles sur le pouce.
+- Carte géographique des conventionnistes avec épingles/punaises…
+- Calendrier des conventions à venir… avec carte de France, flyers, affiches…
+- Gestion du flux : petits jeux pendants la file d'attente.
+- Roulettes : Adhésion AFJ, Merchandising
+- Expliquer les budgets de conventions = Food, artistes, installation, location... (avec une boîte à dons)
+Tableau : A partir de là... (on peut payer les artistes, un happy-hour, des micros...) avec un curseur (magnétique).
+
+
+
 
 
