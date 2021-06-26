@@ -1,6 +1,6 @@
 ---
 title: 'Avant la convention – Les tâches fondamentales'
-media_order: 'budget_prev.jpg,CFJ_prog&planning.xlsx,check_list scene.docx'
+media_order: 'budget_prev.jpg,CFJ_prog&planning.xlsx,check_list scene.docx,Exemple de 1er mail de mise en contact.pdf,CFJ2020 Dossier de présentation.pdf'
 ---
 
 ### Avant la convention – Les tâches fondamentales
@@ -84,6 +84,8 @@ Par exemple, voici une liste de critères nécessaires et les questions techniqu
 - Contact de la personne coordinatrice de la mairie (l'attaché culturelle + les services techniques)
 
 ##### **Nous vous recommandons très fortement d'avoir la confirmation de la réservation du site avant de faire les autres étapes.**
+
+Exemple de dossier de présentation: [CFJ2020 Dossier de présentation.pdf](CFJ2020%20Dossier%20de%20pr%C3%A9sentation.pdf)
 
 ##### **4)	DEFINIR LES MOYENS TECHNIQUES PRIMORDIAUX**
 
@@ -176,9 +178,24 @@ Voici une liste des différentes tâches fondamentales à réaliser :
 -	Avant, pendant et après, récupérer toutes les factures, tickets de caisse et notes de frais pour chaque dépense inhérente à la convention permet de faire un budget réalisé complet.
 -	Prévenir les pompiers pour la scène feu…
 
-●	La communication 
+●	La communication
+
+[Exemple de 1er mail de mise en contact.pdf](Exemple%20de%201er%20mail%20de%20mise%20en%20contact.pdf)
+
+
 -	Faire un logo de la convention
--	Faire une affiche de l’évènement (avec dates, lieu, prix) 
+-	Faire une affiche de l’évènement (avec dates, lieu, prix)
+-	Faire éventuellement une affiche pour l’initiation cirque des enfants (avec dates, lieu, programme)
+-	Faire éventuellement une affiche pour le programme
+-	Faire éventuellement une affiche pour le gala
+-	Faire éventuellement une affiche pour les concerts
+-	Faire un dossier de presse et l’adapter en fonction qu’on l’adresse aux jongleurs ou à l’attention des médias.
+-	Annoncer la convention sur le net : www.afj.asso.fr, www.jongle.net, www.jugglingedge.com/events, www.inbaz.org (le calendrier allemand des conventions), évènement Facebook... Pensez aussi à annoncer la convention auprès du réseau des organisateurs de conventions en France : pour se faire envoyer un mail sur afj@framalistes.org (merci de ne pas polluer cette adresse avec d’autres informations non-pertinentes ; elle nous est précieuse !).
+-	Annoncer l'événement dans la presse locale : faire un dossier de presse.
+-	Lancer et gérer les pré-inscriptions. Créer par exemple une boîte mail, permet de réceptionner les pré-inscriptions, répondre aux questions des conventionnistes, des bénévoles et artistes, de recevoir des propositions de numéros pour le gala, de workshops, de bénévoles... Pleins de jongleurs ont des questions avant de venir, donc il faut y répondre. 
+-	Demande d’autorisation parentale et photocopie de la pièce d’identité pour les mineurs non-accompagnés de leurs responsables légaux (ou demande de responsabilité civile par un adulte présent à la convention, mais qui n’est pas le responsable légal).
+-	Gérer l’après convention : bilan et remboursement, gestion des mails : matériel oublié et perdu et renvoi des affaires… Mise à jour des photos, vidéos et articles de presse sur le net.
+
 
 
 
