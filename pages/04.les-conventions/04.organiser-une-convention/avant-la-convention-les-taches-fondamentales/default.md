@@ -3,7 +3,7 @@ title: 'Avant la convention – Les tâches fondamentales'
 media_order: 'budget_prev.jpg,CFJ_prog&planning.xlsx,check_list scene.docx,Exemple de 1er mail de mise en contact.pdf,CFJ2020 Dossier de présentation.pdf'
 ---
 
-### Avant la convention – Les tâches fondamentales
+### **Avant la convention – Les tâches fondamentales**
 
 L’architecture de l’organisation repose sur un équilibre harmonieux entre plusieurs piliers distincts, mais fondamentaux. La convention repose sur les envies, les idées et sur le temps que l’on consacre à sa préparation. De même, elle repose sur les moyens de l’association (humains, techniques et financiers) et sur le lieu et les dates de l’événement. Enfin, la convention dépend du nombre de participants.
 
