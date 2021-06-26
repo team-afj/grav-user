@@ -30,7 +30,7 @@ La CFJ est accueillie chaque année dans une commune différente de France, se d
 Pour déterminer qui accueillera la prochaine CFJ, les différentes organisations volontaires candidatent auprès de l'AFJ. La décision finale est prise lors d'un vote de l'assemblée générale de l'AFJ, qui se déroule pendant la CFJ en cours (_Remarque: toutes les personnes présentes lors de l'AG peuvent voter, peu importe quelle soit membre ou non de l'AFJ_).
 
 
-**Voici un bref historique des dates, lieux et associations organisatrices des CFJ passées**
+#### **Voici un bref historique des dates, lieux et associations organisatrices des CFJ passées**
 
 **1ère Convention Française** / Carvin (62)
 du 21 au 27 juillet 2008
