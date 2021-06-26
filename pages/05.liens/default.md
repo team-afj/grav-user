@@ -7,7 +7,7 @@ published: true
 
 Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www.facebook.com/asso.afj)
 
-##### Sites généralistes francophones
+##### **Sites généralistes francophones**
 
 [Association Suisse de Jonglerie](http://www.juggling.ch/index_fr.html)
 
@@ -15,7 +15,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Maison des Jonglages](http://maisondesjonglages.fr/fr)
  
-##### Sites généralistes anglophones
+##### **Sites généralistes anglophones**
 
 [Association Européenne de Jonglerie (EJA)](https://www.eja.net/)
 
@@ -27,7 +27,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Juggling Information Service](http://www.juggling.org/)
 
-##### Sites et chaînes de vidéos de jongle
+##### **Sites et chaînes de vidéos de jongle**
 
 [Circopedia](http://www.circopedia.org/Main_Page)
 
@@ -45,7 +45,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [The ministry of manipulation](http://www.ministryofmanipulation.com/)
 
-##### Sites et calendriers des conventions d'ailleurs
+##### **Sites et calendriers des conventions d'ailleurs**
 
 [British Juggling Convention (BJC)](https://www.britishjugglingconvention.co.uk/)
 
@@ -59,7 +59,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Convention di giocoleria della Brianza](https://conventiongiocoleriabrianza.it/)
 
-##### Sites de vendeurs de matériel de jongle
+##### **Sites de vendeurs de matériel de jongle**
 
 [Flowtoys](https://flowtoys.com/)
 
