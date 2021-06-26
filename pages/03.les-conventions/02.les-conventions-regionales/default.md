@@ -1,5 +1,5 @@
 ---
-title: 'Les conventions régionales'
+title: 'Conventions régionales'
 ---
 
 ### Les conventions régionales
