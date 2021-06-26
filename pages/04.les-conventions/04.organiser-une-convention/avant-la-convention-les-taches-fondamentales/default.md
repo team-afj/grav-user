@@ -54,9 +54,10 @@ Maintenant que vous avez défini vos besoins et vos moyens généraux, il s’ag
 
 **C’est une phase très importante de l’organisation. Il faut prévoir un temps suffisant pour rechercher le site adéquat.  **
 
-Posez-vous d’abord la question de la période de l’année à laquelle vous voulez organiser votre convention ! Selon la région et la période de l’année, le climat peut être plus ou moins clément. Vous pouvez organiser une convention qui se déroulera 100 % à l’intérieur, ou 100 % à l’extérieur, ou faire un mixe des deux. À l’intérieur, il faut suffisamment de hauteur de plafond pour pouvoir jongler. À l’extérieur, il faut veiller plus attentivement à la sécurité des participants et du site en général : Canicule ? Pluie ? Froid ? Faut-il des barrières Heras ?, faut-il des toilettes sèches ?, Y a-t-il un accès à l’eau potable ? Douches extérieures ? Accès à l’électricité (ou groupe électrogène)? Camping (tentes, camion) ? Parking ? Chapiteau ? Tonnelles ? Bar et Restauration (pensez à prendre en compte le climat quand on compare les consommations du bar et aussi les menus pour la restauration) ?
+Posez-vous d’abord la question de la période de l’année à laquelle vous voulez organiser votre convention ! Selon la région et la période de l’année, le climat peut être plus ou moins clément. Vous pouvez organiser une convention qui se déroulera 100 % à l’intérieur, ou 100 % à l’extérieur, ou faire un mixe des deux. À l’intérieur, il faut suffisamment de hauteur de plafond pour pouvoir jongler. À l’extérieur, il faut veiller plus attentivement à la sécurité des participants et du site en général : Canicule ? Pluie ? Froid ? Faut-il des barrières Heras ?, faut-il des toilettes sèches ?, Y a-t-il un accès à l’eau potable ? Douches extérieures ? Accès à l’électricité (ou groupe électrogène) ? Camping (tentes, camion) ? Parking ? Chapiteau ? Tonnelles ? Bar et Restauration (pensez à prendre en compte le climat quand on compare les consommations du bar et aussi les menus pour la restauration) ?
 	
 Une fois que vous avez choisi la configuration du site, il faut le trouver ! Renseignez-vous pour connaître les endroits potentiels : sur Internet (n’hésitez pas à regarder la cartographie, les images satellites… sur [géoportail](https://www.geoportail.gouv.fr/) par exemple, pour voir la taille des terrains, la surface des salles, la distance avec le voisinage...), chez vos amis, les histoires du week-end de vos collègues, les lieux de fêtes et festivals de vos régions… 
+Lors de cette étape, vous pouvez faire un plan du site (en superposant votre propre implémentation personnaliser du site, à la cartographie existante).
 
 Une fois que vous avez trouvé un ou plusieurs site(s) potentiel(s), il faut trouver le contact des gérants du site et les contacter.
 
@@ -79,7 +80,9 @@ Par exemple, voici une liste de critères nécessaires et les questions techniqu
 - Tarifs et conditions pour l’ensemble des jours de la convention
 - Listing du matériel à disposition
 - Date de mise à disposition des lieux (début et fin)
-- Contact de la personne coordinatrice de la mairie (attaché culturelle + service technique)
+- Contact de la personne coordinatrice de la mairie (l'attaché culturelle + les services techniques)
+
+##### **Nous vous recommandons très fortement d'avoir la confirmation de la réservation du site avant de faire les autres étapes.**
 
 
 
