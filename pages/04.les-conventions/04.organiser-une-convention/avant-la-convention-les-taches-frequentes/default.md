@@ -12,7 +12,7 @@ Si vous avez faits tous les points précédents, vous devriez déjà avoir de qu
 	Si besoin est, vous pouvez faire des demandes de subventions pour financer la convention. De nombreux organismes sont susceptibles d’être intéressés par votre projet. Répondez aux différents appels à projets auxquels vous pouvez prétendre.
 	Voici une liste non-exhaustive des partenaires financiers que vous pouvez solliciter (j’ai essayé de les classer par thématiques) : 
 -	Animation locale : commune, intercommunalité, entreprise locale (partenariat financier ou en nature), Financement Européen (LEADER, mais attention c’est compliqué et chronophage)
--	Education populaire et/ou jeunesse : Conseil Départemental, Conseil Régional, Direction Départemental de la Cohésion Sociale (et de la Protection des Populations). 
+-	Éducation populaire et/ou jeunesse : Conseil Départemental, Conseil Régional, Direction Départemental de la Cohésion Sociale (et de la Protection des Populations). 
 -	Culturelle : Direction Régionale des Affaire Culturelles
 -	À chaque fois, prenez le temps de regarder les critères d’attribution. Par exemple, la mixité amateurs/professionnelle, l’accueil des personnes en situation de handicap…
 
