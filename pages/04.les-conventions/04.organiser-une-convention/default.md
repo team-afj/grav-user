@@ -11,7 +11,7 @@ published: true
 
 ##### ## #  SOMMAIRE
 
-* > [Avant-propos]( 	/organiser-une-convention/avant-propos)	
+* > [Avant-propos]( 	avant-propos)	
 * > [Remerciements]( 	/organiser-une-convention/remerciements)	 	
 * > [Introduction]( 	/organiser-une-convention/introduction)	
 * > [Pré-requis nécessaires]( 	/organiser-une-convention/pre-requis-necessaires)
