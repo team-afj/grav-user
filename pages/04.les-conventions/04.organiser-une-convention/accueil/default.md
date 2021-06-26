@@ -67,7 +67,8 @@ Compétences :
 - Gérer de l’argent et une caisse.
 - Gérer le public (écoute, info, file d’attente).
 - Gérer la billetterie et les pré-inscriptions.
-- Parler plusieurs langues.
+- Parler plusieurs langues
+.
 - Prise d'initiative.
 - Savoir résoudre des problèmes et gérer des conflits.
 
@@ -85,6 +86,8 @@ Compétences :
 **Remarque générale concernant les pré-inscriptions :**
 Les pré-inscriptions se font plusieurs mois avant la convention. Leur mise en place est réalisée par un des responsables du pôle accueil.
 Il est préférable de se mettre également en lien avec le pôle communication, pour mettre en place le système de pré-inscription.
+
+### AVANT LA CONVENTION
 
 ##### **3a. Où, comment et avec quoi faire une pré-inscription ?**
 
@@ -215,6 +218,51 @@ Prévoir d’évacuer l’argent de manière sécurisée et discrète pour qu’
 Lorsque l’accueil est fermé, il faut un moyen de sécuriser le stock, les laissez-passer, les billets, le merchandising...
 Le responsable ferme l'accueil après le dernier vidage/comptage caisse.
 Ce comptage caisse s'effectue à deux personnes avec documents de tenues de caisse à l'appuie, signé et rangé dans le classeur.
+
+**Inventaire du matériel :**
+
+**Papèterie.**
+
+Stylos, feutres, scotch, gaffer ficelle, imprimante, ramette de papier, surligneurs, marqueurs, 
+pinceaux, peinture, carton, pâte-à-fixe, punaises, agrafes, clous, marteau, pinces à linge, 
+ciseaux, cutter, classeur, cahier d'ouverture et de fermeture des caisse, trombones......
+
+**Support de communication interne.**
+
+Liste: des responsables de pôles avec N° téléphone 
+Fiche de poste
+Talkie-Walkie
+
+**Support de communication externe.**
+
+Affiches, programme, plan, tarifs, tableau…
+
+**Billetterie.**
+
+- Listing: pré-inscription, orgas, bénévoles, artistes, invité.e.s.
+- Liste des prix pour les différentes passes
+- Tickets, passes, tampons, badges…
+
+**Argent.**
+
+- 2 caisses en métal qui se ferment avec trieur de pièces et billets.
+- Enveloppes de transports, fiche de caisse/doc de tenue de caisse
+- Fonds de caisse à prévoir entre 300€ et 1500€ (selon la taille de la convention) 
+en pièces de 0.5€, 1€, 2€ et quelques billets de 5€.
+
+**Jetons.**
+
+Il faut définir si vous optez pour des jetons ou pour de la monnaie. 
+Si vous utilisez des jetons, vous pouvez contacter l’AFJ pour en avoir à disposition (afj.jonglerie@gmail.com). 
+Si vous utilisez des euros, il faut prévoir un fond de caisse
+ 
+**Autres.**
+
+- Boite pour objets trouvés, …
+- Covid 19 : Gel hydro-alcoolique, masques, plaques en plexiglass...
+
+### PENDANT LA CONVENTION
+
 
 
 
