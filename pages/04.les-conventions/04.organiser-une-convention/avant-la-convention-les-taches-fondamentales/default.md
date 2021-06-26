@@ -104,8 +104,3 @@ Il faut se poser plusieurs questions :
 	Une fois que votre budget a été approuvé par l’équipe, le référent devrait essayer d'obtenir autant de confirmations que possible sur les dépenses. 
 
 Exemple de budget prévisionnel:
-
-
-
-
-
