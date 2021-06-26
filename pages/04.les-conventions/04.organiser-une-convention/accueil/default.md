@@ -163,4 +163,22 @@ Après réponse de leur part, informer les bénévoles en leur envoyant le plann
 - Si les bénévoles ont un pass, on peut prévoir de mettre au dos la liste des responsables de pôles avec le numéro de téléphone (ou talkie-walkie).
 Remarque: Cette partie peut aussi être réalisée par le pôle bénévole.
 
+**Planification de l’implantation et de l’aménagement: de l'espace, de la logistique et de la décoration :**
+
+**Aménagement de l'espace.**
+
+- Pour prévoir l’aménagement, il est utile d’avoir le plan du site et savoir à quel endroit et dans quelles conditions sera placé l’accueil. 
+C’est un lieu stratégique. Il faut qu’il soit facilement accessible, avec une grande visibilité et climatiquement agréable : Au sec, à l'ombre, pas en courant d'air, chauffé si la convention se déroule en hiver...
+
+- La taille de l’accueil devrait être proportionnelle à la convention.
+
+- Exemple d’aménagement possible: Pour les grandes conventions, l’espace pour la billetterie devrait être séparé de celui des jetons et du merchandising (et les caisses sont séparées). Néanmoins, si l’ensemble de l’accueil constitue un seul et même block, il sera plus simple de le sécurisé pendant les moment de fermeture de l’accueil.
+
+L’espace « billetterie » peut-être aménagé avec deux tables séparées : une pour le paiement à la journée, une pour les pré-inscriptions.
+
+L’espace « jeton/merchandising/info-point/objets trouvé » peut-être aménagé avec une ou deux tables (selon le stand merchandising) pour la vente de T-shirts, la vente de jetons, les objets trouvé et les renseignements.
+
+Pensez à des espaces de rangements pratiques (sous les tables dans des boites ou cartons séparés...).
+
+
 
