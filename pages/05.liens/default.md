@@ -5,6 +5,8 @@ published: true
 
 ### Liens
 
+Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur)  le [facebook de l'AFJ](https://www.facebook.com/asso.afj)
+
 ##### Sites généralistes francophones
 
 [Association Suisse de Jonglerie](http://www.juggling.ch/index_fr.html)
@@ -27,11 +29,15 @@ published: true
 
 [Circopedia](http://www.circopedia.org/Main_Page)
 
+[Jonglage.net](https://www.jonglage.net/)
+
 [Juggling.tv](https://juggling.tv/)
 
 [Metlili](https://vimeo.com/metlili)
 
 [Playlists de l'AFJ des vidéos de conventions en France](https://www.youtube.com/channel/UCEkbPHK3n9M3o4SQFYA99bA/playlists)
+
+[Shiva Passing](https://www.facebook.com/groups/254520541713724/)
 
 [The ministry of manipulation](http://www.ministryofmanipulation.com/)
 
