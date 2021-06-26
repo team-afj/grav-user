@@ -1,6 +1,6 @@
 ---
 title: 'Avant la convention – Les tâches fondamentales'
-media_order: budget_prev.jpg
+media_order: 'budget_prev.jpg,CFJ_prog&planning.xlsx,check_list scene.docx'
 ---
 
 ### Avant la convention – Les tâches fondamentales
@@ -114,29 +114,75 @@ Attention : le budget prévisionnel présenté aux partenaires doit être à l�
 
 Qu’est ce qui va se passer jour par jour  ?
 
+Exemple de programmation téléchargeable en format Excel: [CFJ_prog&planning.xlsx](CFJ_prog&planning.xlsx)
+
 ##### **7)	DEFINIR LES MOYENS HUMAINS **
+
+Exemple de listing pour la scène téléchargeable en format Word: [check_list scene.docx](check_list%20scene.docx)
 
 Combien de personnes organisent, combien sont bénévoles (en amont ?, en aval ?) ; qui fait quoi ?...
 Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir de définir des référents par pôle :
-●	superviseur général (gestion du projet et de l’équipe, gestion des plannings organisateurs, bénévoles et volontaire, planning montage et démontage…)
-●	réunions (communication de la date, ordre du jour, compte rendu…)  
-●	administratif et financier (subventions, bilan, autorisations...)
-●	communication (mairie, journaliste, conventionniste…)
-●	logistique & développement durable (site, électricité, coin orga, artistes et bénévoles, chapiteaux, tentes, barrières, services municipaux, chill-out, toilettes sèches, poubelles de tri, déchet, recyclage...) 
-●	décoration et signalétique
-●	sécurité
-●	technique scénique
-●	plateau artistique
-●	cuisine (récup en amont + menu + gestion en aval)
-●	petit-déjeuner
-●	accueil des conventionnistes (préinscriptions, tarifs, badges, billetterie, goodies...)
-●	buvette
-●	scène ouverte
-●	renegade
-●	espace feu 
-●	workshop
-●	jeux de la jongle 
-●	musique et concerts
-●	animation cirque des enfants
+
+- superviseur général (gestion du projet et de l’équipe, gestion des plannings organisateurs, bénévoles et volontaire, planning montage et démontage…)
+- réunions (communication de la date, ordre du jour, compte rendu…)  
+- administratif et financier (subventions, bilan, autorisations...)
+- communication (mairie, journaliste, conventionniste…)
+- logistique & développement durable (site, électricité, coin orga, artistes et bénévoles, chapiteaux, tentes, barrières, services municipaux, chill-out, toilettes sèches, poubelles de tri, déchet, recyclage...) 
+- décoration et signalétique
+- sécurité
+- technique scénique
+- plateau artistique
+- cuisine (récup en amont + menu + gestion en aval)
+- petit-déjeuner
+- accueil des conventionnistes (préinscriptions, tarifs, badges, billetterie, goodies...)
+- buvette
+- scène ouverte
+- renegade
+- espace feu 
+- workshop
+- jeux de la jongle 
+- musique et concerts
+- animation cirque des enfants
+- …
+
+Une personne est susceptible d’occuper plusieurs de ces pôles à la fois, comme par exemple :
+- Spectacles (Gala, scènes ouvertes, spectacle de rue, feu, concerts, renegade...)
+- Prestataires (Chill-Out, Initiations, stands, ostéopathes, sécurité, photographes...)
+- Animation (Workshops, initiations, Parade, Volley massue, jeux de la jongle...)
+- …
+
+Une autre idée est d’avoir un référent et un assistant référent pour chaque pôle. Puis l’édition d’après (en n+1), l’équipe s’inverse : le référent devient assistant et l’assistant devient référent. Enfin, l’édition d’encore après (en n+2), le référent prend sous son aile, un nouvel assistant. Cela est une manière d’assurer la pérennité des compétences des organisateurs.
+Si l’on choisit de ne pas avoir de référent par pôle, il faut quand même savoir déléguer les tâches, donc au moins les lister précisément.
+
+##### **8)	LA SUITE DES CHOSES A FAIRE**
+
+Une fois que l’équipe à déterminer l’ensemble des points précédents, on relance le groupe d’organisateurs par mail, ou autre, en leur donnant les infos. Le but étant de s’organiser et se mettre d’accord directement par rapport à ce qui a été dit pendant les réunions.
+Selon le cas, on peut soit : rester en contact par forum ou chaînes de mails, soit fixer une nouvelle date de réunion. Le but étant que les différents pôles se constituent, s’organisent et transmettent de l’information à tous les autres organisateurs. Attention : les chaînes de mails ne sont pas très efficaces, car il est facile de casser la chaîne en omettant certains messages et il n’y a pas de recherche d’historique pour un nouveau venu.
+Pour pouvoir s’organiser, il faut savoir si toutes les différentes tâches ont bien été attribuées et que tout le monde sache plus ou moins ce qu’il doit faire. Avoir un responsable imprévu peut être une bonne chose pour être sûr que tout sera traité. Il y a toujours des choses qui passent à travers le crible de la répartition.
+Le référent général voit comment l’ensemble des pôles évolue et décide s’il faut ou non recadrer, au cas par cas ou de manière plus globale.
+
+
+Voici une liste des différentes tâches fondamentales à réaliser :
+
+●	Le référent général
+-	Si ce n’est pas encore fait, il faut désormais choisir une personne qui coordonne et redistribue les infos à l’ensemble du groupe pour faire régulièrement le point sur « où on en est ?» et « qu’est-ce qui reste à faire ?»
+
+●	Les tâches administratives
+-	Assurer l’évènement : téléphoner à l’assureur et lui demander une attestation temporaire d’évènement culturel, qui couvre toute la durée de l'évènement.
+-	Donner l’attestation d’assurance de l’évènement à la mairie (et en garder une copie) et demander une autorisation municipale ou préfectorale de débit de boisson (qu’il faudra avoir sur soi, en cas de contrôle) .
+-	Choisir une personne coordinatrice avec la mairie, et les services techniques de la ville, les médias…
+-	Choisir une ou plusieurs personne(s) coordinatrice(s) avec les artistes (niveau technique scénique, hébergement, catering, droit de diffusion des photos ou vidéos et paiements des artistes).
+-	Est-ce que vous devez ou souhaitez faire une déclaration à la SACEM, concernant la musique que vous diffusez pendant la convention ?
+-	Avant, pendant et après, récupérer toutes les factures, tickets de caisse et notes de frais pour chaque dépense inhérente à la convention permet de faire un budget réalisé complet.
+-	Prévenir les pompiers pour la scène feu…
+
+●	La communication 
+-	Faire un logo de la convention
+-	Faire une affiche de l’évènement (avec dates, lieu, prix) 
+
+
+
+
+
 
 
