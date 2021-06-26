@@ -51,10 +51,6 @@ Une fois que le compte rendu est envoyé à tous les autres organisateurs, chacu
 
 Maintenant que vous avez défini vos besoins et vos moyens généraux, il s’agit de les concrétiser… Pour se faire, nous vous conseillons de vous appuyer sur les conseils qui vont suivre et sur les compte-rendu de vos réunions. Les besoins et les moyens du montage du projet (humains techniques, financiers, lieu, dates…) devraient à terme être rédigés et compilés dans un document qui vous servira à répondre aux différentes questions sur la convention, des organisateurs, des bénévoles, des partenaires, des médias et des pouvoirs publics. La suite détaille plus précisément les tâches à effectuer pour le montage de ce dossier.
 
-Exemple de dossier de présentation : [CFJ2020 Dossier de présentation.pdf](CFJ2020%20Dossier%20de%20pr%C3%A9sentation.pdf)
-
-**Remarque importante :** à cette étape du montage de l'événement, le dossier n'a pas besoin d'être aussi fourni que l'exemple ci-joint. Néanmoins, il permet de se faire une idée des questions à ce poser en réunions.
-
 ##### **3)	Trouver un lieu et une date**
 
 **C’est une phase très importante de l’organisation. Il faut prévoir un temps suffisant pour rechercher le site adéquat.  **
@@ -69,6 +65,12 @@ Une fois que vous avez trouvé un ou plusieurs site(s) potentiel(s), il faut tro
 Pour que les propriétaires de la salle comprennent bien de quoi il s’agit et leur donner envie de nous prêter ou louer la salle, on peut leur envoyer un dossier de présentation (N.B : pour la demande de salle(s), il ne faut pas joindre le budget prévisionnel ; le budget prévisionnel est à inclure pour les demandes de subventions). Celui-ci sera notamment variable en fonction du prix du lieu !
 
 Le petit conseil que l’on peut vous donner, c’est d’essayer d’avoir le site gratuitement… Je m’explique : la jonglerie et les arts du cirque en général, ont bonne presse les dernières années (cirque à l’école, cirque adapté, divertissement politiquement correct, mixité entre pratique amateur et professionnelle…). Bref, les conventions de jonglerie sont susceptibles et capables de séduire les collectivités territoriales et autres pouvoirs publics. Ils n’ont pas beaucoup de moyens pour les associations, mais nous leur demandons uniquement d’occuper un site (sur lequel ils paient de toute façon les charges fixes) et qui ne serait pas occupé si la convention n’avait pas lieu. En clair, cela ne leur coûte pas grand-chose de nous accueillir, alors que cela leur permet d’étoffer leur offre culturelle, d’avoir de beaux articles de presse, le tout à moindre coût (presque rien !). De plus, accueillir un tel rassemblement sur sa commune permet de faire fonctionner les commerces locaux, ce qui intéresse les communes/collectivités locales. À la Glühwein en Alsace, la convention commence le vendredi matin par une initiation aux arts du cirque des enfants de plusieurs classes des écoles du village. Cette initiation est un argument supplémentaire pour avoir le site gratuitement et permet d’avoir une jolie couverture des médias. La parade permet aussi d’avoir une visibilité auprès de la population, des médias et des élus.
+
+[Exemple de 1er mail de mise en contact.pdf](Exemple%20de%201er%20mail%20de%20mise%20en%20contact.pdf)
+
+Exemple de dossier de présentation : [CFJ2020 Dossier de présentation.pdf](CFJ2020%20Dossier%20de%20pr%C3%A9sentation.pdf)
+
+**Remarque importante :** à cette étape du montage de l'événement, le dossier n'a pas besoin d'être aussi fourni que l'exemple ci-joint. Néanmoins, il permet de se faire une idée des questions à ce poser en réunions.
 
 Trouver ensuite, la personne qui s’occupe de contacter les mairies pour convenir d’un rendez-vous pour expliquer le projet. Et définir qui, par la suite, assure le contact avec la ville d’accueil définitive et assure la gestion du site et des salles. Il faudra prendre rendez-vous pour une visite du site (pensez à prendre des photos ou vidéos) et éventuellement prendre rendez-vous avec les services techniques de la ville. Renseignez-vous afin de connaître la date et l’heure à laquelle vous pouvez occuper le site et à quelle date vous devez quitter et faire l’état des lieux. Voir pour les clefs, les alarmes, l’inventaire du matériel à disposition, les équipements de cuisine (fours, plaques de cuisson, réfrigérateurs …), les poubelles, la caution, les branchements électriques…
 
@@ -181,9 +183,6 @@ Voici une liste des différentes tâches fondamentales à réaliser :
 -	Prévenir les pompiers pour la scène feu…
 
 ●	La communication
-
-[Exemple de 1er mail de mise en contact.pdf](Exemple%20de%201er%20mail%20de%20mise%20en%20contact.pdf)
-
 
 -	Faire un logo de la convention
 -	Faire une affiche de l’évènement (avec dates, lieu, prix)
