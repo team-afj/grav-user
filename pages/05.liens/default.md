@@ -43,7 +43,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [The ministry of manipulation](http://www.ministryofmanipulation.com/)
 
-##### Sites des conventions d'ailleurs
+##### Sites et calendriers des conventions d'ailleurs
 
 [British Juggling Convention (BJC)](https://www.britishjugglingconvention.co.uk/)
 
