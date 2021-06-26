@@ -5,7 +5,7 @@ published: true
 
 ### Liens
 
-Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur)  le [facebook de l'AFJ](https://www.facebook.com/asso.afj)
+Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www.facebook.com/asso.afj)
 
 ##### Sites généralistes francophones
 
