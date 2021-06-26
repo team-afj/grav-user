@@ -49,7 +49,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Calendrier des conventions allemandes (INBAZ 2.0)](https://www.inbaz.org/)
 
-[Calendrier des conventions du monde entier (The Juggling Edge)](https://www.jugglingedge.com/)
+[Calendrier des conventions du monde entier (The Juggling Edge)](https://www.jugglingedge.com/events.php)
 
 [International Juggling Association Festival](https://festival.juggle.org/)
 
