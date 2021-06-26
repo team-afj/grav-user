@@ -1,7 +1,9 @@
 ---
 title: 'L''accueil'
-media_order: ex.planning.jpg
+media_order: 'ex.planning.jpg,Pole accueil_pwp.pdf'
 ---
+
+Version pdf téléchargeable : [Pole accueil_pwp.pdf](Pole%20accueil_pwp.pdf)
 
 ### L’organisation du pôle accueil en convention
 
