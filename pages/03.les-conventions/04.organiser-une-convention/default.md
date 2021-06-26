@@ -1,5 +1,5 @@
 ---
-title: 'Organiser une convention'
+title: '<span></span>Organiser une convention'
 published: true
 ---
 
