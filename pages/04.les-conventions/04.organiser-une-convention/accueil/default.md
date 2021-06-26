@@ -7,7 +7,7 @@ Version pdf téléchargeable : [Pole accueil_pwp.pdf](Pole%20accueil_pwp.pdf)
 
 ### L’organisation du pôle accueil en convention
 
-##### 1. Pourquoi avoir un accueil et pourquoi faire des pré-inscriptions ?
+##### **1. Pourquoi avoir un accueil et pourquoi faire des pré-inscriptions ?**
 
 ###### **Pourquoi avoir un accueil en convention ? (vue d’ensemble) **
 
