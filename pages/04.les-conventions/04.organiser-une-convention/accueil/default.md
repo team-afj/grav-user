@@ -263,6 +263,45 @@ Si vous utilisez des euros, il faut prévoir un fond de caisse
 
 ### PENDANT LA CONVENTION
 
+#### 3. Où, comment et avec quoi faire un accueil ?
+
+**Montage**
+
+Déchargement et organisation de l'espace.
+Prévoir d'arriver tôt
+
+Vérification du matériel.
+à l’aide d’un listing
+
+Gestion et management de l’équipe-MONTAGE de l’accueil.
+- Accueillir l’équipe-Montage. Présentez-vous, entre vous pour que tout le monde s’identifie. 
+- Briefer et manager l’équipe-Montage. Expliquer les étapes du montage, à savoir: 
+« Implantation et installation de l’espace » et « Installation de la décoration et de l’affichage ».
+
+Implantation et installation de l’espace.
+Ameublement, électricité...
+L’espace « billetterie » peut-être aménagé avec deux tables séparées : une pour le paiement à la journée, une pour les pré-inscriptions.
+L’espace « jeton/merchandising/info-point/objets trouvé » peut-être aménagé avec une ou deux tables (selon le stand merchandising) pour la vente de T-shirts, la vente de jetons, les objets trouvé et les renseignements.
+Pensez à des espaces de rangements pratiques (sous les tables dans des boites ou cartons séparés...).
+
+Installation de la décoration et de l’affichage.
+- Installation des affiches, programmes, plans, signalétiques, tarifs, merchandising.
+- Installation des fiches de postes, les plastifier, et les scotcher sur les tables aux postes correspondants.
+- Installation du tableau de workshop et d'autres informations. Ce tableau doit comprendre une carte sur laquelle sont indiqués les magasins, les points de vente, la nourriture et la bière.
+
+Réception des passes et du merchandising. A voir avec le pôle merchandising.
+
+**Un peu avant l’ouverture de la convention**
+
+Gestion et management de l’équipe-accueil – POSTES et PLANNING.
+- Accueillir l’équipe-accueil. Présentez-vous, entre vous pour que tout le monde s’identifie. Vérifier la liste des contacts (nom et n° de tél.). Distribuer leurs tickets-repas, t-shirts…
+- Briefer et manager l’équipe-accueil. Rappeler les instructions de ce que doivent faire les bénévoles (fiche de poste), comment communiquer entre les responsables de pôles et les bénévoles et toute autre information pertinente. 
+- Montrer leur les fiches de postes, le planning et la liste des contacts qui sont affiché à l’accueil. 
+- Demander également aux bénévoles de transmettre ces informations aux suivants, par le biais d'une initiation rapide.  
+
+Installation du matériel « sensible ».
+Installation du fond de caisse, des caisses, des passes, tickets, listing …
+
 
 
 
