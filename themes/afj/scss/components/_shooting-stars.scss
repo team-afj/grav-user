@@ -53,8 +53,8 @@ $shooting-time: 6000ms;
     @for $i from 1 through 2 {
       &:nth-child(#{$i}) {
         $delay: random(9999) + 0ms;
-        top: percentage(random(100)/100);
-        left: percentage((random(60) + 20) / 100);
+        top: percentage(random(100)*0.01);
+        left: percentage((random(60) + 20) * 0.01);
         animation-delay: $delay;
         // opacity: random(50) / 100 + 0.5;
         
