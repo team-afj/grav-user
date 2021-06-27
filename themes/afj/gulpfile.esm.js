@@ -4,7 +4,7 @@
     - terser for js minification
 */
 import gulp from 'gulp';
-import sass from 'gulp-sass';
+var sass = require('gulp-sass')(require('sass'));
 import cleancss from 'gulp-clean-css';
 import csscomb from 'gulp-csscomb';
 import rename from 'gulp-rename';
@@ -57,8 +57,7 @@ let scss = () =>
     gulp.src(scss_src_dir)
         .pipe(sourcemaps.init())
         .pipe(sass({
-            outputStyle: 'compact',
-            precision: 10
+            outputStyle: 'compressed'
         }).on('error', sass.logError)
         )
         .pipe(sourcemaps.write())
