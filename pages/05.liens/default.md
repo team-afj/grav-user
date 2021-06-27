@@ -68,6 +68,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Chaîne YT IJA Jugglers](https://www.youtube.com/c/IJAvideo/featured)
 
+[FlowArts.me](http://flowarts.me/tutorials/contact-juggling/)
+
 [Jason Garfield - Comedy Juggling](https://www.jasongarfield.com/)
 
 [Jonglage.net](https://www.jonglage.net/)
@@ -103,6 +105,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 [Flowtoys](https://flowtoys.com/)
 
 [Henrys](https://henrys.fr/)
+
+[Home of Poï](https://www.homeofpoi.com/fr/)
 
 [K8 Juggling Store](https://k8juggling.com/en/)
 
