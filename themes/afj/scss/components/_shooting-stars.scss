@@ -50,20 +50,20 @@ $shooting-time: 6000ms;
       transform: translateX(50%) rotateZ(-45deg);
     }
     
-    @for $i from 1 through 2 {
-      &:nth-child(#{$i}) {
-        $delay: random(9999) + 0ms;
-        top: percentage(random(100)*0.01);
-        left: percentage((random(60) + 20) * 0.01);
-        animation-delay: $delay;
-        // opacity: random(50) / 100 + 0.5;
+    // @for $i from 1 through 2 {
+    //   &:nth-child(#{$i}) {
+    //     $delay: random(9999) + 0ms;
+    //     top: percentage(random(100)*0.01);
+    //     left: percentage((random(60) + 20) * 0.01);
+    //     animation-delay: $delay;
+    //     // opacity: random(50) / 100 + 0.5;
         
-        &::before,
-        &::after {
-          animation-delay: $delay;
-        }
-      }
-    }
+    //     &::before,
+    //     &::after {
+    //       animation-delay: $delay;
+    //     }
+    //   }
+    // }
 
     &:nth-child(1) {
       $delay: 11000ms !important;
