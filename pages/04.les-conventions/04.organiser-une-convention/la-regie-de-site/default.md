@@ -80,7 +80,7 @@ Il existe des câbles encore plus épais, mis en rallonge courantes ce sont cell
 
 #### 7.Autres choses en vrac :
 
-- Les extincteurs : il y en a plusieurs types, répartis les biens en fonction des dangers. Met un plan des extincteurs à dispo des gens et brief les pour qu’ils puissent réagir vite.
+- Les extincteurs : il y en a plusieurs types, répartis les biens en fonction des dangers. Mettre un plan des extincteurs à disposition des gens et briefez-les pour qu’ils puissent réagir vite.
 - Si le courant saute : il faut identifier la panne avant de remettre le courant. Si t’as de l’eau qui coule dans une multiprise, t’as besoin de savoir où elle est.
 - Les barrières : barrière les espaces ou le public ne doit pas mettre les pieds. Notamment les zones avec des coffrets à découvert.
 - Si t’as pas assez de puissance disponible envisage des relais : la cuisine n’utilise plus de bouilloire ou de four quand les lumières du site sont allumées, par exemple.
