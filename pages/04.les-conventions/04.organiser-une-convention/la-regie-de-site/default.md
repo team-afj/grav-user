@@ -64,3 +64,32 @@ Il existe des câbles encore plus épais, mis en rallonge courantes ce sont cell
 - **Alerte multiprise :** les multiprises câblées sont souvent câblées sur du 1.5. Donc elles ne peuvent pas prendre, tous appareils confondus, plus de 2200W. Il existe des multiprises en 2.5 en magasin spécialisé, ou quand vous louez du matériel à des boites événementielles.
 
 - **Les normes IP :** les câbles ont une norme de numérotation qui définit leur niveau de protection. Elles sont notées IP67 par exemple, ou IP54. Le premier chiffre correspond au niveau de protection contre les solides, et le deuxième au niveau de protection contre les solides. Wikipédia vous a fait un tableau :
+
+
+
+
+
+
+
+
+
+#### 6. Réfléchir sa répartition électrique : 
+
+- Se faire un tableau de calcul exhaustif de la consommation électrique (pour ma part je me fait un fichier Excel qui calcul la puissance total et la puissance par phase). Le tableau doit recenser le moindre appareil à sa puissance maximale.
+- Ne pas dépasser la puissance maximale autorisée pour éviter les coupures.
+- Ne pas brancher la lumière sur la même phase que le son.
+- Identifier les grosses dépenses électriques : appareils à résistance (cafetière, bouilloire, four), lampe halogènes, frigos/congélateurs/tireuses.
+- Prévoir des points de branchement avec des multiprises pour les téléphones et ordinateurs (consommation faible)
+- Équilibrer le courant sur les phases.
+- Prévoir des passages de câbles et/ou des tranchées et/ou plus de rallonge pour éviter qu’elles ne passent dans les espaces de circulation ou qu’un véhicule roule dessus.
+- Noter tous ses câbles aux deux bouts (« tireuse 1 », « sono bar », « four 2 ») pour pouvoir réagir rapidement. Reporter ses marquages dans le tableau de répartition électrique.
+- Signaler avec des écriteaux ou des marquages sur les multiprises les espaces où les gens peuvent mettre leur téléphone à recharger.
+- Ne pas hésiter à rappeler souvent aux bénévoles qu’ils ne doivent pas brancher ou débrancher des appareils sans avoir une autorisation explicite de le faire.
+
+#### 7.Autres choses en vrac :
+
+- Les extincteurs : il y en a plusieurs types, répartis les biens en fonction des dangers. Met un plan des extincteurs à dispo des gens et brief les pour qu’ils puissent réagir vite.
+- Si le courant saute : il faut identifier la panne avant de remettre le courant. Si t’as de l’eau qui coule dans une multiprise, t’as besoin de savoir où elle est.
+- Les barrières : barrière les espaces ou le public ne doit pas mettre les pieds. Notamment les zones avec des coffrets à découvert.
+- Si t’as pas assez de puissance disponible envisage des relais : la cuisine n’utilise plus de bouilloire ou de four quand les lumières du site sont allumées, par exemple.
+- La LED pour l’éclairage, c’est super. Ça consomme rien. Par contre ça n’aime pas l’eau.
