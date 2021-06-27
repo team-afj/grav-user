@@ -10,7 +10,7 @@ media_order: 'CFJ 01(2008).jpg,CFJ 02(2009).jpg,CFJ 03(2010).jpg,CFJ 04 (2011).j
 La Convention Française de Jonglerie (CFJ) _ou French Juggling Convention (FJC)_, est la convention nationale française de jonglerie.
 
 Tout comme plusieurs autres pays, tels que le Royaume-Uni avec la "_British Juggling Convention_" (BJC), le Japon avec le "_Japan Juggling Festival_" (JJF), Israël avec la "_Israeli Juggling Convention_" (IJC),  la Turquie avec la "_Turkish Juggling Convention_" (TJC)... l'appellation "_Convention française_" fait référence à la convention nationale d'un pays et se distingue donc d'une convention régionale qui aurait lieu dans ce même pays. 
-Il en va, bien évidemment, de même en ce qui concerne l'appellation "Convention Européenne de Jonglerie" (_European Juggling Convention_, EJC) qui se déroule une fois par an dans un pays européen et se distingue à la fois e la convention nationale et des conventions régionales de ce même pays.
+Il en va, bien évidemment, de même en ce qui concerne l'appellation "_Convention Européenne de Jonglerie_" (_European Juggling Convention_, EJC) qui se déroule une fois par an dans un pays européen et se distingue à la fois e la convention nationale et des conventions régionales de ce même pays.
  
 #### **La CFJ : Pourquoi ?**
 
