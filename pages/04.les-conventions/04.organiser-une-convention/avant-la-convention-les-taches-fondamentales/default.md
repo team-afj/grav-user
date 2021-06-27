@@ -140,7 +140,7 @@ Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir 
 - plateau artistique
 - cuisine (récup en amont + menu + gestion en aval)
 - petit-déjeuner
-- [accueil](../accueil) des conventionnistes (préinscriptions, tarifs, badges, billetterie, goodies...)
+- [accueil](../accueil?target=_blank) des conventionnistes (préinscriptions, tarifs, badges, billetterie, goodies...)
 - buvette
 - scène ouverte
 - renegade
