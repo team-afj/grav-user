@@ -4,6 +4,7 @@
 !/plugins
 !/themes
 !/data
+!/images
 security.yaml
 git-sync.yaml
 versions.yaml

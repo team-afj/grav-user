@@ -5,6 +5,7 @@ git-sync:
     - config
     - plugins
     - themes
+    - images
   git:
     ignore: "security.yaml\ngit-sync.yaml\nversions.yaml\n\n!.gitignore\n.gitkeep"
     author: gituser
