@@ -133,19 +133,19 @@ Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir 
 - administratif et financier (subventions, bilan, autorisations...)
 - communication (mairie, journaliste, conventionniste…)
 - logistique & développement durable (site, électricité, coin pour les organisateurs, artistes et bénévoles, chapiteaux, tentes, barrières, services municipaux, chill-out, toilettes sèches, poubelles de tri, déchet, recyclage...) 
-- [décoration et signalétique](../la-decoration?target=_blank)
+- [décoration et signalétique](../la-decoration)
 - sécurité
 - technique scénique
 - plateau artistique
 - cuisine (récup en amont + menu + gestion en aval)
 - petit-déjeuner
-- [accueil](../accueil?target=_blank) des conventionnistes (préinscriptions, tarifs, badges, billetterie, goodies...)
+- [accueil](../accueil) des conventionnistes (préinscriptions, tarifs, badges, billetterie, goodies...)
 - buvette
 - scène ouverte
 - renegade
 - espace feu 
 - workshop
-- [jeux de la jongle](../les-jeux-de-la-jongle?target=_blank) 
+- [jeux de la jongle](../les-jeux-de-la-jongle) 
 - musique et concerts
 - animation cirque des enfants
 - …
@@ -153,7 +153,7 @@ Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir 
 Une personne est susceptible d’occuper plusieurs de ces pôles à la fois, comme par exemple :
 - Spectacles (Gala, scènes ouvertes, spectacle de rue, feu, concerts, renegade...)
 - Prestataires (Chill-Out, Initiations, stands, ostéopathes, sécurité, photographes...)
-- Animation (Workshops, initiations, Parade, Volley massue, [jeux de la jongle](../les-jeux-de-la-jongle?target=_blank)...)
+- Animation (Workshops, initiations, Parade, Volley massue, [jeux de la jongle](../les-jeux-de-la-jongle)...)
 - …
 
 Une autre idée est d’avoir un référent et un assistant référent pour chaque pôle. Puis l’édition d’après (en n+1), l’équipe s’inverse : le référent devient assistant et l’assistant devient référent. Enfin, l’édition d’encore après (en n+2), le référent prend sous son aile, un nouvel assistant. Cela est une manière d’assurer la pérennité des compétences des organisateurs.
@@ -213,7 +213,7 @@ Le référent général voit comment l’ensemble des pôles évolue et décide 
 -	Faire éventuellement des confitures en avance avec des récupérations de fruits
 -	Installer le petit-déjeuner le matin pour que les jongleurs puissent se servir
 
-**●	[L'accueil](../accueil?target=_blank)**
+**●	[L'accueil](../accueil)**
 L’accueil est un lieu important, c’est le premier lieu de rencontre entre l’organisation et les conventionistes. C’est également un lieu d’information et de vente des tickets d’entrée. Il faut donc lui attribuer une importance particulière. Idéalement, quelqu'un d'expérimenté sera responsable de l’accueil, arrivera tôt pour tout mettre en place, organiser l'espace, recruter une équipe de bénévoles dont il sait qu'il peut s'occuper, mettre des marchandises à portée de main, etc. Le responsable de l'accueil doit être en mesure de travailler à l’accueil (tout en sachant déléguer) - ce n'est donc pas un travail pour quelqu'un qui a d'autres responsabilités qui l'obligeront à se déplacer beaucoup sur le site. Pendant les périodes de grosses fréquentations, ce n'est pas un endroit pour quelqu'un qui n'a pas été briefé en amont.
 
 **Matériel et espace nécessaires :**
@@ -240,7 +240,7 @@ Il faut définir si vous optez pour des jetons ou pour de la monnaie. Si vous ut
 -	Avoir les numéros d’urgence et un plan d’évacuation, en cas de besoin
 -	Faire passer une commission de sécurité, si nécessaire
 
-**●	[La décoration de la salle](../la-decoration?target=_blank)**
+**●	[La décoration de la salle](../la-decoration)**
 -	Avec quoi on peut personnaliser la salle :
 	Une jolie décoration est importante pour donner de l’originalité et une identité visuelle à votre convention. Voici des trucs et astuces pour faire de la récupération et créer des décorations sympas et faciles.
 -	Des moquettes ! Elles peuvent être récupérées à la fin des salons des parcs d’exposition : elles sont souvent en bon état et en général conformes aux normes incendies. Les jongleurs seront heureux d’avoir un coin moquette pour jongler. 
@@ -281,7 +281,7 @@ WORKSHOP
 
 Remarque : il faut renseigner le nom, le lieu (ex: grande salle), le thème (balles, diabolo...), le niveau (débutant...).
 
-**●	[Les jeux de la jongle](../les-jeux-de-la-jongle?target=_blank)**
+**●	[Les jeux de la jongle](../les-jeux-de-la-jongle)**
 -	Savoir qui s’occupe de les présenter et prévoir la logistique s’il y a de la musique.
 -	Définir quels jeux faires 
 -	Savoir ce qu’on offre comme cadeaux aux gagnants et combien de cadeaux il faut.
