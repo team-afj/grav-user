@@ -17,7 +17,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Maison des Jonglages](http://maisondesjonglages.fr/fr)
 
-##### **Sites généralistes anglophones**
+##### **Sites généralistes anglophones et autres langues**
 
 [Association Européenne de Jonglerie (EJA)](https://www.eja.net/)
 
@@ -29,9 +29,19 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Juggling Information Service](http://www.juggling.org/)
 
-##### **Sites spécifiques francophones**
+[Juggling Magazine (Italien)](https://www.jugglingmagazine.it/home/)
+
+[Kaskade - The European Juggling Magazine](https://www.facebook.com/Kaskade.mag)
+
+[The Catch - The UK's Juggling Magazine](http://www.jugglingmagazines.com/)
+
+##### **Sites spécifiques**
+
+[Acropedia](https://www.acropedia.org/)
 
 [Art of diabolo](http://www.artofdiabolo.com/)
+
+[Fight Night Combat](https://www.fightnightcombat.com/index.html)
 
 [Home of poï](https://www.homeofpoi.com/fr/)
 
@@ -47,6 +57,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 [Circopedia](http://www.circopedia.org/Main_Page)
 
 [Chaîne YT d'Eloi P.](https://www.youtube.com/channel/UC12ztoIIOOs4c0B0d_g-cmQ)
+
+[Chaîne YT IJA Jugglers](https://www.youtube.com/c/IJAvideo/featured)
 
 [Jonglage.net](https://www.jonglage.net/)
 
