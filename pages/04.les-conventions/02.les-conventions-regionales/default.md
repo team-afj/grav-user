@@ -40,13 +40,15 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [Graulich convention feu / Rodemack](https://www.facebook.com/GraulichConventionFeu/)
 
-[Jongl’ ô Païs / Vanosc](https://fr-fr.facebook.com/JOP07690/)
+[Jongla2mains / Chalencon](https://jongla2mains.wordpress.com/)
 
 [Jonglagogo / Troyes](http://jonglagogo.fr/)
 
 [Jonglargonne / Bordeaux](https://www.jonglargonne.org/)
 
 [Jongle & Rit / Bigoud’N’Jongle / Vezin le coquet](https://jongleetrit.wordpress.com/)
+
+[Jongl’ ô Païs / Vanosc](https://fr-fr.facebook.com/JOP07690/)
 
 [Juggling Virtual Convention (JVC) / Discord](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fjugglingvirtualconvention%2F)
 
