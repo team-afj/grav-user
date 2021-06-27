@@ -9,11 +9,11 @@ media_order: 'AFJ - Guide orga conv..pdf'
 
 ##### Notre page Méta-convention
 
-Depuis 2020, l'AFJ organise une convention à destination des organisateurs de conventions de jonglerie, la [Méta-convention]( 	/meta-convention). Nous vous invitons donc à consulter la page de notre site qui lui ai dédiée.
+Depuis 2020, l'AFJ organise une convention à destination des organisateurs de conventions de jonglerie, la [Méta-convention](meta-convention). Nous vous invitons donc à consulter la page de notre site qui lui ai dédiée.
 
 ##### Wiki BJC
 
-Un lien très utile pour l'organisation de convention est celui de la [British Juggling Convention (BJC)](http://thebritishjugglingconvention.co.uk/wiki/index.php?title=British_Juggling_Convention_Wiki). C’est la base de données la plus complète à notre connaissance concernant l’organisation de conventions de jonglerie. Néanmoins, le contenu est intégralement en anglais.
+Un lien très utile pour l'organisation de convention est celui de la [British Juggling Convention (BJC)](http://thebritishjugglingconvention.co.uk/wiki/index.php?title=British_Juggling_Convention_Wiki?target=_blank). C’est la base de données la plus complète à notre connaissance concernant l’organisation de conventions de jonglerie. Néanmoins, le contenu est intégralement en anglais.
 
 #### Téléchargements utiles pour l'organisation
 
