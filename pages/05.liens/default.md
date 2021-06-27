@@ -45,6 +45,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [FlowArts.org](https://flowarts.org/)
 
+[FlowArts Institute](https://flowartsinstitute.com/juggle-vs-flow/)
+
 [Home of poï](https://www.homeofpoi.com/fr/)
 
 [Kendama France](https://www.kendama-france.com/)
@@ -99,6 +101,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 [Flowtoys](https://flowtoys.com/)
 
 [Henrys](https://henrys.fr/)
+
+[K8 Juggling Store](https://k8juggling.com/en/)
 
 [La Ribouldingue](https://www.laribouldingue.com/)
 
