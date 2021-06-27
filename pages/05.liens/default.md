@@ -98,6 +98,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 ##### **Sites de vendeurs de matériel de jongle**
 
+[Flow Juggle](https://fr.flowjuggle.com/)
+
 [Flowtoys](https://flowtoys.com/)
 
 [Henrys](https://henrys.fr/)
