@@ -26,6 +26,7 @@ published: true
 
 ### Guide de l'organisateur de convention de jonglerie - par thématiques de l'organisation
 
+* > [Établir un budget](etablir-un-budget)
 * > [L'accueil](accueil)
 * > [Les jeux de la jongle](les-jeux-de-la-jongle)
 * > [La décoration](la-decoration)
