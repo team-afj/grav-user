@@ -63,3 +63,10 @@ Se renseigner sur les subventions possibles à différentes échelles (à bien a
 **Avant :** bien communiquer sur l’ensemble des dépenses au sein de l’équipe. (Pas de surprise!)  
 **Pendant :** pour tout mouvement de fond: noter qui, quand, quoi, comment sur un document général (avoir des copies datées n’est pas un luxe).  
 **Après :** vérifier que tout est en accord avec la situation sur le compte en banque. S’assurer que chaque personne a bien été payée/remboursée. Être au clair sur les paiements en liquides/chèque/virement (source de confusion!). 
+
+#### Quelques écueils “classiques”
+
+- Mort rapide (décalage temporel dépenses / recettes / subventions) 
+- Budget non-réaliste (dépenses > recettes)
+- Compensations travail bénévole (boissons, nourriture...) manque à gagner/ dépenses à anticiper
+
