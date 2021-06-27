@@ -46,4 +46,27 @@ Attention, cette liste concerne uniquement les consommables. Le reste dépend de
 
 REMARQUE : Dans un premier temps, ce genre de liste peut suffire, car le samedi on retourne de toute façon faire les courses pour faire l’appoint.
 
+#### 2)	CHARGEMENT DES VEHICULES
+
+	Pendant qu’une partie de l’équipe fait les courses, une autre va se regrouper là où sont entreposés le matériel et la décoration de la convention. Il faut prévoir un planning de montage et démontage avec la liste des tâches à faire, le responsable de chaque tâche et les véhicule nécessaire. Attention, si tout n’est pas au même endroit, il faut se répartir les différents véhicules et différents lieux de chargement, en veillant à ce qu’il y a assez de place pour les affaires et les personnes.
+
+#### 3)	INSTALLATION
+
+	Venir à l’heure prévue pour faire l’état des lieux et récupérer les clés de la salle avec la personne contact de la ville.
+
+**L’équipe montage du chapiteau, monte et installe le chapiteau :**
+-	…
+	
+
+**L’équipe logistique débarque avec le matériel pour installer :  **
+-   les panneaux d’indications dans le village (demander l’autorisation à la ville d’accueil)
+- 	le son, lumières, canapés, boules, fils, trousse de secours…
+- 	toute la décoration et les poubelles de tri des déchets (carton, verres, autres), guirlandes…
+- 	l'affichage (programme, workshop, règle du volley-massues, panneaux, affiche du gala...)
+- 	l’accueil, avec la caisse, les passes à l’entrée, les stylos, scotch, programme, plan, fiche à destination des bénévoles qui aide à l’accueil…
+- 	la cuisine
+- 	l’atelier d’initiation cirque pour les enfants
+-	la scène (pour nous c’est le plus long à chaque fois!)
+
+
 
