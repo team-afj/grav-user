@@ -11,10 +11,12 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Association Suisse de Jonglerie](http://www.juggling.ch/index_fr.html)
 
+[Fédération Française des Écoles du Cirque](http://www.ffec.asso.fr/)
+
 [Jongle.net](http://www.jongle.net/)
 
 [Maison des Jonglages](http://maisondesjonglages.fr/fr)
- 
+
 ##### **Sites généralistes anglophones**
 
 [Association Européenne de Jonglerie (EJA)](https://www.eja.net/)
@@ -26,6 +28,19 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 [Juggle Wiki](https://juggle.fandom.com/wiki/Juggle_Wiki)
 
 [Juggling Information Service](http://www.juggling.org/)
+
+##### **Sites spécifiques francophones**
+
+[Art of diabolo](http://www.artofdiabolo.com/)
+
+[Home of poï](https://www.homeofpoi.com/fr/)
+
+[Le Jonglage avec balles](http://didier.arlabosse.free.fr/balles/index.html)
+
+[Roulemaboule](https://roulemabouleasso.wordpress.com/2018/09/11/liens/)
+
+[Yoyo.fr](https://www.yoyos.fr/)
+
 
 ##### **Sites et chaînes de vidéos de jongle**
 
