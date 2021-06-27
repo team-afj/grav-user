@@ -1,7 +1,19 @@
 title: AFJ
+default_lang: fr
 author:
-  name: Team AFJ
-  email: 'TODO'
+  name: 'Team AFJ'
+  email: afj.jonglerie@gmail.com
+taxonomies:
+  - category
+  - tag
 metadata:
-    description: "Site de l'Association Française de Jonglerie"
-
+  description: 'Site de l''Association Française de Jonglerie'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
