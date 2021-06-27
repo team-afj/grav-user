@@ -66,7 +66,7 @@ Venir à l’heure prévue pour faire l’état des lieux et récupérer les cl�
 - 	l’accueil, avec la caisse, les passes à l’entrée, les stylos, scotch, programme, plan, fiche à destination des bénévoles qui aide à l’accueil…
 - 	la cuisine
 - 	l’atelier d’initiation cirque pour les enfants
--	la scène (pour nous c’est le plus long à chaque fois!)
+-	la scène (c’est souvent ce qui dure le plus longtemps)
 
 
 
