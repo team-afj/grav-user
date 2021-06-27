@@ -43,6 +43,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Fight Night Combat](https://www.fightnightcombat.com/index.html)
 
+[FlowArts.org](https://flowarts.org/)
+
 [Home of poï](https://www.homeofpoi.com/fr/)
 
 [Kendama France](https://www.kendama-france.com/)
