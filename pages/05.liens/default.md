@@ -140,7 +140,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Mister Babache](https://www.jonglerie.com/)
 
-[Net Jugglers](https://www.netjuggler.net/?msclkid=8872157787c516a60c4d75a19440f8ab&utm_source=bing&utm_medium=cpc&utm_campaign=001%20Marque&utm_term=netjuggler&utm_content=Netjuggler%20exact)
+[Net Jugglers](https://www.netjuggler.net/)
 
 [Oddballs](https://www.oddballs.co.uk/)
 
