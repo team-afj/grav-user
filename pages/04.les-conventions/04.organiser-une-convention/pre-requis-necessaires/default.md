@@ -42,6 +42,6 @@ Une fois l’équipe organisatrice constituée, le mieux est de créer une assoc
 Mettre de l'argent de la convention sur votre propre compte bancaire peut causer des problèmes. Le plus simple, est d’avoir une association à but non-lucratif. Pour avoir un compte en banque au nom de l’association, signer des chèques, faire des cachets aux artistes... 
 Vous avez la possibilité de créer soit une association culturelle, soit une association sportive. Plus de renseignements sur la création d’une association : 
     
-[http://www.associations.gouv.fr/creer-votre-association.html](http://www.associations.gouv.fr/creer-votre-association.html)
+[http://www.associations.gouv.fr/creer-votre-association.html](http://www.associations.gouv.fr/creer-votre-association.html?target=_blank)
 
-[https://guidepratiqueasso.org/](https://guidepratiqueasso.org/)
+[https://guidepratiqueasso.org/](https://guidepratiqueasso.org/?target=_blank)
