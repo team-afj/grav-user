@@ -53,6 +53,12 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Jongle avec tes mains](http://jongle.avec.tes.main.free.fr/)
 
+[Jongl.de](http://www.jongl.de/)
+
+[Juggling Lab](https://jugglinglab.org/)
+
+[Juggloid](http://www.juggloid.com/)
+
 [Kendama France](https://www.kendama-france.com/)
 
 [Le Jonglage avec balles](http://didier.arlabosse.free.fr/balles/index.html)
@@ -60,6 +66,10 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 [Monocycle.info](https://monocycle.info/tag/convention/)
 
 [Roulemaboule](https://roulemabouleasso.wordpress.com/2018/09/11/liens/)
+
+[Siteswap.org](http://www.siteswap.org/)
+
+[VisualSpinner3D](http://infiniteperplexity.github.io/visual-spinner-3d/)
 
 [Yoyo.fr](https://www.yoyos.fr/)
 
