@@ -48,11 +48,11 @@ REMARQUE : Dans un premier temps, ce genre de liste peut suffire, car le samedi 
 
 #### 2)	CHARGEMENT DES VEHICULES
 
-	Pendant qu’une partie de l’équipe fait les courses, une autre va se regrouper là où sont entreposés le matériel et la décoration de la convention. Il faut prévoir un planning de montage et démontage avec la liste des tâches à faire, le responsable de chaque tâche et les véhicule nécessaire. Attention, si tout n’est pas au même endroit, il faut se répartir les différents véhicules et différents lieux de chargement, en veillant à ce qu’il y a assez de place pour les affaires et les personnes.
+Pendant qu’une partie de l’équipe fait les courses, une autre va se regrouper là où sont entreposés le matériel et la décoration de la convention. Il faut prévoir un planning de montage et démontage avec la liste des tâches à faire, le responsable de chaque tâche et les véhicule nécessaire. Attention, si tout n’est pas au même endroit, il faut se répartir les différents véhicules et différents lieux de chargement, en veillant à ce qu’il y a assez de place pour les affaires et les personnes.
 
 #### 3)	INSTALLATION
 
-	Venir à l’heure prévue pour faire l’état des lieux et récupérer les clés de la salle avec la personne contact de la ville.
+Venir à l’heure prévue pour faire l’état des lieux et récupérer les clés de la salle avec la personne contact de la ville.
 
 **L’équipe montage du chapiteau, monte et installe le chapiteau :**
 -	…
