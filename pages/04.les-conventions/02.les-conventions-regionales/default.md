@@ -50,7 +50,7 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [Jongl’ ô Païs / Vanosc](https://fr-fr.facebook.com/JOP07690/?target=_blank)
 
-[Juggling Virtual Convention (JVC) / Discord](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fjugglingvirtualconvention%2F?target=_blank)
+[Juggling Virtual Convention (JVC) / Discord](https://www.facebook.com/jugglingvirtualconvention/?target=_blank)
 
 [Le Cirque du Bout du Monde / Lille](http://lecirqueduboutdumonde.fr/?target=_blank)
 
