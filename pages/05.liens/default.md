@@ -102,6 +102,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Circus Planet](https://www.circus-planet.com/fr/)
 
+[Firetoys](https://www.firetoys.co.uk/)
+
 [Flow Juggle](https://fr.flowjuggle.com/)
 
 [Flowtoys](https://flowtoys.com/)
