@@ -112,7 +112,7 @@ Il faut se poser plusieurs questions :
 
 Exemple de budget prévisionnel:
 
-![budget_prev](budget_prev.jpg "budget_prev"?target=_blank)
+![budget_prev](budget_prev.jpg "budget_prev")
 
 Attention : le budget prévisionnel présenté aux partenaires doit être à l’équilibre. Néanmoins il est possible d’avoir un budget légèrement différent en interne : comme habituellement les financeurs donnent moins que le montant des demandes, vous pourrez avoir moins de ressources que prévues, et donc il faudra diminuer certaines charges.
 
@@ -191,7 +191,7 @@ Le référent général voit comment l’ensemble des pôles évolue et décide 
 -	Faire éventuellement une affiche pour le gala
 -	Faire éventuellement une affiche pour les concerts
 -	Faire un dossier de presse et l’adapter en fonction qu’on l’adresse aux jongleurs ou à l’attention des médias.
--	Annoncer la convention sur le net : www.afj.asso.fr, www.jongle.net, www.jugglingedge.com/events, www.inbaz.org (le calendrier allemand des conventions), évènement Facebook... Pensez aussi à annoncer la convention auprès du réseau des organisateurs de conventions en France : pour se faire envoyer un mail sur afj@framalistes.org (merci de ne pas polluer cette adresse avec d’autres informations non-pertinentes ; elle nous est précieuse !).
+-	Annoncer la convention sur le net : [www.afj.asso.fr](http://www.afj.asso.fr/?target=_blank), [www.jugglingedge.com/events](https://www.jugglingedge.com/events.php?target=_blank), [www.inbaz.org](https://www.inbaz.org/?target=_blank) (le calendrier allemand des conventions), évènement Facebook... Pensez aussi à annoncer la convention auprès du réseau des organisateurs de conventions en France : pour se faire envoyer un mail sur afj@framalistes.org (merci de ne pas polluer cette adresse avec d’autres informations non-pertinentes ; elle nous est précieuse !).
 -	Annoncer l'événement dans la presse locale : faire un dossier de presse.
 -	Lancer et gérer les pré-inscriptions. Créer par exemple une boîte mail, permet de réceptionner les pré-inscriptions, répondre aux questions des conventionnistes, des bénévoles et artistes, de recevoir des propositions de numéros pour le gala, de workshops, de bénévoles... Pleins de jongleurs ont des questions avant de venir, donc il faut y répondre. 
 -	Demande d’autorisation parentale et photocopie de la pièce d’identité pour les mineurs non-accompagnés de leurs responsables légaux (ou demande de responsabilité civile par un adulte présent à la convention, mais qui n’est pas le responsable légal).
