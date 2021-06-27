@@ -146,7 +146,7 @@ Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir 
 - renegade
 - espace feu 
 - workshop
-- jeux de la jongle 
+- [jeux de la jongle](../jeux_de_la_jongle?target=_blank) 
 - musique et concerts
 - animation cirque des enfants
 - …
