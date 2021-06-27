@@ -63,15 +63,7 @@ Il existe des câbles encore plus épais, mis en rallonge courantes ce sont cell
 
 - **Alerte multiprise :** les multiprises câblées sont souvent câblées sur du 1.5. Donc elles ne peuvent pas prendre, tous appareils confondus, plus de 2200W. Il existe des multiprises en 2.5 en magasin spécialisé, ou quand vous louez du matériel à des boites événementielles.
 
-- **Les normes IP :** les câbles ont une norme de numérotation qui définit leur niveau de protection. Elles sont notées IP67 par exemple, ou IP54. Le premier chiffre correspond au niveau de protection contre les solides, et le deuxième au niveau de protection contre les solides. Wikipédia vous a fait un tableau :
-
-
-
-
-
-
-
-
+- **Les normes d'indice de protection (normes IP) :** les câbles ont une norme de numérotation qui définit leur niveau de protection. Elles sont notées IP67 par exemple, ou IP54. Le premier chiffre correspond au niveau de protection contre les solides, et le deuxième au niveau de protection contre les solides. Wikipédia vous a fait un [tableau](https://fr.wikipedia.org/wiki/Indice_de_protection?target=_blank).
 
 #### 6. Réfléchir sa répartition électrique : 
 
