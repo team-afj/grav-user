@@ -66,9 +66,9 @@ Pour que les propriétaires de la salle comprennent bien de quoi il s’agit et 
 
 Le petit conseil que l’on peut vous donner, c’est d’essayer d’avoir le site gratuitement… Je m’explique : la jonglerie et les arts du cirque en général, ont bonne presse les dernières années (cirque à l’école, cirque adapté, divertissement politiquement correct, mixité entre pratique amateur et professionnelle…). Bref, les conventions de jonglerie sont susceptibles et capables de séduire les collectivités territoriales et autres pouvoirs publics. Ils n’ont pas beaucoup de moyens pour les associations, mais nous leur demandons uniquement d’occuper un site (sur lequel ils paient de toute façon les charges fixes) et qui ne serait pas occupé si la convention n’avait pas lieu. En clair, cela ne leur coûte pas grand-chose de nous accueillir, alors que cela leur permet d’étoffer leur offre culturelle, d’avoir de beaux articles de presse, le tout à moindre coût (presque rien !). De plus, accueillir un tel rassemblement sur sa commune permet de faire fonctionner les commerces locaux, ce qui intéresse les communes/collectivités locales. À la Glühwein en Alsace, la convention commence le vendredi matin par une initiation aux arts du cirque des enfants de plusieurs classes des écoles du village. Cette initiation est un argument supplémentaire pour avoir le site gratuitement et permet d’avoir une jolie couverture des médias. La parade permet aussi d’avoir une visibilité auprès de la population, des médias et des élus.
 
-[Exemple de 1er mail de mise en contact.pdf](Exemple%20de%201er%20mail%20de%20mise%20en%20contact.pdf)
+[Exemple de 1er mail de mise en contact.pdf](Exemple%20de%201er%20mail%20de%20mise%20en%20contact.pdf?target=_blank)
 
-Exemple de dossier de présentation : [CFJ2020 Dossier de présentation.pdf](CFJ2020%20Dossier%20de%20pr%C3%A9sentation.pdf)
+Exemple de dossier de présentation : [CFJ2020 Dossier de présentation.pdf](CFJ2020%20Dossier%20de%20pr%C3%A9sentation.pdf?target=_blank)
 
 **Remarque importante :** à cette étape du montage de l'événement, le dossier n'a pas besoin d'être aussi fourni que l'exemple ci-joint. Néanmoins, il permet de se faire une idée des questions à ce poser en réunions.
 
@@ -112,7 +112,7 @@ Il faut se poser plusieurs questions :
 
 Exemple de budget prévisionnel:
 
-![budget_prev](budget_prev.jpg "budget_prev")
+![budget_prev](budget_prev.jpg "budget_prev"?target=_blank)
 
 Attention : le budget prévisionnel présenté aux partenaires doit être à l’équilibre. Néanmoins il est possible d’avoir un budget légèrement différent en interne : comme habituellement les financeurs donnent moins que le montant des demandes, vous pourrez avoir moins de ressources que prévues, et donc il faudra diminuer certaines charges.
 
@@ -120,11 +120,11 @@ Attention : le budget prévisionnel présenté aux partenaires doit être à l�
 
 Qu’est ce qui va se passer jour par jour  ?
 
-Exemple de programmation téléchargeable en format Excel: [CFJ_prog&planning.xlsx](CFJ_prog&planning.xlsx)
+Exemple de programmation téléchargeable en format Excel: [CFJ_prog&planning.xlsx](CFJ_prog&planning.xlsx?target=_blank)
 
 ##### **7)	DEFINIR LES MOYENS HUMAINS **
 
-Exemple de listing pour la scène téléchargeable en format Word: [check_list scene.docx](check_list%20scene.docx)
+Exemple de listing pour la scène téléchargeable en format Word: [check_list scene.docx](check_list%20scene.docx?target=_blank)
 
 Combien de personnes organisent, combien sont bénévoles (en amont ?, en aval ?) ; qui fait quoi ?...
 Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir de définir des référents par pôle :
@@ -140,7 +140,7 @@ Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir 
 - plateau artistique
 - cuisine (récup en amont + menu + gestion en aval)
 - petit-déjeuner
-- accueil des conventionnistes (préinscriptions, tarifs, badges, billetterie, goodies...)
+- [accueil]() des conventionnistes (préinscriptions, tarifs, badges, billetterie, goodies...)
 - buvette
 - scène ouverte
 - renegade
