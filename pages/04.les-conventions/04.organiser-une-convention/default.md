@@ -9,6 +9,8 @@ published: true
 
 "_J’ai déjà organisé une convention, mais je me demande si je peux pas faire mieux ?_" Si vous vous posez cette question, cette page est aussi une bible pour vous !
 
+### Guide de l'organisateur de convention de jonglerie - explications et remerciements
+
 * > [Avant-propos](avant-propos)	
 * > [Remerciements](remerciements)	 	
 * > [Introduction](introduction)	
@@ -28,6 +30,6 @@ published: true
 * > [Les jeux de la jongle](les-jeux-de-la-jongle)
 * > [La décoration](la-decoration)
 
-### # Guide de l'organisateur de convention de jonglerie - Liens et téléchargements
+### # Guide de l'organisateur de convention de jonglerie - liens et téléchargements
 
 * > [Liens et téléchargements utiles](liens-utiles)
