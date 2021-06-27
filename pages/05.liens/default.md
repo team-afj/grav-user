@@ -23,6 +23,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Association Européenne de Jonglerie (EJA)](https://www.eja.net/)
 
+[Eyco - European Youth Cricus Organization](https://www.eyco.org/)
+
 [Giocoleria.org](https://www.giocoleria.org/en/)
 
 [International Jugglers’ Association (IJA)](https://www.juggle.org/)
@@ -68,6 +70,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 [Roulemaboule](https://roulemabouleasso.wordpress.com/2018/09/11/liens/)
 
 [Siteswap.org](http://www.siteswap.org/)
+
+[Spin More Poï](https://www.spinmorepoi.com/)
 
 [VisualSpinner3D](http://infiniteperplexity.github.io/visual-spinner-3d/)
 
