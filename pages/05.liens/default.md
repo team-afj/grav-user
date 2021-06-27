@@ -60,6 +60,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Chaîne YT IJA Jugglers](https://www.youtube.com/c/IJAvideo/featured)
 
+[Jason Garfield - Comedy Juggling](https://www.jasongarfield.com/)
+
 [Jonglage.net](https://www.jonglage.net/)
 
 [Juggling.tv](https://juggling.tv/)
