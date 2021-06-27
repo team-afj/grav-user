@@ -24,12 +24,12 @@ published: true
 * > [Pendant la convention](pendant-la-convention)	
 * > [Après la convention](apres-la-convention)
 
-### # Guide de l'organisateur de convention de jonglerie - par thématiques de l'organisation
+### Guide de l'organisateur de convention de jonglerie - par thématiques de l'organisation
 
 * > [L'accueil](accueil)
 * > [Les jeux de la jongle](les-jeux-de-la-jongle)
 * > [La décoration](la-decoration)
 
-### # Guide de l'organisateur de convention de jonglerie - liens et téléchargements
+### Guide de l'organisateur de convention de jonglerie - liens et téléchargements
 
 * > [Liens et téléchargements utiles](liens-utiles)
