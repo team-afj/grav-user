@@ -112,6 +112,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Home of Poï](https://www.homeofpoi.com/fr/)
 
+[Hoopologie](https://www.hoopologie.com/)
+
 [K8 Juggling Store](https://k8juggling.com/en/)
 
 [La Ribouldingue](https://www.laribouldingue.com/)
