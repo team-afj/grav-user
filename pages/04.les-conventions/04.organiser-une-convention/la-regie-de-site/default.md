@@ -78,7 +78,7 @@ Il existe des câbles encore plus épais, mis en rallonge courantes ce sont cell
 - Signaler avec des écriteaux ou des marquages sur les multiprises les espaces où les gens peuvent mettre leur téléphone à recharger.
 - Ne pas hésiter à rappeler souvent aux bénévoles qu’ils ne doivent pas brancher ou débrancher des appareils sans avoir une autorisation explicite de le faire.
 
-#### 7.Autres choses en vrac :
+#### 7. Autres choses en vrac :
 
 - Les extincteurs : il y en a plusieurs types, répartis les biens en fonction des dangers. Mettre un plan des extincteurs à disposition des gens et briefez-les pour qu’ils puissent réagir vite.
 - Si le courant saute : il faut identifier la panne avant de remettre le courant. Si t’as de l’eau qui coule dans une multiprise, t’as besoin de savoir où elle est.
