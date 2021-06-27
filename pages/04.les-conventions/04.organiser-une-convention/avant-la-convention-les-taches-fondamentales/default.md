@@ -134,7 +134,7 @@ Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir 
 - administratif et financier (subventions, bilan, autorisations...)
 - communication (mairie, journaliste, conventionniste…)
 - logistique & développement durable (site, électricité, coin orga, artistes et bénévoles, chapiteaux, tentes, barrières, services municipaux, chill-out, toilettes sèches, poubelles de tri, déchet, recyclage...) 
-- décoration et signalétique
+- [décoration et signalétique](../la-decoration?target=_blank)
 - sécurité
 - technique scénique
 - plateau artistique
