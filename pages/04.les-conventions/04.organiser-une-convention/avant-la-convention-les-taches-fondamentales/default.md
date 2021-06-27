@@ -126,9 +126,8 @@ Exemple de programmation téléchargeable en format Excel: [CFJ_prog&planning.xl
 
 Exemple de listing pour la scène téléchargeable en format Word: [check_list scene.docx](check_list%20scene.docx?target=_blank)
 
-Combien de personnes organisent, combien sont bénévoles (en amont ?, en aval ?) ; qui fait quoi ?...
-Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir de définir des référents par pôle :
-
+Combien de personnes organisent, combien sont bénévoles (en amont ?, en aval ?) ; qui fait quoi ?...  
+Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir de définir des référents par pôle :  
 - superviseur général (gestion du projet et de l’équipe, gestion des plannings organisateurs, bénévoles et volontaire, planning montage et démontage…)
 - réunions (communication de la date, ordre du jour, compte rendu…)  
 - administratif et financier (subventions, bilan, autorisations...)
