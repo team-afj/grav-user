@@ -89,7 +89,7 @@ Par exemple, voici une liste de critères nécessaires et les questions techniqu
 - Date de mise à disposition des lieux (début et fin)
 - Contact de la personne coordinatrice de la mairie (l'attaché culturelle + les services techniques)
 
-##### **Nous vous recommandons très fortement d'avoir la confirmation de la réservation du site avant de faire les autres étapes.**
+**Nous vous recommandons très fortement d'avoir la confirmation de la réservation du site avant de faire les autres étapes.**
 
 ##### **4)	DEFINIR LES MOYENS TECHNIQUES PRIMORDIAUX**
 
@@ -213,7 +213,8 @@ Le référent général voit comment l’ensemble des pôles évolue et décide 
 -	Faire éventuellement des confitures en avance avec des récupérations de fruits
 -	Installer le petit-déjeuner le matin pour que les jongleurs puissent se servir
 
-**●	[L'accueil](../accueil)**  
+**●	[L'accueil](../accueil)**
+
 L’accueil est un lieu important, c’est le premier lieu de rencontre entre l’organisation et les conventionistes. C’est également un lieu d’information et de vente des tickets d’entrée. Il faut donc lui attribuer une importance particulière. Idéalement, quelqu'un d'expérimenté sera responsable de l’accueil, arrivera tôt pour tout mettre en place, organiser l'espace, recruter une équipe de bénévoles dont il sait qu'il peut s'occuper, mettre des marchandises à portée de main, etc. Le responsable de l'accueil doit être en mesure de travailler à l’accueil (tout en sachant déléguer) - ce n'est donc pas un travail pour quelqu'un qui a d'autres responsabilités qui l'obligeront à se déplacer beaucoup sur le site. Pendant les périodes de grosses fréquentations, ce n'est pas un endroit pour quelqu'un qui n'a pas été briefé en amont.
 
 **Matériel et espace nécessaires :**
