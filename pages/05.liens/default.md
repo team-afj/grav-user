@@ -106,9 +106,9 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [British Juggling Convention (BJC)](https://www.britishjugglingconvention.co.uk/?target=_blank)
 
-[Calendrier des conventions allemandes (INBAZ 2.0)](https://www.inbaz.org/?target=_blank)
+[INBAZ 2.0 (Calendrier des conventions allemandes)](https://www.inbaz.org/?target=_blank)
 
-[Calendrier des conventions du monde entier (The Juggling Edge)](https://www.jugglingedge.com/events.php?target=_blank)
+[The Juggling Edge (Calendrier des conventions du monde entier)](https://www.jugglingedge.com/events.php?target=_blank)
 
 [International Juggling Association Festival](https://festival.juggle.org/?target=_blank)
 
