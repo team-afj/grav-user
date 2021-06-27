@@ -15,6 +15,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Jongle.net](http://www.jongle.net/)
 
+[Juggle Master](https://www.jugglemaster.fr/)
+
 [Maison des Jonglages](http://maisondesjonglages.fr/fr)
 
 ##### **Sites généralistes anglophones et autres langues**
