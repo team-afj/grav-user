@@ -126,6 +126,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Japan Juggling Festival (Japon)](https://www.facebook.com/Japan-Juggling-Festival-729718833710947/?target=_blank)
 
+[J-Fest - Turkish Juggling Convention (Turquie)](https://en.j-fest.com/iptal?target=_blank)
+
 [Juggling in Poland - Kuglarstwo w Polsce (Pologne)](https://www.juggle.pl/?target=_blank)
 
 [Myau encuentro de malabaristas de Albendiego (Myau / Spain)](https://albendiegomyau.blogspot.com/?target=_blank)
