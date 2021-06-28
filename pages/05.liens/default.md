@@ -106,7 +106,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 ##### **Sites et calendriers des conventions d'ailleurs**
 
-[Asociacion Donyet Ardit (Alicante / Spain)](https://donyetardit.blogspot.com/)
+[Asociacion Donyet Ardit (Alicante / Spain)](https://donyetardit.blogspot.com/?target=_blank)
 
 [Asociacion de Malabaristas de Zaragoza AMZ (Spain)](http://amzcreandocirco.org/?target=_blank)
 
