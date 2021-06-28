@@ -116,6 +116,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Convention di giocoleria della Brianza (Italia)](https://conventiongiocoleriabrianza.it/?target=_blank)
 
+[Escuela Circo Diverso](http://www.circodiverso.com/?target=_blank)
+
 [EUCIMA Aula de Circo Chaminade (Madrid / Spain)](https://www.facebook.com/circochaminade/?target=_blank)
 
 [INBAZ 2.0 (Calendrier des conventions allemandes)](https://www.inbaz.org/?target=_blank)
