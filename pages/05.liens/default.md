@@ -122,11 +122,11 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [INBAZ 2.0 (Calendrier des conventions allemandes)](https://www.inbaz.org/?target=_blank)
 
-[International Juggling Association Festival](https://festival.juggle.org/?target=_blank)
+[International Juggling Association Festival (États-Unis d'Amérique](https://festival.juggle.org/?target=_blank)
 
-[Japan Juggling Festival](https://www.facebook.com/Japan-Juggling-Festival-729718833710947/?target=_blank)
+[Japan Juggling Festival (Japon)](https://www.facebook.com/Japan-Juggling-Festival-729718833710947/?target=_blank)
 
-[Juggling in Poland - Kuglarstwo w Polsce](https://www.juggle.pl/?target=_blank)
+[Juggling in Poland - Kuglarstwo w Polsce (Pologne)](https://www.juggle.pl/?target=_blank)
 
 [Myau encuentro de malabaristas de Albendiego (Myau / Spain)](https://albendiegomyau.blogspot.com/?target=_blank)
 
