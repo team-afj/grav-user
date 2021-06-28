@@ -39,6 +39,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [The Catch - The UK's Juggling Magazine](http://www.jugglingmagazines.com/?target=_blank)
 
+[Zirkolika - Revista de las Artes Circenses (Espagnol)](https://zirkolika.com/?target=_blank)
+
 ##### **Sites spécifiques**
 
 [Acropedia](https://www.acropedia.org/?target=_blank)
@@ -110,7 +112,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Convention di giocoleria della Brianza (Italia)](https://conventiongiocoleriabrianza.it/?target=_blank)
 
-[Eucima Aula de Circo Chaminade (Madrid / Spain)](https://www.facebook.com/circochaminade/?target=_blank)
+[EUCIMA Aula de Circo Chaminade (Madrid / Spain)](https://www.facebook.com/circochaminade/?target=_blank)
 
 [INBAZ 2.0 (Calendrier des conventions allemandes)](https://www.inbaz.org/?target=_blank)
 
