@@ -122,7 +122,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [INBAZ 2.0 (Calendrier des conventions allemandes)](https://www.inbaz.org/?target=_blank)
 
-[International Juggling Association Festival (États-Unis d'Amérique](https://festival.juggle.org/?target=_blank)
+[International Juggling Association Festival (États-Unis d'Amérique)](https://festival.juggle.org/?target=_blank)
 
 [Japan Juggling Festival (Japon)](https://www.facebook.com/Japan-Juggling-Festival-729718833710947/?target=_blank)
 
