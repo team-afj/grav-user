@@ -112,6 +112,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [British Juggling Convention BJC (England)](https://www.britishjugglingconvention.co.uk/?target=_blank)
 
+[Brno Juggling Convention (République Tchèque)](https://www.facebook.com/BrnoJugglingConvention/?target=_blank)
+
 [Convention di giocoleria della Brianza (Italia)](https://conventiongiocoleriabrianza.it/?target=_blank)
 
 [EUCIMA Aula de Circo Chaminade (Madrid / Spain)](https://www.facebook.com/circochaminade/?target=_blank)
