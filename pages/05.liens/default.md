@@ -104,17 +104,22 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 ##### **Sites et calendriers des conventions d'ailleurs**
 
-[British Juggling Convention (BJC)](https://www.britishjugglingconvention.co.uk/?target=_blank)
+[British Juggling Convention BJC (England)](https://www.britishjugglingconvention.co.uk/?target=_blank)
+
+[Convention di giocoleria della Brianza (Italia)](https://conventiongiocoleriabrianza.it/?target=_blank)
+
+[Eucima Aula de Circo Chaminade (Madrid / Spain)](https://www.facebook.com/circochaminade/?target=_blank)
 
 [INBAZ 2.0 (Calendrier des conventions allemandes)](https://www.inbaz.org/?target=_blank)
-
-[The Juggling Edge (Calendrier des conventions du monde entier)](https://www.jugglingedge.com/events.php?target=_blank)
 
 [International Juggling Association Festival](https://festival.juggle.org/?target=_blank)
 
 [Japan Juggling Festival](https://www.facebook.com/Japan-Juggling-Festival-729718833710947/?target=_blank)
 
-[Convention di giocoleria della Brianza](https://conventiongiocoleriabrianza.it/?target=_blank)
+[Myau encuentro de malabaristas de Albendiego (Myau / Spain)](https://albendiegomyau.blogspot.com/?target=_blank)
+
+[The Juggling Edge (Calendrier des conventions du monde entier)](https://www.jugglingedge.com/events.php?target=_blank)
+
 
 ##### **Sites de vendeurs de matériel de jongle**
 
