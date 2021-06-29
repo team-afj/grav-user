@@ -1,6 +1,6 @@
 ---
 title: 'Conventions françaises "CFJ"'
-media_order: 'CFJ 13 (2020).jpg,CFJ 09 (2017).png,CFJ 12(2019-2020).jpg,CFJ 10(2018).jpg,CFJ 05 (2012).jpg,CFJ 08 (2016).jpg,CFJ 07(2015).jpg,CFJ 11 (2019).jpg,CFJ 06 (2014).jpg,CFJ 01(2008).jpg,CFJ 03(2010).jpg,CFJ 04 (2011).jpg,CFJ 02(2009).jpg'
+media_order: 'CFJ 09 (2017).png,CFJ 05 (2012).jpg,CFJ 08 (2016).jpg,CFJ 06 (2014).jpg,CFJ 01(2008).jpg,CFJ 03(2010).jpg,CFJ 04 (2011).jpg,CFJ 02(2009).jpg,2019 CFJ 11 (2019).jpg,201920 CFJ 12(2019-2020).jpg,2018 CFJ 10(2018).jpg,2020 CFJ 13 (2020).jpg'
 ---
 
 ### Les conventions françaises de jonglerie "CFJ"
@@ -105,5 +105,5 @@ organisée par l'association [Mamagabe](http://assomamagabe.blogspot.com/?target
 ![2018 - ABDD](2018%20CFJ%2010(2018).jpg )
 ![2019 - Bigoud](2019%20CFJ%2011%20(2019).jpg )
 ![2019-2020 - Glühwein](201920%20CFJ%2012(2019-2020).jpg )
-![2020 - JOP](CFJ%2013%20%282020%29.jpg )
+![2020 - JOP](2020%20CFJ%2013%20(2020).jpg)
 [/gallery]
