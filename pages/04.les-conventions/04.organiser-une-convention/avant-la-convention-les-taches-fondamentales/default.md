@@ -57,7 +57,7 @@ Maintenant que vous avez défini vos besoins et vos moyens généraux, il s’ag
 
 Posez-vous d’abord la question de la période de l’année à laquelle vous voulez organiser votre convention ! Selon la région et la période de l’année, le climat peut être plus ou moins clément. Vous pouvez organiser une convention qui se déroulera 100 % à l’intérieur, ou 100 % à l’extérieur, ou faire un mixe des deux. À l’intérieur, il faut suffisamment de hauteur de plafond pour pouvoir jongler. À l’extérieur, il faut veiller plus attentivement à la sécurité des participants et du site en général : Canicule ? Pluie ? Froid ? Faut-il des barrières Heras ?, faut-il des toilettes sèches ?, Y a-t-il un accès à l’eau potable ? Douches extérieures ? Accès à l’électricité (ou groupe électrogène) ? Camping (tentes, camion) ? Parking ? Chapiteau ? Tonnelles ? Bar et Restauration (pensez à prendre en compte le climat quand on compare les consommations du bar et aussi les menus pour la restauration) ?
 	
-Une fois que vous avez choisi la configuration du site, il faut le trouver ! Renseignez-vous pour connaître les endroits potentiels : sur Internet (n’hésitez pas à regarder la cartographie, les images satellites… sur [géoportail](https://www.geoportail.gouv.fr/) par exemple, pour voir la taille des terrains, la surface des salles, la distance avec le voisinage...), chez vos amis, les histoires du week-end de vos collègues, les lieux de fêtes et festivals de vos régions… 
+Une fois que vous avez choisi la configuration du site, il faut le trouver ! Renseignez-vous pour connaître les endroits potentiels : sur Internet (n’hésitez pas à regarder la cartographie, les images satellites… sur [géoportail](https://www.geoportail.gouv.fr/?target=_blank) par exemple, pour voir la taille des terrains, la surface des salles, la distance avec le voisinage...), chez vos amis, les histoires du week-end de vos collègues, les lieux de fêtes et festivals de vos régions… 
 Lors de cette étape, vous pouvez faire un plan du site (en superposant votre propre implémentation personnaliser du site, à la cartographie existante).
 
 Une fois que vous avez trouvé un ou plusieurs site(s) potentiel(s), il faut trouver le contact des gérants du site et les contacter.
@@ -66,9 +66,9 @@ Pour que les propriétaires de la salle comprennent bien de quoi il s’agit et 
 
 Le petit conseil que l’on peut vous donner, c’est d’essayer d’avoir le site gratuitement… Je m’explique : la jonglerie et les arts du cirque en général, ont bonne presse les dernières années (cirque à l’école, cirque adapté, divertissement politiquement correct, mixité entre pratique amateur et professionnelle…). Bref, les conventions de jonglerie sont susceptibles et capables de séduire les collectivités territoriales et autres pouvoirs publics. Ils n’ont pas beaucoup de moyens pour les associations, mais nous leur demandons uniquement d’occuper un site (sur lequel ils paient de toute façon les charges fixes) et qui ne serait pas occupé si la convention n’avait pas lieu. En clair, cela ne leur coûte pas grand-chose de nous accueillir, alors que cela leur permet d’étoffer leur offre culturelle, d’avoir de beaux articles de presse, le tout à moindre coût (presque rien !). De plus, accueillir un tel rassemblement sur sa commune permet de faire fonctionner les commerces locaux, ce qui intéresse les communes/collectivités locales. À la Glühwein en Alsace, la convention commence le vendredi matin par une initiation aux arts du cirque des enfants de plusieurs classes des écoles du village. Cette initiation est un argument supplémentaire pour avoir le site gratuitement et permet d’avoir une jolie couverture des médias. La parade permet aussi d’avoir une visibilité auprès de la population, des médias et des élus.
 
-[Exemple de 1er mail de mise en contact.pdf](Exemple%20de%201er%20mail%20de%20mise%20en%20contact.pdf)
+[Exemple de 1er mail de mise en contact.pdf](Exemple%20de%201er%20mail%20de%20mise%20en%20contact.pdf?target=_blank)
 
-Exemple de dossier de présentation : [CFJ2020 Dossier de présentation.pdf](CFJ2020%20Dossier%20de%20pr%C3%A9sentation.pdf)
+Exemple de dossier de présentation : [CFJ2020 Dossier de présentation.pdf](CFJ2020%20Dossier%20de%20pr%C3%A9sentation.pdf?target=_blank)
 
 **Remarque importante :** à cette étape du montage de l'événement, le dossier n'a pas besoin d'être aussi fourni que l'exemple ci-joint. Néanmoins, il permet de se faire une idée des questions à ce poser en réunions.
 
@@ -89,7 +89,7 @@ Par exemple, voici une liste de critères nécessaires et les questions techniqu
 - Date de mise à disposition des lieux (début et fin)
 - Contact de la personne coordinatrice de la mairie (l'attaché culturelle + les services techniques)
 
-##### **Nous vous recommandons très fortement d'avoir la confirmation de la réservation du site avant de faire les autres étapes.**
+**Nous vous recommandons très fortement d'avoir la confirmation de la réservation du site avant de faire les autres étapes.**
 
 ##### **4)	DEFINIR LES MOYENS TECHNIQUES PRIMORDIAUX**
 
@@ -120,33 +120,32 @@ Attention : le budget prévisionnel présenté aux partenaires doit être à l�
 
 Qu’est ce qui va se passer jour par jour  ?
 
-Exemple de programmation téléchargeable en format Excel: [CFJ_prog&planning.xlsx](CFJ_prog&planning.xlsx)
+Exemple de programmation téléchargeable en format Excel: [CFJ_prog&planning.xlsx](CFJ_prog&planning.xlsx?target=_blank)
 
 ##### **7)	DEFINIR LES MOYENS HUMAINS **
 
-Exemple de listing pour la scène téléchargeable en format Word: [check_list scene.docx](check_list%20scene.docx)
+Exemple de listing pour la scène téléchargeable en format Word: [check_list scene.docx](check_list%20scene.docx?target=_blank)
 
-Combien de personnes organisent, combien sont bénévoles (en amont ?, en aval ?) ; qui fait quoi ?...
-Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir de définir des référents par pôle :
-
+Combien de personnes organisent, combien sont bénévoles (en amont ?, en aval ?) ; qui fait quoi ?...  
+Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir de définir des référents par pôle :  
 - superviseur général (gestion du projet et de l’équipe, gestion des plannings organisateurs, bénévoles et volontaire, planning montage et démontage…)
 - réunions (communication de la date, ordre du jour, compte rendu…)  
 - administratif et financier (subventions, bilan, autorisations...)
 - communication (mairie, journaliste, conventionniste…)
-- logistique & développement durable (site, électricité, coin orga, artistes et bénévoles, chapiteaux, tentes, barrières, services municipaux, chill-out, toilettes sèches, poubelles de tri, déchet, recyclage...) 
-- décoration et signalétique
+- logistique & développement durable (site, électricité, coin pour les organisateurs, artistes et bénévoles, chapiteaux, tentes, barrières, services municipaux, chill-out, toilettes sèches, poubelles de tri, déchet, recyclage...) 
+- [décoration et signalétique](../la-decoration)
 - sécurité
 - technique scénique
 - plateau artistique
 - cuisine (récup en amont + menu + gestion en aval)
 - petit-déjeuner
-- accueil des conventionnistes (préinscriptions, tarifs, badges, billetterie, goodies...)
+- [accueil](../accueil) des conventionnistes (préinscriptions, tarifs, badges, billetterie, goodies...)
 - buvette
 - scène ouverte
 - renegade
 - espace feu 
 - workshop
-- jeux de la jongle 
+- [jeux de la jongle](../les-jeux-de-la-jongle) 
 - musique et concerts
 - animation cirque des enfants
 - …
@@ -154,7 +153,7 @@ Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir 
 Une personne est susceptible d’occuper plusieurs de ces pôles à la fois, comme par exemple :
 - Spectacles (Gala, scènes ouvertes, spectacle de rue, feu, concerts, renegade...)
 - Prestataires (Chill-Out, Initiations, stands, ostéopathes, sécurité, photographes...)
-- Animation (Workshops, initiations, Parade, Volley massue, jeux de la jongle...)
+- Animation (Workshops, initiations, Parade, Volley massue, [jeux de la jongle](../les-jeux-de-la-jongle)...)
 - …
 
 Une autre idée est d’avoir un référent et un assistant référent pour chaque pôle. Puis l’édition d’après (en n+1), l’équipe s’inverse : le référent devient assistant et l’assistant devient référent. Enfin, l’édition d’encore après (en n+2), le référent prend sous son aile, un nouvel assistant. Cela est une manière d’assurer la pérennité des compétences des organisateurs.
@@ -191,7 +190,7 @@ Le référent général voit comment l’ensemble des pôles évolue et décide 
 -	Faire éventuellement une affiche pour le gala
 -	Faire éventuellement une affiche pour les concerts
 -	Faire un dossier de presse et l’adapter en fonction qu’on l’adresse aux jongleurs ou à l’attention des médias.
--	Annoncer la convention sur le net : www.afj.asso.fr, www.jongle.net, www.jugglingedge.com/events, www.inbaz.org (le calendrier allemand des conventions), évènement Facebook... Pensez aussi à annoncer la convention auprès du réseau des organisateurs de conventions en France : pour se faire envoyer un mail sur afj@framalistes.org (merci de ne pas polluer cette adresse avec d’autres informations non-pertinentes ; elle nous est précieuse !).
+-	Annoncer la convention sur le net : [www.afj.asso.fr](http://www.afj.asso.fr/?target=_blank), [www.jugglingedge.com/events](https://www.jugglingedge.com/events.php?target=_blank) (le calendrier mondiale des conventions), [www.inbaz.org](https://www.inbaz.org/?target=_blank) (le calendrier allemand des conventions), évènement Facebook... Pensez aussi à annoncer la convention auprès du réseau des organisateurs de conventions en France : pour se faire envoyer un mail sur afj@framalistes.org (merci de ne pas polluer cette adresse avec d’autres informations non-pertinentes ; elle nous est précieuse !).
 -	Annoncer l'événement dans la presse locale : faire un dossier de presse.
 -	Lancer et gérer les pré-inscriptions. Créer par exemple une boîte mail, permet de réceptionner les pré-inscriptions, répondre aux questions des conventionnistes, des bénévoles et artistes, de recevoir des propositions de numéros pour le gala, de workshops, de bénévoles... Pleins de jongleurs ont des questions avant de venir, donc il faut y répondre. 
 -	Demande d’autorisation parentale et photocopie de la pièce d’identité pour les mineurs non-accompagnés de leurs responsables légaux (ou demande de responsabilité civile par un adulte présent à la convention, mais qui n’est pas le responsable légal).
@@ -214,7 +213,8 @@ Le référent général voit comment l’ensemble des pôles évolue et décide 
 -	Faire éventuellement des confitures en avance avec des récupérations de fruits
 -	Installer le petit-déjeuner le matin pour que les jongleurs puissent se servir
 
-**●	L'accueil**
+**●	[L'accueil](../accueil)**
+
 L’accueil est un lieu important, c’est le premier lieu de rencontre entre l’organisation et les conventionistes. C’est également un lieu d’information et de vente des tickets d’entrée. Il faut donc lui attribuer une importance particulière. Idéalement, quelqu'un d'expérimenté sera responsable de l’accueil, arrivera tôt pour tout mettre en place, organiser l'espace, recruter une équipe de bénévoles dont il sait qu'il peut s'occuper, mettre des marchandises à portée de main, etc. Le responsable de l'accueil doit être en mesure de travailler à l’accueil (tout en sachant déléguer) - ce n'est donc pas un travail pour quelqu'un qui a d'autres responsabilités qui l'obligeront à se déplacer beaucoup sur le site. Pendant les périodes de grosses fréquentations, ce n'est pas un endroit pour quelqu'un qui n'a pas été briefé en amont.
 
 **Matériel et espace nécessaires :**
@@ -241,7 +241,7 @@ Il faut définir si vous optez pour des jetons ou pour de la monnaie. Si vous ut
 -	Avoir les numéros d’urgence et un plan d’évacuation, en cas de besoin
 -	Faire passer une commission de sécurité, si nécessaire
 
-**●	La décoration de la salle**
+**●	[La décoration de la salle](../la-decoration)**
 -	Avec quoi on peut personnaliser la salle :
 	Une jolie décoration est importante pour donner de l’originalité et une identité visuelle à votre convention. Voici des trucs et astuces pour faire de la récupération et créer des décorations sympas et faciles.
 -	Des moquettes ! Elles peuvent être récupérées à la fin des salons des parcs d’exposition : elles sont souvent en bon état et en général conformes aux normes incendies. Les jongleurs seront heureux d’avoir un coin moquette pour jongler. 
@@ -282,7 +282,7 @@ WORKSHOP
 
 Remarque : il faut renseigner le nom, le lieu (ex: grande salle), le thème (balles, diabolo...), le niveau (débutant...).
 
-**●	Les jeux de la jongle**
+**●	[Les jeux de la jongle](../les-jeux-de-la-jongle)**
 -	Savoir qui s’occupe de les présenter et prévoir la logistique s’il y a de la musique.
 -	Définir quels jeux faires 
 -	Savoir ce qu’on offre comme cadeaux aux gagnants et combien de cadeaux il faut.
@@ -297,4 +297,4 @@ Remarque : il faut renseigner le nom, le lieu (ex: grande salle), le thème (bal
 
 **●	Les vendeurs**
 -	Est-ce que vous souhaitez avoir des stands de vente de matériel de jonglerie ? Si oui, contacter les vendeurs et s’arranger. Il faut penser aux moyens de mises à disposition des stands, s’ils doivent payer ? Et que faire si d’autres vendeurs non-annoncés s’installent ? 
-Nous vous recommandons _[Net’Juggler](https://www.netjuggler.net/?msclkid=f1a9ea7aef991e545e1e8aad570ae288&utm_source=bing&utm_medium=cpc&utm_campaign=001%20Marque&utm_term=netjuggler&utm_content=Netjuggler%20exact)_, qui se déplacent régulièrement avec son camion, sur les conventions en France. Mais vous pouvez également faire appel à des jongleurs qui fabriquent eux-mêmes leurs matériels et sont capables d’installer des stands avec tonnelles. Si vous ne souhaitez pas avoir de vendeur, il faut clairement le préciser aux jongleurs (lors de la communication), sinon certains s’installent et vendent leur matériel fait maison. Vous devriez également vous interroger sur la place des vendeurs d’autres matériels (vêtements, bijoux, maquillage, objets en tout genre…), autorisé ou pas ? Mais attention, vous portez une forme de responsabilité qu’en à par exemple la qualité et la provenance des produits qui sont vendus sur votre événement. Donc attention à la législation et la réglementation du commerce. Pour s’en prémunir, n’autorisez pas les ventes dont vous n’avez pas confiance, ou de certificat.
+Nous vous recommandons [Net’Juggler](https://www.netjuggler.net/?msclkid=f1a9ea7aef991e545e1e8aad570ae288&utm_source=bing&utm_medium=cpc&utm_campaign=001%20Marque&utm_term=netjuggler&utm_content=Netjuggler%20exact), qui se déplacent régulièrement avec son camion, sur les conventions en France. Mais vous pouvez également faire appel à des jongleurs qui fabriquent eux-mêmes leurs matériels et sont capables d’installer des stands avec tonnelles. Si vous ne souhaitez pas avoir de vendeur, il faut clairement le préciser aux jongleurs (lors de la communication), sinon certains s’installent et vendent leur matériel fait maison. Vous devriez également vous interroger sur la place des vendeurs d’autres matériels (vêtements, bijoux, maquillage, objets en tout genre…), autorisé ou pas ? Mais attention, vous portez une forme de responsabilité qu’en à par exemple la qualité et la provenance des produits qui sont vendus sur votre événement. Donc attention à la législation et la réglementation du commerce. Pour s’en prémunir, n’autorisez pas les ventes dont vous n’avez pas confiance, ou de certificat.

@@ -1,5 +1,6 @@
 ---
 title: 'Liens et téléchargements utiles'
+media_order: 'AFJ - Guide orga conv..pdf'
 ---
 
 ### Liens et téléchargements utiles pour l'organisation
@@ -8,16 +9,16 @@ title: 'Liens et téléchargements utiles'
 
 ##### Notre page Méta-convention
 
-Depuis 2020, l'AFJ organise une convention à destination des organisateurs de conventions de jonglerie, la [Méta-convention]( 	/meta-convention). Nous vous invitons donc à consulter la page de notre site qui lui ai dédiée.
+Depuis 2020, l'AFJ organise une convention à destination des organisateurs de conventions de jonglerie, la [Méta-convention](/meta-convention). Nous vous invitons donc à consulter la page de notre site qui lui ai dédiée.
 
 ##### Wiki BJC
 
-Un lien très utile pour l'organisation de convention est celui de la [British Juggling Convention (BJC)](http://thebritishjugglingconvention.co.uk/wiki/index.php?title=British_Juggling_Convention_Wiki). C’est la base de données la plus complète à notre connaissance concernant l’organisation de conventions de jonglerie. Néanmoins, le contenu est intégralement en anglais.
+Un lien très utile pour l'organisation de convention est celui de la [British Juggling Convention (BJC)](http://thebritishjugglingconvention.co.uk/wiki/index.php?title=British_Juggling_Convention_Wiki?target=_blank). C’est la base de données la plus complète à notre connaissance concernant l’organisation de conventions de jonglerie. Néanmoins, le contenu est intégralement en anglais.
 
 #### Téléchargements utiles pour l'organisation
 
 ##### Guide de l’Association Française de Jonglerie pour les organisateurs de convention
 
-Ce présent guide de l'organisateur de convention de jonglerie existe également en format .pdf 
+Ce présent guide de l'organisateur de convention de jonglerie existe également en format .pdf : [AFJ - Guide orga conv..pdf](AFJ%20-%20Guide%20orga%20conv..pdf?target=_blank)
 
 Néanmoins, il est forcément moins interactif et est susceptible d'être moins à jour que les informations présentes sur notre site internet.

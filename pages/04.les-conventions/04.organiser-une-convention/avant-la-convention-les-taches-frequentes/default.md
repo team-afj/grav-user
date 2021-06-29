@@ -91,9 +91,9 @@ Dernier point, histoire de ne pas vous faire avoir ou de répondre à la premiè
 
 Voici des rapports sur le cirque à l’école, qui peuvent éventuellement donner des pistes de réflexion :
 
-[Les activités de cirque à l’école primaire](http://ww2.ac-poitiers.fr/dsden17-pedagogie/IMG/pdf/cirque_ec_elem_-1.pdf)
+[Les activités de cirque à l’école primaire](http://ww2.ac-poitiers.fr/dsden17-pedagogie/IMG/pdf/cirque_ec_elem_-1.pdf?target=_blank)
 
-[« CIRQUE A L’ECOLE » une approche corporelle](http://www.ien-guyancourt.ac-versailles.fr/IMG/pdf/le_cirque_a_lecole.pdf)
+[« CIRQUE A L’ECOLE » une approche corporelle](http://www.ien-guyancourt.ac-versailles.fr/IMG/pdf/le_cirque_a_lecole.pdf?target=_blank)
 
 
 **●	L’espace enfant **
@@ -113,7 +113,7 @@ C’est une promenade colorée et bruyante à travers la ville, souvent combiné
 
 Nous vous proposons des règles du jeu, mais c'est à vous de voir :
 
-[VOLLEY.pdf](VOLLEY.pdf)
+[VOLLEY.pdf](VOLLEY.pdf?target=_blank)
 
 **Remarque générale:**
 Plus vous pourrez vous arranger à l'avance mieux ce sera. Ne mettez rien de côté, ou vous allez vous retrouver, le moment venu, sous une avalanche de petits problèmes.

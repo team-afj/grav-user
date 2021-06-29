@@ -10,7 +10,7 @@ media_order: 'CFJ 13 (2020).jpg,CFJ 09 (2017).png,CFJ 12(2019-2020).jpg,CFJ 10(2
 La Convention Française de Jonglerie (CFJ) _ou French Juggling Convention (FJC)_, est la convention nationale française de jonglerie.
 
 Tout comme plusieurs autres pays, tels que le Royaume-Uni avec la "_British Juggling Convention_" (BJC), le Japon avec le "_Japan Juggling Festival_" (JJF), Israël avec la "_Israeli Juggling Convention_" (IJC),  la Turquie avec la "_Turkish Juggling Convention_" (TJC)... l'appellation "_Convention française_" fait référence à la convention nationale d'un pays et se distingue donc d'une convention régionale qui aurait lieu dans ce même pays. 
-Il en va, bien évidemment, de même en ce qui concerne l'appellation "Convention Européenne de Jonglerie" (_European Juggling Convention_, EJC) qui se déroule une fois par an dans un pays européen et se distingue à la fois e la convention nationale et des conventions régionales de ce même pays.
+Il en va, bien évidemment, de même en ce qui concerne l'appellation "_Convention Européenne de Jonglerie_" (_European Juggling Convention_, EJC) qui se déroule une fois par an dans un pays européen et se distingue à la fois e la convention nationale et des conventions régionales de ce même pays.
  
 #### **La CFJ : Pourquoi ?**
 
@@ -34,63 +34,63 @@ Pour déterminer qui accueillera la prochaine CFJ, les différentes organisation
 
 **1ère Convention Française** / Carvin (62)
 du 21 au 27 juillet 2008
-organisée par le [Cirque du Bout du Monde](http://lecirqueduboutdumonde.fr/) 
+organisée par le [Cirque du Bout du Monde](http://lecirqueduboutdumonde.fr/?target=_blank) 
 
 **2ème Convention Française** / Carvin (62)
 du 22 au 26 juillet 2009
-organisée par le [Cirque du Bout du Monde](http://lecirqueduboutdumonde.fr/)
+organisée par le [Cirque du Bout du Monde](http://lecirqueduboutdumonde.fr/?target=_blank)
 
 **3ème Convention Française** "West Coast Convention" / Nantes (44)
 du 20 au 27 juin 2010
-organisée par [Archiballes](http://archiballes.free.fr/v2/?page=sommaire&id_rubrique=1) et le Cajo
+organisée par [Archiballes](http://archiballes.free.fr/v2/?page=sommaire&id_rubrique=1?target=_blank) et le Cajo
 	
 **4ème Convention Française** "Bigoud'N'Jongle" / Vezin-le-Coquet (35)
 du 10 au 17 juillet 2011 
-organisée par l'association [Jongle & Rit](https://jongleetrit.wordpress.com/)
+organisée par l'association [Jongle & Rit](https://jongleetrit.wordpress.com/?target=_blank)
 
 **5ème Convention Française** "Boudu la jongle" / Toulouse (31)
 du 10 au 15 juillet 2012
-organisée par l'association [ParHazArt](https://www.parhazart.org/)
+organisée par l'association [ParHazArt](https://www.parhazart.org/?target=_blank)
 
 (_En 2013, la CFJ a été remplacée par la 36ème convention européenne de jonglerie l'EJC) _/ Toulouse (31)
 du 27 juillet au 3 août 2013
-organisée par l'association [ParHazArt](https://www.parhazart.org/)
+organisée par l'association [ParHazArt](https://www.parhazart.org/?target=_blank)
 	
-**6ème Convention Française** "[Mamagabe](http://assomamagabe.blogspot.com/)" / Poitiers (86)
+**6ème Convention Française** "[Mamagabe](http://assomamagabe.blogspot.com/?target=_blank)" / Poitiers (86)
 du 26 au 31 aout 2014
-organisée par l'association [Mamagabe](http://assomamagabe.blogspot.com/)
+organisée par l'association [Mamagabe](http://assomamagabe.blogspot.com/?target=_blank)
 
-**7ème Convention Française** "[Les Irréductibles](https://www.facebook.com/pg/cnj2015/posts/)" / Colinée (22)
+**7ème Convention Française** "[Les Irréductibles](https://www.facebook.com/pg/cnj2015/posts/?target=_blank)" / Colinée (22)
 du 28 juillet au 2 août 2015
-organisée par [Les Irréductibles](https://www.facebook.com/pg/cnj2015/posts/)
+organisée par [Les Irréductibles](https://www.facebook.com/pg/cnj2015/posts/?target=_blank)
 
-**8ème Convention Française** "[Jongl’ Ô Païs](https://fr-fr.facebook.com/login/?next=https%3A%2F%2Ffr-fr.facebook.com%2FJOP07690%2F)" / Vanosc (07)
+**8ème Convention Française** "[Jongl’ Ô Païs](https://fr-fr.facebook.com/login/?next=https%3A%2F%2Ffr-fr.facebook.com%2FJOP07690%2F?target=_blank)" / Vanosc (07)
 du 13 au 17 juillet 2016
-organisée par [La Ribouldingue](https://www.laribouldingue.com/)
+organisée par [La Ribouldingue](https://www.laribouldingue.com/?target=_blank)
 
 **9ème Convention Française** "West Coast Convention" / Saint Viaud (44)
 du 12 au 16 juillet 2017
-organisée par le collectif [Cirkouest ](https://www.cirkouest.fr/)
+organisée par le collectif [Cirkouest ](https://www.cirkouest.fr/?target=_blank)
 
 **10ème Convention Française** "Au Bout Des Doigts" / Ambérieu-en-Bugey (01)
 du 13 au 19 juillet 2018
-organisée par l’association [Ajil](http://ajil-asso.fr/)
+organisée par l’association [Ajil](http://ajil-asso.fr/?target=_blank)
 
 **11ème Convention Française** "Bigoud'N'Jongle" / Vezin-le-Coquet (35)
 du 23 au 28 juillet 2019
-organisée par l'association [Jongle & Rit](https://jongleetrit.wordpress.com/)
+organisée par l'association [Jongle & Rit](https://jongleetrit.wordpress.com/?target=_blank)
 
-**12ème Convention Française** "[Glühwein-convention](https://assodesnazes.wixsite.com/cfj-gluhwein-2020)" / Habsheim (68)
+**12ème Convention Française** "[Glühwein-convention](https://assodesnazes.wixsite.com/cfj-gluhwein-2020?target=_blank)" / Habsheim (68)
 du 29.12.2019 au 03.01.2020
-organisée par l'association française de jonglerie, [l'association des nazes](https://www.les-nazes.com/), l'association [Pyrocircus](troupe-pyrocircus.fr), et l'association [Chill'Ubik](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fchillubik%2F%3F__xts__%255B%25C2%25AB0%25C2%25BB%255D%3D68...) 
+organisée par l'association française de jonglerie, [l'association des nazes](https://www.les-nazes.com/), l'association [Pyrocircus](troupe-pyrocircus.fr?target=_blank), et l'association [Chill'Ubik](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fchillubik%2F%3F__xts__%255B%25C2%25AB0%25C2%25BB%255D%3D68...?target=_blank) 
 
-**13ème Convention Française** "[Jongl’ Ô Païs](https://fr-fr.facebook.com/login/?next=https%3A%2F%2Ffr-fr.facebook.com%2FJOP07690%2F)" / Vanosc (07)
+**13ème Convention Française** "[Jongl’ Ô Païs](https://fr-fr.facebook.com/login/?next=https%3A%2F%2Ffr-fr.facebook.com%2FJOP07690%2F?target=_blank)" / Vanosc (07)
 du 22 juillet au 2 août 2020
-organisée par [La Ribouldingue](https://www.laribouldingue.com/)
+organisée par [La Ribouldingue](https://www.laribouldingue.com/?target=_blank)
 
-**14ème Convention Française** "[Mamagabe](http://assomamagabe.blogspot.com/)" / Poitiers (86)
+**14ème Convention Française** "[Mamagabe](http://assomamagabe.blogspot.com/?target=_blank)" / Poitiers (86)
 du 25 au 29 août 2021
-organisée par l'association [Mamagabe](http://assomamagabe.blogspot.com/)
+organisée par l'association [Mamagabe](http://assomamagabe.blogspot.com/?target=_blank)
 
 [gallery lastRow="justify"]
 ![2008 - Carvin](CFJ%2001%282008%29.jpg )

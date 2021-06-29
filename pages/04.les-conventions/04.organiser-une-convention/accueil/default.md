@@ -3,7 +3,7 @@ title: 'L''accueil'
 media_order: 'ex.planning.jpg,Pole accueil_pwp.pdf'
 ---
 
-Version pdf téléchargeable : [Pole accueil_pwp.pdf](Pole%20accueil_pwp.pdf)
+Version pdf téléchargeable : [Pole accueil_pwp.pdf](Pole%20accueil_pwp.pdf?target=_blank)
 
 ### L’organisation du pôle accueil en convention
 
@@ -159,7 +159,7 @@ Devrait apparaitre sur ce listing, au minimum : nom, prénom, e-mail et numéro 
 Ayez un calendrier avec les horaires précises à occuper pour chaque poste à pourvoir.
 Exemple de planning:
 
-![ex.planning](ex.planning.jpg "ex.planning")
+![ex.planning](ex.planning.jpg "ex.planning"?target=_blank)
 
 **Informer les bénévole et garder le contact avec eux.**
 

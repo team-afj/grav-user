@@ -14,4 +14,4 @@ D’autre part, l’idée n’est pas d’imposer un seul et même modèle organ
 
 Le parti-pris de ce guide est d’établir un listing assez exhaustif des tâches que l’on peut effectuer en tant qu’organisateur entre : « l’avant », « le pendant » et « l’après-convention ». Il n’est pas nécessaire de réaliser tous les points pour organiser une convention. Néanmoins, certaines tâches sont essentielles pour mener à bien ce type de projets.
 
-Enfin, si vous avez besoin d'aide, ou si vous souhaitez nous faire des propositions de modifications ou autres suggestions de compléments, n’hésitez pas à nous joindre sur : [afj.jonglerie@gmail.com](afj.jonglerie@gmail.com)
+Enfin, si vous avez besoin d'aide, ou si vous souhaitez nous faire des propositions de modifications ou autres suggestions de compléments, n’hésitez pas à nous joindre sur : [afj.jonglerie@gmail.com](mailto:afj.jonglerie@gmail.com)
