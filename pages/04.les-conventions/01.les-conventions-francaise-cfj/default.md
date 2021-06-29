@@ -1,6 +1,6 @@
 ---
 title: 'Conventions françaises "CFJ"'
-media_order: 'CFJ 01(2008).jpg,CFJ 02(2009).jpg,CFJ 03(2010).jpg,CFJ 04 (2011).jpg,CFJ 05 (2012).jpg,CFJ 06 (2014).jpg,CFJ 07(2015).jpg,CFJ 08 (2016).jpg,CFJ 09 (2017).png,CFJ 10(2018).jpg,index.jpg,CFJ12(2020).png.png,jop.jpg'
+media_order: 'CFJ 13 (2020).jpg,CFJ 09 (2017).png,CFJ 12(2019-2020).jpg,CFJ 10(2018).jpg,CFJ 05 (2012).jpg,CFJ 08 (2016).jpg,CFJ 07(2015).jpg,CFJ 11 (2019).jpg,CFJ 06 (2014).jpg,CFJ 01(2008).jpg,CFJ 03(2010).jpg,CFJ 04 (2011).jpg,CFJ 02(2009).jpg'
 ---
 
 ### Les conventions françaises de jonglerie "CFJ"
@@ -91,3 +91,19 @@ organisée par [La Ribouldingue](https://www.laribouldingue.com/)
 **14ème Convention Française** "[Mamagabe](http://assomamagabe.blogspot.com/)" / Poitiers (86)
 du 25 au 29 août 2021
 organisée par l'association [Mamagabe](http://assomamagabe.blogspot.com/)
+
+[gallery lastRow="justify"]
+![2008 - Carvin](CFJ%2001%282008%29.jpg )
+![2009 - Carvin](CFJ%2002%282009%29.jpg)
+![2010 - West Coast](CFJ%2003%282010%29.jpg)
+![2011 - Bigoud](CFJ%2004%20%282011%29.jpg )
+![2012 - Boudu](CFJ%2005%20%282012%29.jpg )
+![2014 - Poitiers](CFJ%2006%20%282014%29.jpg )
+![2015 - Irréductibles](CFJ%2007%282015%29.jpg )
+![2016 - Jongl'o Pais](CFJ%2008%20%282016%29.jpg )
+![2017 - West Coast](CFJ%2009%20%282017%29.png )
+![2018 - ABDD](CFJ%2010%282018%29.jpg )
+![2019 - Bigoud](CFJ%2011%20%282019%29.jpg )
+![2019-2020 - Glühwein](CFJ%2012%282019-2020%29.jpg )
+![2020 - JOP](CFJ%2013%20%282020%29.jpg )
+[/gallery]
