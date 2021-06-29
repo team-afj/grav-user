@@ -102,8 +102,8 @@ organisée par l'association [Mamagabe](http://assomamagabe.blogspot.com/?target
 ![2015 - Irréductibles](CFJ%2007%282015%29.jpg )
 ![2016 - Jongl'o Pais](CFJ%2008%20%282016%29.jpg )
 ![2017 - West Coast](CFJ%2009%20%282017%29.png )
-![2018 - ABDD](CFJ%2010%282018%29.jpg )
-![2019 - Bigoud](CFJ%2011%20%282019%29.jpg )
-![2019-2020 - Glühwein](CFJ%2012%282019-2020%29.jpg )
+![2018 - ABDD](2018%20CFJ%2010(2018).jpg )
+![2019 - Bigoud](2019%20CFJ%2011%20(2019).jpg )
+![2019-2020 - Glühwein](201920%20CFJ%2012(2019-2020).jpg )
 ![2020 - JOP](CFJ%2013%20%282020%29.jpg )
 [/gallery]
