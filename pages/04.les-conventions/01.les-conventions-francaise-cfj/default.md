@@ -1,6 +1,6 @@
 ---
 title: 'Conventions françaises "CFJ"'
-media_order: 'CFJ 09 (2017).png,CFJ 05 (2012).jpg,CFJ 08 (2016).jpg,CFJ 06 (2014).jpg,CFJ 01(2008).jpg,CFJ 03(2010).jpg,CFJ 04 (2011).jpg,CFJ 02(2009).jpg,2019 CFJ 11 (2019).jpg,201920 CFJ 12(2019-2020).jpg,2018 CFJ 10(2018).jpg,2020 CFJ 13 (2020).jpg'
+media_order: 'CFJ 09 (2017).png,CFJ 05 (2012).jpg,CFJ 08 (2016).jpg,CFJ 06 (2014).jpg,CFJ 01(2008).jpg,CFJ 03(2010).jpg,CFJ 04 (2011).jpg,CFJ 02(2009).jpg,2019 CFJ 11 (2019).jpg,201920 CFJ 12(2019-2020).jpg,2018 CFJ 10(2018).jpg,2020 CFJ 13 (2020).jpg,CFJ 07(2015).jpg'
 ---
 
 ### Les conventions françaises de jonglerie "CFJ"
@@ -99,7 +99,7 @@ organisée par l'association [Mamagabe](http://assomamagabe.blogspot.com/?target
 ![2011 - Bigoud](CFJ%2004%20%282011%29.jpg )
 ![2012 - Boudu](CFJ%2005%20%282012%29.jpg )
 ![2014 - Poitiers](CFJ%2006%20%282014%29.jpg )
-![2015 - Irréductibles](CFJ%2007%282015%29.jpg )
+![2015 - Irréductibles](CFJ%2007(2015).jpg)
 ![2016 - Jongl'o Pais](CFJ%2008%20%282016%29.jpg )
 ![2017 - West Coast](CFJ%2009%20%282017%29.png )
 ![2018 - ABDD](2018%20CFJ%2010(2018).jpg )
