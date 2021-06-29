@@ -106,5 +106,5 @@ organisée par l'association [Mamagabe](http://assomamagabe.blogspot.com/?target
 ![2019 - Bigoud](2019%20CFJ%2011%20(2019).jpg )
 ![2019-2020 - Glühwein](201920%20CFJ%2012(2019-2020).jpg )
 ![2020 - JOP](2020%20CFJ%2013%20(2020).jpg)
-![2021 - Mamagabe](2021%20Mamagabe.jpg "2021%20Mamagabe")
+![2021 - Mamagabe](2021%20Mamagabe.jpg)
 [/gallery]
