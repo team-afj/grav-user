@@ -9,7 +9,11 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 ##### **Sites généralistes francophones**
 
+[Artcena - Centre national des arts du cirque, de la rue et du théâtre](https://www.artcena.fr/?target=_blank)
+
 [Association Suisse de Jonglerie](http://www.juggling.ch/index_fr.html?target=_blank)
+
+[Circostrada](https://www.circostrada.org/fr?target=_blank)
 
 [Fédération Française des Écoles du Cirque](http://www.ffec.asso.fr/?target=_blank)
 
