@@ -15,6 +15,8 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Circostrada](https://www.circostrada.org/fr?target=_blank)
 
+[CNAC - Centre national des arts du cirque](https://cnac.fr/?target=_blank)
+
 [Fédération Française des Écoles du Cirque](http://www.ffec.asso.fr/?target=_blank)
 
 [Jongle.net](http://www.jongle.net/?target=_blank)
