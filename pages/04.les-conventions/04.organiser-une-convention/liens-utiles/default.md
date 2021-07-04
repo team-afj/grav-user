@@ -11,6 +11,10 @@ media_order: 'AFJ - Guide orga conv..pdf'
 
 Depuis 2020, l'AFJ organise une convention à destination des organisateurs de conventions de jonglerie, la [Méta-convention](/meta-convention). Nous vous invitons donc à consulter la page de notre site qui lui ai dédiée.
 
+##### Les guides pratiques d'Artcena
+
+Artcena est le centre national des arts du cirque, de la rue et du Théâtre. Pour accompagner les professionnels dans leurs pratiques (production, diffusion, organisation, écriture…), ARTCENA propose une collection de [guides pratiques](https://www.artcena.fr/publications/guides-pratiques?target=_blank) et téléchargeables. 
+
 ##### Wiki BJC
 
 Un lien très utile pour l'organisation de convention est celui de la [British Juggling Convention (BJC)](http://thebritishjugglingconvention.co.uk/wiki/index.php?title=British_Juggling_Convention_Wiki?target=_blank). C’est la base de données la plus complète à notre connaissance concernant l’organisation de conventions de jonglerie. Néanmoins, le contenu est intégralement en anglais.
