@@ -6,7 +6,7 @@ title: 'Nos services'
 
 L’AFJ se veut être un centre de ressources pour les organisateurs et organisatrices de conventions de jonglerie. A ce titre elle développe, sur le fil de son propre développement, des ressources informationnelles, humaines, techniques, matérielles et financières.
 
-##### Ressources informationnelles et techniques :
+#### Ressources informationnelles et techniques :
 
 **Le site web :**
 
@@ -15,7 +15,7 @@ Sur ce site internet vous pourrez trouver beaucoup d’informations aidant à la
 -	L’agenda des conventions (voir page dédiée)
 -	Les contacts des associations organisatrices de conventions (voir page dédiée)
 
-**Ressources informationnelles et humaines :**
+#### Ressources informationnelles et humaines :
 
 **Le Slack et le Discord de l’AFJ :**
 
@@ -28,7 +28,7 @@ Le Discord AFJ est pour l’heure réservé aux personnes les plus actives au se
 La Meta-convention est une convention dédiée à l’organisation des conventions.
 Que vous êtes expérimenté ou inexpérimenté, que vous avez une vision globale ou spécifique, si vous cherchez à en savoir plus dans certains domaines de l’organisation, ou que vous souhaitez nous transmettre certains de vos connaissances et compétences, et que vous souhaitez rencontrer de nouvelles personnes, alors la Meta-convention pourrait vous intéresser. Pour plus d’informations, consulté notre page dédiée.
 
-**Ressources matérielles :**
+#### Ressources matérielles :
 
 **Jetons AFJ:**
 
@@ -40,7 +40,7 @@ Ce système permet de sécuriser les transactions et les vidages-caisses (limite
 
 Des talkie-walkie peuvent être mis à disposition à titre gratuit. A l’heure actuelle, l’AFJ en dispose 8 d’une portée d’environ 10 km. Par souci de sobriété de gestion et de logistique, à l’exception de grands événements tel que la CFJ ou l’EJC, ces talkie-walkie sont divisés en 2 packs de 4 (l’un se trouvant à l’Est de la France et l’autre se trouvant à l’Ouest).
 
-**Ressources financières :**
+#### Ressources financières :
 
 **Prêt à taux 0 % :**
 
