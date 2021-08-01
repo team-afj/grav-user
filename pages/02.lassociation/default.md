@@ -24,7 +24,7 @@ Plus concrètement, les objectifs de l’AFJ sont :
 
 Pour plus de détails sur ces différents sujets, voir la page [Nos services](../nos-services)
 
--	d’organiser chaque année, l’élection de la « Convention Française de Jonglerie » (CFJ) (pour plus de détails à ce sujet, voir page « La CFJ »).
+-	d’organiser chaque année, l’élection de la « Convention Française de Jonglerie » (CFJ) (pour plus de détails à ce sujet, voir page: [La CFJ](../la-cfj).
 
 
 **L’AFJ, c’est qui ?**
