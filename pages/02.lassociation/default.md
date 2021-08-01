@@ -1,6 +1,7 @@
 ---
 title: 'L''Association'
 visible: true
+media_order: 'Statuts AFJ 2019.pdf'
 ---
 
 ### L’Association Française de Jonglerie
@@ -52,7 +53,7 @@ Vous êtes :
 
 **Plus d’informations sur notre association :**
 
--	les statuts de l’association depuis 2019
+-	les statuts de l’association depuis 2019 : [Statuts AFJ 2019.pdf](Statuts%20AFJ%202019.pdf?target=_blank)
 -	la composition des membres du bureau et du CA 2020-2021
 -	la composition des membres du bureau et du CA 2021-2022
 -	le CR de l’AG 2020
