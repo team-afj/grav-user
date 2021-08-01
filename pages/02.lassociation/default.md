@@ -38,7 +38,7 @@ L’AFJ rassemble des personnes qui se déplacent en conventions de jonglerie et
 L’AFJ a besoin de personnes motivées pour remplir les missions précédemment évoquées, mais à également besoin des associations organisatrices pour constituer une fédération.
 
 Vous êtes :
--	une association qui organise un événement de jonglerie et vous voulez nous rejoindre ? Il vous suffit d’adhérer via la plateforme [Hello-Asso ](https://www.helloasso.com/associations/association-francaise-de-jonglerie?target=_blank) en tant que personne morale pour une cotisation annuelle à partir de 10€/an (et plus si affinité). [Hello-Asso ](https://www.helloasso.com/associations/association-francaise-de-jonglerie?target=_blank)
+-	une association qui organise un événement de jonglerie et vous voulez nous rejoindre ? Il vous suffit d’adhérer via la plateforme [Hello-Asso ](https://www.helloasso.com/associations/association-francaise-de-jonglerie?target=_blank) en tant que personne morale pour une cotisation annuelle à partir de 10€/an (et plus si affinité). 
 -	un être humain : vous pouvez adhérer via la plateforme [Hello-Asso ](https://www.helloasso.com/associations/association-francaise-de-jonglerie?target=_blank) en tant que personne physique pour une cotisation annuelle à partir de 2€ (et plus si affinité).
 
 **Motiver à nous soutenir ?**
