@@ -6,7 +6,7 @@ title: 'Nos services'
 
 L’AFJ se veut être un centre de ressources pour les organisateurs et organisatrices de conventions de jonglerie. A ce titre elle développe, sur le fil de son propre développement, des ressources informationnelles, humaines, techniques, matérielles et financières.
 
-**Ressources informationnelles et techniques :**
+##### Ressources informationnelles et techniques :
 
 **Le site web :**
 
