@@ -47,7 +47,7 @@ L’AFJ a également besoin de fonds pour pouvoir fonctionner, se développer et
 
 Vous êtes :
 -	une personnalité morale (association, compagnie, entreprise…) et vous voulez nous soutenir ? Vous pouvez nous faire un don du montant que vous désirez via la plateforme [Hello-Asso](https://www.helloasso.com/associations/association-francaise-de-jonglerie/formulaires/1?target=_blank)
--	un être humain et vous voulez nous soutenir sans forcément nous rejoindre ? Vous pouvez nous faire un don du montant que vous désirez. [Hello-Asso](https://www.helloasso.com/associations/association-francaise-de-jonglerie/formulaires/1?target=_blank)
+-	un être humain et vous voulez nous soutenir sans forcément nous rejoindre ? Vous pouvez nous faire un don du montant que vous désirez via la plateforme [Hello-Asso](https://www.helloasso.com/associations/association-francaise-de-jonglerie/formulaires/1?target=_blank)
 
 
 **Plus d’informations sur notre association :**
