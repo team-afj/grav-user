@@ -79,6 +79,8 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [Les Nazes / Glühwein / Wesserling](https://www.les-nazes.com/gluhwein.html?target=_blank)
 
+Les Tapirroulants / Hopla / Strasbourg
+
 [Maraboule / En Maine Ta Jongle / Angers](http://maraboule.blogspot.com/?target=_blank)
 
 [Pyrocircus / Glühwein / Strasbourg](http://troupe-pyrocircus.fr/?target=_blank)
