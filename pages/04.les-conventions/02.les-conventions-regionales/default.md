@@ -79,11 +79,11 @@ FestiFlam / Faya Festival / Poussan
 
 [Jonglargonne / Jubil à Jongle / Pass la balle / Bordeaux](https://www.jonglargonne.org/?target=_blank)
 
-Jongl libre / Orléans
-
 Les Ballpapas / Balles Habiles / Belleville
 
 [Le Cirque du Bout du Monde / Lille](http://lecirqueduboutdumonde.fr/?target=_blank)
+
+Les fous de la jongle / Saint-Hilaire-du-Thouvet 
 
 [Les Nazes / Glühwein / Wesserling](https://www.les-nazes.com/gluhwein.html?target=_blank)
 
@@ -94,5 +94,7 @@ Les Tapirroulants / Hopla / Strasbourg
 [Pyrocircus / Glühwein / Strasbourg](http://troupe-pyrocircus.fr/?target=_blank)
 
 Quo Faï Dau Be / St Priest Ligoure
+
+Saquagrin / Jongl libre / Orléans
 
 [Tartajongle / Basse Normandie](https://www.tartajongle.org/?target=_blank)
