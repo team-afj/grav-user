@@ -95,4 +95,4 @@ Les Tapirroulants / Hopla / Strasbourg
 
 Quo Faï Dau Be / St Priest Ligoure
 
-[Tartajongle / Cherbourg](https://www.tartajongle.org/?target=_blank)
+[Tartajongle / Basse Normandie](https://www.tartajongle.org/?target=_blank)
