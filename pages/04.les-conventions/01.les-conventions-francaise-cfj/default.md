@@ -9,8 +9,8 @@ media_order: 'CFJ 09 (2017).png,CFJ 05 (2012).jpg,CFJ 08 (2016).jpg,CFJ 06 (2014
 
 La Convention Française de Jonglerie (CFJ) _ou French Juggling Convention (FJC)_, est la convention nationale française de jonglerie.
 
-Tout comme plusieurs autres pays, tels que le Royaume-Uni avec la "_British Juggling Convention_" (BJC), le Japon avec le "_Japan Juggling Festival_" (JJF), Israël avec la "_Israeli Juggling Convention_" (IJC),  la Turquie avec la "_Turkish Juggling Convention_" (TJC)... l'appellation "_Convention française_" fait référence à la convention nationale d'un pays et se distingue donc d'une convention régionale qui aurait lieu dans ce même pays. 
-Il en va, bien évidemment, de même en ce qui concerne l'appellation "_Convention Européenne de Jonglerie_" (_European Juggling Convention_, EJC) qui se déroule une fois par an dans un pays européen et se distingue à la fois e la convention nationale et des conventions régionales de ce même pays.
+Tout comme plusieurs autres pays, tels que le Royaume-Uni avec la "_British Juggling Convention_" (BJC), le Japon avec le "_Japan Juggling Festival_" (JJF), Israël avec la "_Israeli Juggling Convention_" (IJC),  la Turquie avec la "_Turkish Juggling Convention_" (TJC)... L'appellation "_Convention française_" fait référence à la convention nationale d'un pays et se distingue donc d'une convention régionale qui aurait lieu dans ce même pays. 
+Il en va, bien évidemment, de même en ce qui concerne l'appellation "_Convention Européenne de Jonglerie_" (_European Juggling Convention_, EJC) qui se déroule une fois par an dans un pays européen et se distingue à la fois de la convention nationale et des conventions régionales de ce même pays.
  
 #### **La CFJ : Pourquoi ?**
 
@@ -18,7 +18,7 @@ Il en va, bien évidemment, de même en ce qui concerne l'appellation "_Conventi
 "_Ahhh les CFJ ! C’est toujours une occasion de retrouver des amis, de faire de nouvelles rencontres, en prendre plein les yeux et les mains pendant une semaine ! On peut venir de loin, prévoir un petit voyage, venir avec des copains, repartir avec d’autres, c’est toujours un moment inoubliable_".
 
 **Point de vue des organisateurs potentiels :**
-C'est un bon moyen de faire une grande et belle convention (encore plus que d'habitude). La plupart du temps, elle dure plus longtemps, attire plus de participants, la programmation est plus fournie et de meilleure qualité qu'une convention régionale... car son prix et le budget alloué sont eux aussi en général, plus conséquents. Mais attention : l'implication des organisateurs, des bénévoles et des pouvoirs publics est elle aussi en générale supérieure à une convention régionale.
+C'est un bon moyen de faire une grande et belle convention (encore plus que d'habitude). La plupart du temps, elle dure plus longtemps, attire plus de participants, la programmation est plus fournie et de meilleure qualité qu'une convention régionale... car son prix et le budget alloué sont eux aussi en général, plus conséquents. Mais attention : l'implication des organisateurs, des bénévoles et des pouvoirs publics est elle aussi en général supérieure à une convention régionale.
 
 **Point de vue de la commune d'accueil :**
 C'est un bon moyen de donner un coup de projecteur culturel sympathique, car la CFJ est destinée à tous les publics et propose une offre d'activité et de spectacles intéressante. Et comme la CFJ attire plus de participants, les commerces de proximité en profitent également. C'est du gagnant-gagnant pour toutes les parties prenantes.
@@ -27,7 +27,7 @@ C'est un bon moyen de donner un coup de projecteur culturel sympathique, car la 
 
 La CFJ est accueillie chaque année dans une commune différente de France, se déroule pendant une semaine environ et est organisée la plupart du temps par des associations organisatrices de convention régionale de jonglerie déjà existante.
 
-Pour déterminer qui accueillera la prochaine CFJ, les différentes organisations volontaires candidatent auprès de l'AFJ. La décision finale est prise lors d'un vote de l'assemblée générale de l'AFJ, qui se déroule pendant la CFJ en cours (_Remarque: toutes les personnes présentes lors de l'AG peuvent voter, peu importe quelle soit membre ou non de l'AFJ_).
+Pour déterminer qui accueillera la prochaine CFJ, les différentes organisations volontaires candidatent auprès de l'AFJ. La décision finale est prise lors d'un vote de l'assemblée générale de l'AFJ, qui se déroule pendant la CFJ en cours (_Remarque: toutes les personnes présentes lors de l'AG peuvent voter, peu importe qu'elle soit membre ou non de l'AFJ_).
 
 
 #### **Voici un bref historique des dates, lieux et associations organisatrices des CFJ passées**
