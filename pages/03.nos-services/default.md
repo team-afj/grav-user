@@ -23,6 +23,10 @@ Un certain nombre de personnes de la communauté qui gravitent autour de l’org
 
 Le Discord AFJ est pour l’heure réservé aux personnes les plus actives au sein de l’AFJ. Il permet de faire des réunions en visio et d’avoir des salons textuels pour poster des informations.
 
+**Le Facebook de l'AFJ:**
+
+Vous pouvez obtenir certaines informations, notamment concernant l'actualité de l'association et de ses partenaires via notre page [Facebook](https://www.facebook.com/asso.afj?target=_blank)
+
 **Meta-convention :**
 
 La Meta-convention est une convention dédiée à l’organisation des conventions.
