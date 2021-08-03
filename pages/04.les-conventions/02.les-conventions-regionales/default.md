@@ -52,9 +52,9 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [Pass’moi L’Cirk / Tour de Pass Pass / Tours](http://passmoilcirk.blogspot.com/?target=_blank)
 
-[Tartajongle](https://www.tartajongle.org/?target=_blank)
-
 [Zik en Piste / Jongle en Zik / Carpentras](https://www.zikenpiste.com/?target=_blank)
+
+Zmam / Roca Balles / Vabre
 
 
 #### Les associations des conventions régionales en sommeil ou disparues
@@ -94,3 +94,5 @@ Les Tapirroulants / Hopla / Strasbourg
 [Pyrocircus / Glühwein / Strasbourg](http://troupe-pyrocircus.fr/?target=_blank)
 
 Quo Faï Dau Be / St Priest Ligoure
+
+[Tartajongle / Cherbourg](https://www.tartajongle.org/?target=_blank)
