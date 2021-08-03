@@ -4,7 +4,7 @@ title: 'Nos services'
 
 ### Nos services
 
-L’AFJ se veut être un centre de ressources pour les organisateurs et organisatrices de conventions de jonglerie. A ce titre elle développe, sur le fil de son propre développement, des ressources informationnelles, humaines, techniques, matérielles et financières.
+L’AFJ se veut être un centre de ressources pour les organisateurs et organisatrices de conventions de jonglerie. À ce titre elle développe, sur le fil de son propre développement, des ressources informationnelles, humaines, techniques, matérielles et financières.
 
 #### Ressources informationnelles et techniques :
 
@@ -32,19 +32,19 @@ Que vous êtes expérimenté ou inexpérimenté, que vous avez une vision global
 
 **Jetons AFJ:**
 
-Les jetons AFJ sont un moyen de paiement qui remplacent l’argent sur les conventions. Ce service est mis à disposition à titre gratuit et est réservé aux organisateurs de conventions de jonglerie.
+Les jetons AFJ sont un moyen de paiement qui remplace l’argent sur les conventions. Ce service est mis à disposition à titre gratuit et est réservé aux organisateurs de conventions de jonglerie.
 Il existe 3 couleurs de jetons pour 3 valeurs différentes (2€, 1€ et 0,5€).
 Ce système permet de sécuriser les transactions et les vidages-caisses (limite les fraudes et vols), est facile à mettre en place, est très peu contraignant pour les festivaliers et sans coût pour les organisateurs (pas de frais de location). Le seul inconvénient réside dans la durée du comptage du stock en début et en fin de convention.
 
 **Talkie-walkie :**
 
-Des talkie-walkie peuvent être mis à disposition à titre gratuit. A l’heure actuelle, l’AFJ en dispose 8 d’une portée d’environ 10 km. Par souci de sobriété de gestion et de logistique, à l’exception de grands événements tel que la CFJ ou l’EJC, ces talkie-walkie sont divisés en 2 packs de 4 (l’un se trouvant à l’Est de la France et l’autre se trouvant à l’Ouest).
+Des talkie-walkies peuvent être mis à disposition à titre gratuit. À l’heure actuelle, l’AFJ en dispose 8 d’une portée d’environ 10 km. Par souci de sobriété de gestion et de logistique, à l’exception de grands événements tel que la CFJ ou l’EJC, ces talkie-walkies sont divisés en 2 packs de 4 (l’un se trouvant à l’Est de la France et l’autre se trouvant à l’Ouest).
 
 #### Ressources financières :
 
 **Prêt à taux 0 % :**
 
-Un système de contrat de prêt à taux zéro peut être proposer aux organisateurs qui ne disposent pas d’une trésorerie suffisante au montage de leur convention. Ce prêt est soumis à l’évaluation préalable par une commission interne de l’AFJ et les montants pouvant être prêtés sont soumis à notre propre trésorerie et notre budget prévisionnel.
+Un système de contrat de prêt à taux zéro peut être proposer aux organisateurs qui ne disposent pas d’une trésorerie suffisante au montage de leur convention. Ce prêt est soumis à l’évaluation préalable par une commission interne de l’AFJ et les montants pouvant être prêtés sont soumis à notre propre trésorerie et à notre budget prévisionnel.
 
 **Appel à projet 2021-2022 :**
 
