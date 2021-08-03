@@ -65,7 +65,11 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [Association Trac / Jonglissimo / Reims](http://www.asso-trac.fr/?target=_blank)
 
+Circomobile / Nâ Rozho / Chatelard 
+
 [Extrême Jonglerie /Jongle en tongs / Marseille](http://www.extreme-jonglerie.com/?target=_blank)
+
+FestiFlam / Faya Festival / Poussan
 
 [Fo Ksa Bouge / Passe la jongle à tes voisins / Voisins-le-Bretonneux](http://passelajongle.blogspot.com/?target=_blank)
 
@@ -73,7 +77,11 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [Jongla2mains / Chalencon](https://jongla2mains.wordpress.com/?target=_blank)
 
-[Jonglargonne / Bordeaux](https://www.jonglargonne.org/?target=_blank)
+[Jonglargonne / Jubil à Jongle / Pass la balle / Bordeaux](https://www.jonglargonne.org/?target=_blank)
+
+Jongl libre / Orléans
+
+Les Ballpapas / Balles Habiles / Belleville
 
 [Le Cirque du Bout du Monde / Lille](http://lecirqueduboutdumonde.fr/?target=_blank)
 
@@ -84,3 +92,5 @@ Les Tapirroulants / Hopla / Strasbourg
 [Maraboule / En Maine Ta Jongle / Angers](http://maraboule.blogspot.com/?target=_blank)
 
 [Pyrocircus / Glühwein / Strasbourg](http://troupe-pyrocircus.fr/?target=_blank)
+
+Quo Faï Dau Be / St Priest Ligoure
