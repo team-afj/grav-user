@@ -30,8 +30,6 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [École De Cirque Zmam / Roca’balle / Rocalet (Vabre)](https://www.facebook.com/events/lieu-dit-rocalet-81330-vabre-france/rocaballe/306579483942477/?target=_blank)
 
-[Extrême Jonglerie / Marseille](http://www.extreme-jonglerie.com/?target=_blank)
-
 [Jonglagogo / Troyes](http://jonglagogo.fr/?target=_blank)
 
 [Jongle & Rit / Bigoud’N’Jongle / Vezin le coquet](https://jongleetrit.wordpress.com/?target=_blank)
@@ -66,6 +64,8 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 [Association Parisienne de Jonglerie (APJ) / Paris](https://www.asso-apj.fr/?target=_blank)
 
 [Association Trac / Jonglissimo / Reims](http://www.asso-trac.fr/?target=_blank)
+
+[Extrême Jonglerie /Jongle en tongs / Marseille](http://www.extreme-jonglerie.com/?target=_blank)
 
 [Fo Ksa Bouge / Passe la jongle à tes voisins / Voisins-le-Bretonneux](http://passelajongle.blogspot.com/?target=_blank)
 
