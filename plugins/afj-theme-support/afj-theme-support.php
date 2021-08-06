@@ -56,7 +56,9 @@ class AFJThemeSupportPlugin extends Plugin
 
         // Enable the main events we are interested in
         $this->enable([
-            // Put your main events here
+            'onTwigExtensions' => [
+                ['onTwigExtensions', 0]
+            ],
         ]);
     }
 
@@ -75,5 +77,24 @@ class AFJThemeSupportPlugin extends Plugin
     public function onShortcodeHandlers()
     {
         $this->grav['shortcode']->registerAllShortcodes(__DIR__ . '/classes/shortcodes');
+    }
+
+    /**
+     * Register the Twig extension (using a global object)
+     */
+    public function onTwigExtensions(): void
+    {
+        $search = function ($page) use (&$search) {
+            if ($page->root()) return null;
+            else if (
+                property_exists($page->header(), "book")
+                && $page->header()->book
+            ) return $page;
+            else return $search($page->parent());
+        };
+
+        $function = new \Twig\TwigFunction('get_book_root', $search);
+
+        $this->grav['twig']->twig->addFunction($function);
     }
 }
