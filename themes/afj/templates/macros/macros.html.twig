@@ -1,16 +1,40 @@
-{% macro nav_loop(page) %}
+{% macro nav_loop(page, visible = true) %}
   {% import _self as macros %}
-  {% for p in page.children.visible %}
+  {% set children = visible ? page.children.visible : page.children %}
+  {% for p in children %}
     {% set active_page = (p.active or p.activeChild) ? 'active' : '' %}
-    <li>
-      <a href="{{ p.url }}" class="{{ active_page }}">
-        {{ p.menu }}
-      </a>
-      {% if p.children.visible.count > 0 %}
-      <ul>
-        {{ macros.nav_loop(p) }}
-      </ul>
+    <li class="menu-item">
+      {% set clickable = p.header.clickable %}
+      {% if  clickable or clickable is null %}
+        <a href="{{ p.url }}" class="{{ active_page }}">
+          {{ p.menu }}
+        </a>
+      {% else %}
+        <span class="menu-group {{ active_page }}">{{ p.menu }}</span>
+      {% endif %}
+      {% set count = visible ? p.children.visible.count : p.children.count %}
+      {% if count > 0 %}
+        <ul>
+          {{ macros.nav_loop(p, visible) }}
+        </ul>
       {% endif %}
     </li>
   {% endfor %}
+{% endmacro %}
+
+{% macro book_menu(page) %}
+  {% import _self as macros %}
+  {% if page.header.book %}
+    <ul class="menu vertical-menu">
+      <h3 class="text-center">
+        <a href="{{ page.url }}" class="no-link">
+        {{ page.menu }}
+        </a>
+      </h3>
+      <li class="divider"></li>
+      {{ _self.nav_loop(page, false) }}
+    </ul>
+  {% elseif not page.root %}
+    {{ macros.book_menu(page.parent) }}
+  {% endif %}
 {% endmacro %}
