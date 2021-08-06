@@ -13,7 +13,7 @@
       position: relative;
       margin: 0;
 
-      a {
+      a, span.menu-group {
         text-decoration: none;
         padding: $dropmenu-vert-padding ($dropmenu-horiz-padding + $dropmenu-child-padding) $dropmenu-vert-padding $dropmenu-horiz-padding;
         display: block;
