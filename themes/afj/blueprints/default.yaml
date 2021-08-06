@@ -6,6 +6,31 @@ form:
       fields:
         advanced:
           fields:
+            overrides:
+              fields:
+                header.book:
+                  type: toggle
+                  toggleable: true
+                  label: Book root
+                  description: "Turn this page in a book's entry point with a
+                  sidebar menu for all its sub-pages."
+                  highlight: 0
+                  options:
+                    1: PLUGIN_ADMIN.ENABLED
+                    0: PLUGIN_ADMIN.DISABLED
+                  validate:
+                    type: bool
+                header.clickable:
+                  type: toggle
+                  toggleable: true
+                  label: Clickable
+                  description: "Disable this item in the menu."
+                  highlight: 1
+                  options:
+                    1: PLUGIN_ADMIN.ENABLED
+                    0: PLUGIN_ADMIN.DISABLED
+                  validate:
+                    type: bool
             columns:
               fields:
                 column1:

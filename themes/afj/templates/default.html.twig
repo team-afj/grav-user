@@ -1,5 +1,21 @@
 {% extends 'partials/base.html.twig' %}
 
+
+{% set book_root = get_book_root(page) %}
+{% set is_book = book_root is not null %}
+
+{% set item_col = is_book ? 'col-7 col-md-12' : 'col-12' %}
+{% set sidebar_col = is_book ? 'col-5 col-md-12' : 'col-12' %}
+
 {% block content %}
-    {{ page.content|raw }}
+<div class="columns">
+    <div id="item" class="column {{ item_col }} extra-spacing">
+        {{ page.content|raw }}
+    </div>
+    {% if is_book %}
+    <div id="sidebar" class="column {{ sidebar_col }}">
+        {{ macros.book_menu(book_root) }}
+    </div>
+    {% endif %}
+</div>
 {% endblock %}
