@@ -6,17 +6,13 @@ title: 'Conventions régionales'
 
 Voici la liste des liens vers les associations organisatrices de conventions de jonglerie francophones (France, Belgique, Suisse et Afrique).
 
-[Ajil / Au Bout Des Doigts (ABDD) / Lyon](http://ajil-asso.fr/?target=_blank)
+#### Les associations des conventions régionales actuelles
 
 [Argument Massue / Arts Hachés / Grenoble](https://fr-fr.facebook.com/argument.massue.grenoble?target=_blank)
 
 [Association des jongleurs d’Afrique (AJA)](https://www.facebook.com/Association-des-Jongleurs-dAfrique-AJA-1648772798695529/?target=_blank)
 
-[Association Parisienne de Jonglerie (APJ) / Paris](https://www.asso-apj.fr/?target=_blank)
-
 [Association Suisse de Jonglerie / Suisse](http://www.juggling.ch/index_fr.html?target=_blank)
-
-[Association Trac / Jonglissimo / Reims](http://www.asso-trac.fr/?target=_blank)
 
 [Burn Crew Concept / Paris](https://www.burncrewconcept.net/fr/?target=_blank)
 
@@ -34,17 +30,7 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [École De Cirque Zmam / Roca’balle / Rocalet (Vabre)](https://www.facebook.com/events/lieu-dit-rocalet-81330-vabre-france/rocaballe/306579483942477/?target=_blank)
 
-[Extrême Jonglerie / Marseille](http://www.extreme-jonglerie.com/?target=_blank)
-
-[Fo Ksa Bouge / Passe la jongle à tes voisins / Voisins-le-Bretonneux](http://passelajongle.blogspot.com/?target=_blank)
-
-[Graulich convention feu / Rodemack](https://www.facebook.com/GraulichConventionFeu/?target=_blank)
-
-[Jongla2mains / Chalencon](https://jongla2mains.wordpress.com/?target=_blank)
-
 [Jonglagogo / Troyes](http://jonglagogo.fr/?target=_blank)
-
-[Jonglargonne / Bordeaux](https://www.jonglargonne.org/?target=_blank)
 
 [Jongle & Rit / Bigoud’N’Jongle / Vezin le coquet](https://jongleetrit.wordpress.com/?target=_blank)
 
@@ -52,15 +38,11 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [Juggling Virtual Convention (JVC) / Discord](https://www.facebook.com/jugglingvirtualconvention/?target=_blank)
 
-[Le Cirque du Bout du Monde / Lille](http://lecirqueduboutdumonde.fr/?target=_blank)
-
-[Les Nazes / Glühwein / Wesserling](https://www.les-nazes.com/gluhwein.html?target=_blank)
+[Lez Hérault de la jongle / Balles à Lez / Montpellier](https://organise.bim.land/events/ba71e547-3a9c-4b5d-96eb-157e98675463/?target=_blank)
 
 [Limouzirk / Limoges](http://www.limouzirk.fr/?target=_blank)
 
 [Mamagabe / Poitiers](http://assomamagabe.blogspot.com/?target=_blank)
-
-[Maraboule / En Maine Ta Jongle / Angers](http://maraboule.blogspot.com/?target=_blank)
 
 [MJC 3 Maisons / Bibasse / Nancy](https://www.mjc3maisons.fr/?target=_blank)
 
@@ -70,8 +52,49 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [Pass’moi L’Cirk / Tour de Pass Pass / Tours](http://passmoilcirk.blogspot.com/?target=_blank)
 
+[Zik en Piste / Jongle en Zik / Carpentras](https://www.zikenpiste.com/?target=_blank)
+
+Zmam / Roca Balles / Vabre
+
+
+#### Les associations des conventions régionales en sommeil ou disparues
+
+[Ajil / Au Bout Des Doigts (ABDD) / Lyon](http://ajil-asso.fr/?target=_blank)
+
+[Association Parisienne de Jonglerie (APJ) / Paris](https://www.asso-apj.fr/?target=_blank)
+
+[Association Trac / Jonglissimo / Reims](http://www.asso-trac.fr/?target=_blank)
+
+Circomobile / Nâ Rozho / Chatelard 
+
+[Extrême Jonglerie /Jongle en tongs / Marseille](http://www.extreme-jonglerie.com/?target=_blank)
+
+FestiFlam / Faya Festival / Poussan
+
+[Fo Ksa Bouge / Passe la jongle à tes voisins / Voisins-le-Bretonneux](http://passelajongle.blogspot.com/?target=_blank)
+
+[Graulich convention feu / Rodemack](https://www.facebook.com/GraulichConventionFeu/?target=_blank)
+
+[Jongla2mains / Chalencon](https://jongla2mains.wordpress.com/?target=_blank)
+
+[Jonglargonne / Jubil à Jongle / Pass la balle / Bordeaux](https://www.jonglargonne.org/?target=_blank)
+
+Les Ballpapas / Balles Habiles / Belleville
+
+[Le Cirque du Bout du Monde / Lille](http://lecirqueduboutdumonde.fr/?target=_blank)
+
+Les fous de la jongle / Saint-Hilaire-du-Thouvet 
+
+[Les Nazes / Glühwein / Wesserling](https://www.les-nazes.com/gluhwein.html?target=_blank)
+
+Les Tapirroulants / Hopla / Strasbourg
+
+[Maraboule / En Maine Ta Jongle / Angers](http://maraboule.blogspot.com/?target=_blank)
+
 [Pyrocircus / Glühwein / Strasbourg](http://troupe-pyrocircus.fr/?target=_blank)
 
-[Tartajongle](https://www.tartajongle.org/?target=_blank)
+Quo Faï Dau Be / St Priest Ligoure
 
-[Zik en Piste / Jongle en Zik / Carpentras](https://www.zikenpiste.com/?target=_blank)
+Saquagrin / Jongl libre / Orléans
+
+[Tartajongle / Basse Normandie](https://www.tartajongle.org/?target=_blank)
