@@ -1,6 +1,6 @@
 ---
 title: 'Avant la convention – Les tâches fondamentales'
-media_order: 'budget_prev.jpg,CFJ_prog&planning.xlsx,check_list scene.docx,Exemple de 1er mail de mise en contact.pdf,CFJ2020 Dossier de présentation.pdf'
+media_order: 'budget_prev.jpg,CFJ_prog&planning.xlsx,check_list scene.docx,Exemple de 1er mail de mise en contact.pdf,CFJ2020 Dossier de presentation.pdf'
 ---
 
 ### **Avant la convention – Les tâches fondamentales**
@@ -297,4 +297,17 @@ Remarque : il faut renseigner le nom, le lieu (ex: grande salle), le thème (bal
 
 **●	Les vendeurs**
 -	Est-ce que vous souhaitez avoir des stands de vente de matériel de jonglerie ? Si oui, contacter les vendeurs et s’arranger. Il faut penser aux moyens de mises à disposition des stands, s’ils doivent payer ? Et que faire si d’autres vendeurs non-annoncés s’installent ? 
-Nous vous recommandons [Net’Juggler](https://www.netjuggler.net/?msclkid=f1a9ea7aef991e545e1e8aad570ae288&utm_source=bing&utm_medium=cpc&utm_campaign=001%20Marque&utm_term=netjuggler&utm_content=Netjuggler%20exact), qui se déplacent régulièrement avec son camion, sur les conventions en France. Mais vous pouvez également faire appel à des jongleurs qui fabriquent eux-mêmes leurs matériels et sont capables d’installer des stands avec tonnelles. Si vous ne souhaitez pas avoir de vendeur, il faut clairement le préciser aux jongleurs (lors de la communication), sinon certains s’installent et vendent leur matériel fait maison. Vous devriez également vous interroger sur la place des vendeurs d’autres matériels (vêtements, bijoux, maquillage, objets en tout genre…), autorisé ou pas ? Mais attention, vous portez une forme de responsabilité qu’en à par exemple la qualité et la provenance des produits qui sont vendus sur votre événement. Donc attention à la législation et la réglementation du commerce. Pour s’en prémunir, n’autorisez pas les ventes dont vous n’avez pas confiance, ou de certificat.
+  Nous vous recommandons
+  [Net’Juggler](https://www.netjuggler.net/?msclkid=f1a9ea7aef991e545e1e8aad570ae288&utm_source=bing&utm_medium=cpc&utm_campaign=001%20Marque&utm_term=netjuggler&utm_content=Netjuggler%20exact),
+  qui se déplacent régulièrement avec son camion, sur les conventions en France.
+  Mais vous pouvez également faire appel à des jongleurs qui fabriquent
+  eux-mêmes leurs matériels et sont capables d’installer des stands avec
+  tonnelles. Si vous ne souhaitez pas avoir de vendeur, il faut clairement le
+  préciser aux jongleurs (lors de la communication), sinon certains s’installent
+  et vendent leur matériel fait maison. Vous devriez également vous interroger
+  sur la place des vendeurs d’autres matériels (vêtements, bijoux, maquillage,
+  objets en tout genre…), autorisé ou pas ? Mais attention, vous portez une
+  forme de responsabilité qu’en à par exemple la qualité et la provenance des
+  produits qui sont vendus sur votre événement. Donc attention à la législation
+  et la réglementation du commerce. Pour s’en prémunir, n’autorisez pas les
+  ventes dont vous n’avez pas confiance, ou de certificat.
