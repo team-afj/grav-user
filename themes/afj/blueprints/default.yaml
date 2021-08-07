@@ -47,9 +47,9 @@ form:
                 label: "Page Media - **UPLOADER UNIQUEMENT DES FICHIERS SANS
                 ACCENTS DANS LE NOM**"
                 validate:
-                  required: true
+                  required: false
                   message: "Only ASCII characters allowed in filenames"
-                  pattern: '^[ -~]+$'
+                  pattern: '^[ -~]*$'
             header.sidebar_files:
               name: side_files
               label: File(s) in sidebar
