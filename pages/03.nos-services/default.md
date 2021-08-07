@@ -1,5 +1,6 @@
 ---
 title: 'Nos services'
+media_order: 'AAP AFJ 2021-2022.pdf,AAP_AFJ_2021_2022.pdf'
 ---
 
 ### Nos services
@@ -11,11 +12,15 @@ L’AFJ se veut être un centre de ressources pour les organisateurs et organisa
 **Le site web :**
 
 Sur ce site internet vous pourrez trouver beaucoup d’informations aidant à la création, à la gestion et au bon déroulement d’une convention de jonglerie. 
--	[Guide de l’organisateur](/les-conventions/organiser-une-convention) 
--	[L’agenda des conventions](/)
--	[Les contacts des associations organisatrices de conventions](/les-conventions/les-conventions-regionales)
+-	[Le Guide de l’organisateur](/les-conventions/organiser-une-convention) détaille les étapes et les tâches à effectuer pour le montage et la réalisation d'une convention de jonglerie.
+-	[L’agenda des conventions](/) permet de connaître où et quand vont se dérouler les prochaines conventions (autant pour inciter à y participer que pour éviter de programmer plusieurs conventions en même temps).
+-	[Les contacts des associations organisatrices de conventions](/les-conventions/les-conventions-regionales) permettent à la fois de voir leurs diversités, que de pouvoir les contacter ou d'obtenir plus d'informations sur elles.
 
 #### Ressources informationnelles et humaines :
+
+**Le Facebook de l'AFJ:**
+
+Vous pouvez obtenir certaines informations, notamment concernant l'actualité de l'association et de ses partenaires via notre page [Facebook](https://www.facebook.com/asso.afj?target=_blank)
 
 **Le Slack et le Discord de l’AFJ :**
 
@@ -23,14 +28,15 @@ Un certain nombre de personnes de la communauté qui gravitent autour de l’org
 
 Le Discord AFJ est pour l’heure réservé aux personnes les plus actives au sein de l’AFJ. Il permet de faire des réunions en visio et d’avoir des salons textuels pour poster des informations.
 
-**Le Facebook de l'AFJ:**
-
-Vous pouvez obtenir certaines informations, notamment concernant l'actualité de l'association et de ses partenaires via notre page [Facebook](https://www.facebook.com/asso.afj?target=_blank)
 
 **Meta-convention :**
 
 La Meta-convention est une convention dédiée à l’organisation des conventions.
 Que vous êtes expérimenté ou inexpérimenté, que vous avez une vision globale ou spécifique, si vous cherchez à en savoir plus dans certains domaines de l’organisation, ou que vous souhaitez nous transmettre certains de vos connaissances et compétences, et que vous souhaitez rencontrer de nouvelles personnes, alors la Meta-convention pourrait vous intéresser. Pour plus d’informations, consulté notre page dédiée.
+
+**Projet "Solidarité inter-convention :**
+
+Nous élaborons actuellement un projet autour duquel des personnes qui disposent de compétences et d'expériences dans des domaines précis liés à l'organisation de convention pourraient interagir avec celles qui auraient besoin d'une expertise plus précise, par manque de connaissances, compétences et expériences. Un salon textuel sur Slack permet de rejoindre ce projet ou nous poser des questions à son propos. Il est également possible d'obtenir un lien vers le document partager qui permet le développement de ce projet.  
 
 #### Ressources matérielles :
 
@@ -53,3 +59,4 @@ Un système de contrat de prêt à taux zéro peut être proposer aux organisate
 **Appel à projet 2021-2022 :**
 
 Suite aux bénéfices engendrés par la Convention Française de Jonglerie 2019-2020 “Glühwein”, les associations organisatrices ont décidé de financer un appel à projet via l’AFJ. L’enveloppe globale de cet appel à projet est de 2 000 € et a pour but de soutenir des conventions de jonglerie émergentes. Les conventions seront soutenues pour un montant maximum de 1 000 €.
+[AAP_AFJ_2021_2022.pdf](AAP_AFJ_2021_2022.pdf)

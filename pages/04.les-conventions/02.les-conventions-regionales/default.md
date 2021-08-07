@@ -30,8 +30,6 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [École De Cirque Zmam / Roca’balle / Rocalet (Vabre)](https://www.facebook.com/events/lieu-dit-rocalet-81330-vabre-france/rocaballe/306579483942477/?target=_blank)
 
-[Jonglagogo / Troyes](http://jonglagogo.fr/?target=_blank)
-
 [Jongle & Rit / Bigoud’N’Jongle / Vezin le coquet](https://jongleetrit.wordpress.com/?target=_blank)
 
 [Jongl’ ô Païs / Vanosc](https://fr-fr.facebook.com/JOP07690/?target=_blank)
@@ -76,6 +74,8 @@ FestiFlam / Faya Festival / Poussan
 [Graulich convention feu / Rodemack](https://www.facebook.com/GraulichConventionFeu/?target=_blank)
 
 [Jongla2mains / Chalencon](https://jongla2mains.wordpress.com/?target=_blank)
+
+[Jonglagogo / Troyes](http://jonglagogo.fr/?target=_blank)
 
 [Jonglargonne / Jubil à Jongle / Pass la balle / Bordeaux](https://www.jonglargonne.org/?target=_blank)
 
