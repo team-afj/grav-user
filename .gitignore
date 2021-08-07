@@ -8,5 +8,6 @@
 security.yaml
 git-sync.yaml
 versions.yaml
+!.gitattributes
 !.gitignore
 !.gitkeep

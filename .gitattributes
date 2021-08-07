@@ -1,0 +1,13 @@
+*.pdf	-text
+*.gif -text
+*.ico -text
+*.jpg -text
+*.jpeg -text
+*.png -text
+*.psd -text
+*.webp -text
+*.woff2 -text
+*.7z -text
+*.br -text
+*.gz -text
+*.tar -text

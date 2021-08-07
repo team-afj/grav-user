@@ -7,7 +7,7 @@ git-sync:
     - themes
     - images
   git:
-    ignore: "security.yaml\ngit-sync.yaml\nversions.yaml\n\n!.gitignore\n.gitkeep"
+    ignore: "security.yaml\ngit-sync.yaml\nversions.yaml\n\n!.gitattributes\n!.gitignore\n.gitkeep"
     author: gituser
     message: '(Grav GitSync) Automatic Commit'
     name: GitSync
