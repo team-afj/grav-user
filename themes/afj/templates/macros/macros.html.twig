@@ -23,7 +23,7 @@
 {% endmacro %}
 
 {% macro book_menu(page) %}
-  {% import _self as macros %}
+  {# {% import _self as macros %} #}
   {% if page.header.book %}
     <ul class="menu vertical-menu">
       <h3 class="text-center">
@@ -34,7 +34,7 @@
       <li class="divider"></li>
       {{ _self.nav_loop(page, false) }}
     </ul>
-  {% elseif not page.root %}
-    {{ macros.book_menu(page.parent) }}
+  {# {% elseif not page.root %}
+    {{ macros.book_menu(page.parent) }} #}
   {% endif %}
 {% endmacro %}

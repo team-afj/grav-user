@@ -1,0 +1,31 @@
+{% if has_files %}
+<ul class="menu vertical-menu">
+  <h3 class="text-center">
+    Téléchargements
+  </h3>
+  <li class="divider"></li>
+  {% for section in files %} 
+    {% if section.section_name is not null %}
+      <div class="menu-group {{ active_page }}">
+        {{ section.section_name }}
+      </div>
+    {% endif %}
+    {% for file in section.files %}
+      {% set media_ = media[file.file] %}
+      {% set icon = "la-file" %}
+      {% if media_.extension is same as("pdf") %}
+        {% set icon = "la-file-pdf" %}
+      {% endif %}
+      {% if media_.extension is same as("zip") %}
+        {% set icon = "la-file-archive" %}
+      {% endif %}
+      <li class="menu-item">
+        <a href="{{ media_.url }}" target="_blank">
+        <i class="las la-lg {{ icon }}"></i>
+          {{ file.name }}
+        </a>
+      </li>
+    {% endfor %}
+ {% endfor %}
+</ul>
+{% endif %}

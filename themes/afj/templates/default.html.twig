@@ -1,20 +1,37 @@
 {% extends 'partials/base.html.twig' %}
 {% import 'macros/macros.html.twig' as macros %}
 
+{#
+    Here we re-implement part of the functionnality in sidebar.html.twig
+However the sidebar in sidebar.html.twig is tought for bog post search and
+navigation, this one is for book TOC and files to download.
 
+    We might merge both if we find it useful in the future.
+#}
+
+{# If one of our parent is a book then we are in a book #}
+{# In that case we want to display a (large) sidebar #}
 {% set book_root = get_book_root(page) %}
 {% set is_book = book_root is not null %}
 
-{% set item_col = is_book ? 'col-7 col-md-12' : 'col-12' %}
-{% set sidebar_col = is_book ? 'col-5 col-md-12' : 'col-12' %}
+{# If there are files in the sidebar_files field then we want a 
+(small or large) sidebar to display these #}
+{% set files = page.header.sidebar_files %}
+{% set has_files = files and files|length > 0 %}
+
+{% set has_sidebar = is_book or has_files %}
+
+{% set content_col = has_sidebar ? 'col-8 col-md-12' : 'col-12' %}
+{% set sidebar_col = has_sidebar ? 'col-4 col-md-12' : 'col-12' %}
 
 {% block content %}
 <div class="columns">
-    <div id="item" class="column {{ item_col }} extra-spacing">
+    <div id="item" class="column {{ content_col }} extra-spacing">
         {{ page.content|raw }}
     </div>
-    {% if is_book %}
+    {% if has_sidebar %}
     <div id="sidebar" class="column {{ sidebar_col }}">
+        {% include 'partials/sidebar_files.html.twig' %}
         {{ macros.book_menu(book_root) }}
     </div>
     {% endif %}
