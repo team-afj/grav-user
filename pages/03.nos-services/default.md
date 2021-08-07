@@ -33,9 +33,9 @@ Le Discord AFJ est pour l’heure réservé aux personnes les plus actives au se
 La Meta-convention est une convention dédiée à l’organisation des conventions.
 Que vous êtes expérimenté ou inexpérimenté, que vous avez une vision globale ou spécifique, si vous cherchez à en savoir plus dans certains domaines de l’organisation, ou que vous souhaitez nous transmettre certains de vos connaissances et compétences, et que vous souhaitez rencontrer de nouvelles personnes, alors la Meta-convention pourrait vous intéresser. Pour plus d’informations, consulté notre page dédiée.
 
-**Projet "Sollidarité inter-convention :**
+**Projet "Solidarité inter-convention :**
 
-Nous 
+Nous élaborons actuellement un projet autour duquel des personnes qui disposent de compétences et d'expériences dans des domaines précis liés à l'organisation de convention pourraient interagir avec celles qui auraient besoin d'une expertise plus précise, par manque de connaissances, compétences et expériences. Un salon textuel sur Slack permet de rejoindre ce projet ou nous poser des questions à son propos. Il est également possible d'obtenir un lien vers le document partager qui permet le développement de ce projet.  
 
 #### Ressources matérielles :
 
