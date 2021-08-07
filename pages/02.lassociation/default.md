@@ -19,7 +19,7 @@ Vous êtes une jeune équipe d’organisateurs inexpérimentés ? Une équipe ch
 Plus concrètement, les objectifs de l’AFJ sont :
 
 -	de fédérer les associations organisatrices de conventions de jonglerie autour de l’AFJ. À terme, une des ambitions serait de devenir la fédération des conventions de jonglerie françaises ;
--	de fédérer les organisations avec des bénévoles, artistes et participant.e.s, mais également avec des associations, compagnies et entreprises (animations, initiations aux arts du cirque, location de chapiteaux, techniciens du spectacle…) ;
+-	de faciliter la mise en contact des organisateurs de convention avec des bénévoles, artistes et participant.e.s, mais également avec des associations, compagnies et entreprises (animations, initiations aux arts du cirque, location de chapiteaux, techniciens du spectacle…) ;
 -	de proposer des supports techniques, humains et financiers à l’organisation des conventions de jonglerie ;
 -	de promouvoir les conventions de jonglerie en favorisant la diffusion d’informations pertinentes à ce sujet.
 
