@@ -40,3 +40,30 @@ form:
                        description: 'Available classes in Afj Theme (space
                        separated):<br />`header-fixed`, `header-animated`,
                        `header-dark`, `header-transparent`, `sticky-footer`'
+        content:
+          fields:
+            header.sidebar_files:
+              name: side_files
+              label: File(s) in sidebar
+              type: list
+              style: vertical
+              fields:
+                .section_name:
+                  label: Section name
+                  type: text
+                  toggleable: true
+                .files:
+                  name: files
+                  label: File(s)
+                  type: list
+                  style: vertical
+                  fields:
+                    .name:
+                      label: Name
+                      type: text
+                    .file:
+                      label: File
+                      type: pagemediaselect
+                      multiple: false
+                      # validate:
+                      #     type: array #without it nothing happen on save...

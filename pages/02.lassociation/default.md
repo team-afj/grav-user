@@ -2,6 +2,19 @@
 title: 'L''Association'
 visible: true
 media_order: 'Statuts AFJ 2019.pdf,2020-07-30 CR-AG AFJ.pdf'
+sidebar_files:
+    -
+        section_name: Immatriculation
+        files:
+            -
+                name: Statuts de l'association
+                file: 'Statuts AFJ 2019.pdf'
+    -
+        section_name: Compte-rendus
+        files:
+            -
+                name: 'Assemblée Générale 2020'
+                file: '2020-07-30 CR-AG AFJ.pdf'
 ---
 
 ### L’Association Française de Jonglerie
@@ -50,10 +63,3 @@ L’AFJ a également besoin de fonds pour pouvoir fonctionner, se développer et
 Vous êtes :
 -	une personnalité morale (association, compagnie, entreprise…) et vous voulez nous soutenir ? Vous pouvez nous faire un don du montant que vous désirez via la plateforme [Hello-Asso](https://www.helloasso.com/associations/association-francaise-de-jonglerie/formulaires/1?target=_blank)
 -	un être humain et vous voulez nous soutenir sans forcément nous rejoindre ? Vous pouvez nous faire un don du montant que vous désirez via la plateforme [Hello-Asso](https://www.helloasso.com/associations/association-francaise-de-jonglerie/formulaires/1?target=_blank)
-
-
-**Plus d’informations sur notre association :**
-
--	les statuts de l’association depuis 2019 : [Statuts AFJ 2019.pdf](Statuts%20AFJ%202019.pdf?target=_blank)
--	le CR de l’AG 2020: [2020-07-30 CR-AG AFJ.pdf](2020-07-30%20CR-AG%20AFJ.pdf?target=_blank)
--	le CR de l’AG 2021: (A venir)
