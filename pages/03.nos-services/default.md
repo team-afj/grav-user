@@ -17,15 +17,16 @@ Sur ce site internet vous pourrez trouver beaucoup d’informations aidant à la
 
 #### Ressources informationnelles et humaines :
 
+**Le Facebook de l'AFJ:**
+
+Vous pouvez obtenir certaines informations, notamment concernant l'actualité de l'association et de ses partenaires via notre page [Facebook](https://www.facebook.com/asso.afj?target=_blank)
+
 **Le Slack et le Discord de l’AFJ :**
 
 Un certain nombre de personnes de la communauté qui gravitent autour de l’organisation des conventions de jonglerie consulte assez régulièrement le Slack de l’AFJ. C’est un lieu virtuel sur lequel se passe plusieurs choses. C’est un espace de discussion textuel qui permet d’avoir accès à beaucoup d’informations diverses et variées. Les membres peuvent poser des questions aux autres (FAQ) et peuvent ainsi avancer dans la réalisation de leurs projets de conventions. C’est aussi un lieu qui permet au CA et au bureau de l’AFJ de se « retrouver » pour échanger sur les sujets de l’association.
 
 Le Discord AFJ est pour l’heure réservé aux personnes les plus actives au sein de l’AFJ. Il permet de faire des réunions en visio et d’avoir des salons textuels pour poster des informations.
 
-**Le Facebook de l'AFJ:**
-
-Vous pouvez obtenir certaines informations, notamment concernant l'actualité de l'association et de ses partenaires via notre page [Facebook](https://www.facebook.com/asso.afj?target=_blank)
 
 **Meta-convention :**
 
