@@ -25,7 +25,6 @@
 {% macro book_menu(page) %}
   {# {% import _self as macros %} #}
   {% if page.header.book %}
-    <ul class="menu vertical-menu">
       <h3 class="text-center">
         <a href="{{ page.url }}" class="no-link">
         {{ page.menu }}
@@ -33,7 +32,6 @@
       </h3>
       <li class="divider"></li>
       {{ _self.nav_loop(page, false) }}
-    </ul>
   {# {% elseif not page.root %}
     {{ macros.book_menu(page.parent) }} #}
   {% endif %}

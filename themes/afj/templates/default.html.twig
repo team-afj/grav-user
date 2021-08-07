@@ -31,8 +31,10 @@ navigation, this one is for book TOC and files to download.
     </div>
     {% if has_sidebar %}
     <div id="sidebar" class="column {{ sidebar_col }}">
-        {% include 'partials/sidebar_files.html.twig' %}
-        {{ macros.book_menu(book_root) }}
+        <ul class="menu vertical-menu">
+            {% include 'partials/sidebar_files.html.twig' %}
+            {{ macros.book_menu(book_root) }}
+        </ul>
     </div>
     {% endif %}
 </div>
