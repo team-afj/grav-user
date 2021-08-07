@@ -42,6 +42,14 @@ form:
                        `header-dark`, `header-transparent`, `sticky-footer`'
         content:
           fields:
+            header.media_order:
+                type: pagemedia
+                label: "Page Media - **UPLOADER UNIQUEMENT DES FICHIERS SANS
+                ACCENTS DANS LE NOM**"
+                validate:
+                  required: true
+                  message: "Only ASCII characters allowed in filenames"
+                  pattern: '^[ -~]+$'
             header.sidebar_files:
               name: side_files
               label: File(s) in sidebar
