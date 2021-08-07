@@ -34,8 +34,3 @@
 .event-list-tbl td {
     text-align: center;
 }
-
-.event-list-tbl .las {    
-    font-family: FontAwesome;
-    padding-left: 4px;
-}
