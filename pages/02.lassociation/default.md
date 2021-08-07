@@ -1,14 +1,17 @@
 ---
 title: 'L''Association'
 visible: true
-media_order: 'Statuts AFJ 2019.pdf,2020-07-30 CR-AG AFJ.pdf'
+media_order: 'Statuts AFJ 2019.pdf,2020-07-30 CR-AG AFJ.pdf,Déclaration JO.pdf'
 sidebar_files:
     -
         section_name: Immatriculation
         files:
             -
-                name: Statuts de l'association
+                name: 'Statuts de l''association'
                 file: 'Statuts AFJ 2019.pdf'
+            -
+                name: 'Déclaration au Journal Officiel'
+                file: 'Déclaration JO.pdf'
     -
         section_name: Compte-rendus
         files:
