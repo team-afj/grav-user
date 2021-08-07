@@ -1,5 +1,6 @@
 ---
 title: 'Nos services'
+media_order: 'AAP AFJ 2021-2022.pdf,AAP_AFJ_2021_2022.pdf'
 ---
 
 ### Nos services
@@ -58,3 +59,4 @@ Un système de contrat de prêt à taux zéro peut être proposer aux organisate
 **Appel à projet 2021-2022 :**
 
 Suite aux bénéfices engendrés par la Convention Française de Jonglerie 2019-2020 “Glühwein”, les associations organisatrices ont décidé de financer un appel à projet via l’AFJ. L’enveloppe globale de cet appel à projet est de 2 000 € et a pour but de soutenir des conventions de jonglerie émergentes. Les conventions seront soutenues pour un montant maximum de 1 000 €.
+[AAP_AFJ_2021_2022.pdf](AAP_AFJ_2021_2022.pdf)
