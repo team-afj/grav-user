@@ -41,4 +41,4 @@ Un travail sur la transmission de supports lié à l'organisation de convention 
 
 Nous recherchons en permanence des personnes motivées pour s'investir dans l .... 
 
-Pour toute information complémentaire n'hésitez pas a nous joindre par mail : 
+Pour toute information complémentaire n'hésitez pas à nous joindre par mail : 
