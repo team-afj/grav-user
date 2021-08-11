@@ -13,7 +13,7 @@ Lors de cette convention, de nombreux aspects (humains, techniques, logistiques)
 L'AFJ ayant pour objectif d'aider à l'organisation de convention, il nous semble pertinent de développer de nouveaux outils et favoriser les échanges facilitants le développement des conventions sans chercher à en homogénéiser l’organisation.
 
 
-Les objectifs de ces rencontres sont entre autres de :
+**Les objectifs de ces rencontres sont entre autres de :**
 
 -Se (re)rencontrer pour faciliter les échanges entre nous
 
