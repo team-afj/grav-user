@@ -38,3 +38,7 @@ Une première édition a eu lieu l'été 2020 sous la forme d'un événement aut
 Différents ateliers de travail recoupant les principaux pôles d’une convention ont alors été mis en place de manière plus ou moins transmissive selon les thématiques et ont eu pour objectif la production d’un support permettant une transmission facilitée.
 
 Un travail sur la transmission de supports lié à l'organisation de convention est en cours et pour l'instant différentes ressources sont disponibles sur le drive: 
+
+Nous recherchons en permanence des personnes motivées pour s'investir dans l .... 
+
+Pour toute information complémentaire n'hésitez pas a nous joindre par mail : 
