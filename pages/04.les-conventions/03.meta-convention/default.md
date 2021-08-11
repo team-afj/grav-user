@@ -14,13 +14,21 @@ L'AFJ ayant pour objectif d'aider à l'organisation de convention, il nous sembl
 
 
 Les objectifs de ces rencontres sont entre autres de :
+
 -Se (re)rencontrer pour faciliter les échanges entre nous
+
 -Mettre en place de nouveaux outils liés à l'organisation de convention en général (actualiser le guide d'orga de conv...)
+
 -Partager des outils fonctionnels et se former sur ces outils (compta, plannings bénévoles, organisation réunion, gestion tireuse à bière ...)
+
 -Se sensibiliser aux aspects techniques (élec, sécu, mise en place d'une scène ...)
+
 -Se sensibiliser aux aspects légaux et administratifs (contraintes légales, demandes de subventions ...)
+
 -Se sensibiliser aux aspects humains (savoir être et travail en équipe...)
+
 -Partager de bons repas
+
 -Faire des projets fous (EJC française...)
 
 
