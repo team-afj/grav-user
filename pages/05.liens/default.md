@@ -21,7 +21,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Jongle.net](http://www.jongle.net/?target=_blank)
 
-[Jonglerie et Jonglages](https://www.gentlemanjongleur.com/jonglerieetjonglages/objets.html/?target=_blank)
+[Jonglerie et Jonglages](https://www.gentlemanjongleur.com/jonglerieetjonglages/objets.html?target=_blank)
 
 [Juggle Master](https://www.jugglemaster.fr/?target=_blank)
 
