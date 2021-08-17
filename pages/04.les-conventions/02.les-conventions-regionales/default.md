@@ -99,6 +99,6 @@ Les Tapirroulants / Hopla / Strasbourg
 
 Quo Faï Dau Be / St Priest Ligoure
 
-Saquagrin / Jongl libre / Orléans
+Saquagrin / Le Jonglibre / Orléans
 
 [Tartajongle / Basse Normandie](https://www.tartajongle.org/?target=_blank)
