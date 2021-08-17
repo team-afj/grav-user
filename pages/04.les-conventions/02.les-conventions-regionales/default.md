@@ -69,6 +69,8 @@ Zmam / Roca Balles / Vabre
 
 Circomobile / Nâ Rozho / Chatelard 
 
+[Cirkouest / West Coast Convention / Saint Viaud](https://www.cirkouest.fr/accueil/actualite/les-evenements-et-projets/weastcoast-convention/?target=_blank)
+
 [Extrême Jonglerie /Jongle en tongs / Marseille](http://www.extreme-jonglerie.com/?target=_blank)
 
 FestiFlam / Faya Festival / Poussan
