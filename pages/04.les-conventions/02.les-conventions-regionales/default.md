@@ -61,7 +61,7 @@ Zmam / Roca Balles / Vabre
 
 [Ajil / Au Bout Des Doigts (ABDD) / Lyon](http://ajil-asso.fr/?target=_blank)
 
-[A Deux Mains / Prends ton pied des 2 mains / Vernoux en Vivarais](https://cd2m.wordpress.com/a-propos/?target=_blank)
+[A Deux Mains / Prends ton pied des 2 mains / Vernoux en Vivarais](https://jongla2mains.wordpress.com/?target=_blank)
 
 [Association Parisienne de Jonglerie (APJ) / Paris](https://www.asso-apj.fr/?target=_blank)
 
@@ -76,8 +76,6 @@ FestiFlam / Faya Festival / Poussan
 [Fo Ksa Bouge / Passe la jongle à tes voisins / Voisins-le-Bretonneux](http://passelajongle.blogspot.com/?target=_blank)
 
 [Graulich convention feu / Rodemack](https://www.facebook.com/GraulichConventionFeu/?target=_blank)
-
-[Jongla2mains / Chalencon](https://jongla2mains.wordpress.com/?target=_blank)
 
 [Jonglagogo / Troyes](http://jonglagogo.fr/?target=_blank)
 
