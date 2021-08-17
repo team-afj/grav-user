@@ -60,14 +60,16 @@ L’AFJ rassemble des personnes qui se déplacent en conventions de jonglerie et
 L’AFJ a besoin de personnes motivées pour remplir les missions précédemment évoquées (les **membres actifs**), mais a également de **membres adhérents** pour accroître sa crédibilité et assurer sa pérennité. 
 De plus, l'AFJ a besoin de l'adhésion des associations organisatrices en tant que **membres associés**, pour constituer une fédération.
 
-**Vous êtes :**
--	une association qui organise un événement de jonglerie et vous voulez nous rejoindre ? Il vous suffit d’adhérer via la plateforme [Hello-Asso ](https://www.helloasso.com/associations/association-francaise-de-jonglerie?target=_blank) en tant que personne morale pour une cotisation annuelle à partir de 10€ (et plus si affinité). 
--	un être humain (que vous souhaitez vous investir ou juste nous soutenir et renforcer notre communauté) : vous pouvez adhérer via la plateforme [Hello-Asso ](https://www.helloasso.com/associations/association-francaise-de-jonglerie?target=_blank) en tant que personne physique pour une cotisation annuelle à partir de 2€ (et plus si affinité).
+Vous êtes :
+-	une association qui organise un événement de jonglerie et vous voulez nous rejoindre ? Il vous suffit d’adhérer via la plateforme [HelloAsso ](https://www.helloasso.com/associations/association-francaise-de-jonglerie?target=_blank) en tant que personne morale pour une cotisation annuelle à partir de 10€ (et plus si affinité). 
+-	un être humain (que vous souhaitez vous investir ou juste nous soutenir et renforcer notre communauté) : vous pouvez adhérer via la plateforme [HelloAsso ](https://www.helloasso.com/associations/association-francaise-de-jonglerie?target=_blank) en tant que personne physique pour une cotisation annuelle à partir de 2€ (et plus si affinité).
+
+Vous pouvez également adhérer directement lors de certaines conventions et notamment pendant les [CFJ]().
 
 **Motiver à nous soutenir ?**
 
 L’AFJ a également besoin de fonds pour pouvoir fonctionner, se développer et continuer à aider les autres.
 
 Vous êtes :
--	une personnalité morale (association, compagnie, entreprise…) et vous voulez nous soutenir ? Vous pouvez nous faire un don du montant que vous désirez via la plateforme [Hello-Asso](https://www.helloasso.com/associations/association-francaise-de-jonglerie/formulaires/1?target=_blank)
--	un être humain et vous voulez nous soutenir sans forcément nous rejoindre ? Vous pouvez nous faire un don du montant que vous désirez via la plateforme [Hello-Asso](https://www.helloasso.com/associations/association-francaise-de-jonglerie/formulaires/1?target=_blank)
+-	une personnalité morale (association, compagnie, entreprise…) et vous voulez nous soutenir ? Vous pouvez nous faire un don du montant que vous désirez via la plateforme [HelloAsso](https://www.helloasso.com/associations/association-francaise-de-jonglerie/formulaires/1?target=_blank)
+-	un être humain et vous voulez nous soutenir sans forcément nous rejoindre ? Vous pouvez nous faire un don du montant que vous désirez via la plateforme [HelloAsso](https://www.helloasso.com/associations/association-francaise-de-jonglerie/formulaires/1?target=_blank)
