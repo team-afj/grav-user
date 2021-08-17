@@ -32,9 +32,9 @@ Le Discord AFJ est pour l’heure réservé aux personnes les plus actives au se
 **Meta-convention :**
 
 La Meta-convention est une convention dédiée à l’organisation des conventions.
-Que vous êtes expérimenté ou inexpérimenté, que vous avez une vision globale ou spécifique, si vous cherchez à en savoir plus dans certains domaines de l’organisation, ou que vous souhaitez nous transmettre certains de vos connaissances et compétences, et que vous souhaitez rencontrer de nouvelles personnes, alors la Meta-convention pourrait vous intéresser. Pour plus d’informations, consulté notre page dédiée.
+Que vous soyez expérimenté ou inexpérimenté, que vous ayez une vision globale ou spécifique, si vous cherchez à en savoir plus dans certains domaines de l’organisation, ou que vous souhaitez nous transmettre certains de vos connaissances et compétences, et que vous souhaitez rencontrer de nouvelles personnes, alors la Meta-convention pourrait vous intéresser. Pour plus d’informations, consultez notre page dédiée.
 
-**Projet "Solidarité inter-convention :**
+**Projet "Solidarité inter-convention" :**
 
 Nous élaborons actuellement un projet autour duquel des personnes qui disposent de compétences et d'expériences dans des domaines précis liés à l'organisation de convention pourraient interagir avec celles qui auraient besoin d'une expertise plus précise, par manque de connaissances, compétences et expériences. Un salon textuel sur Slack permet de rejoindre ce projet ou nous poser des questions à son propos. Il est également possible d'obtenir un lien vers le document partager qui permet le développement de ce projet.  
 
@@ -59,4 +59,4 @@ Un système de contrat de prêt à taux zéro peut être proposer aux organisate
 **Appel à projet 2021-2022 :**
 
 Suite aux bénéfices engendrés par la Convention Française de Jonglerie 2019-2020 “Glühwein”, les associations organisatrices ont décidé de financer un appel à projet via l’AFJ. L’enveloppe globale de cet appel à projet est de 2 000 € et a pour but de soutenir des conventions de jonglerie émergentes. Les conventions seront soutenues pour un montant maximum de 1 000 €.
-[AAP_AFJ_2021_2022.pdf](AAP_AFJ_2021_2022.pdf)
+[Lien vers le pdf de l'appel à projet.](AAP_AFJ_2021_2022.pdf)
