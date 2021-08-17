@@ -67,6 +67,8 @@ Zmam / Roca Balles / Vabre
 
 [Association Trac / Jonglissimo / Reims](http://www.asso-trac.fr/?target=_blank)
 
+Cie Daruma / Jongle avec des mirabelles sur les balcons / Mirabel et blacons
+
 Circomobile / Nâ Rozho / Chatelard 
 
 [Cirkouest / West Coast Convention / Saint Viaud](https://www.cirkouest.fr/accueil/actualite/les-evenements-et-projets/weastcoast-convention/?target=_blank)
