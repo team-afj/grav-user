@@ -89,6 +89,8 @@ Les Ballpapas / Balles Habiles / Belleville
 
 Les fous de la jongle / Saint-Hilaire-du-Thouvet 
 
+Les Jongleurs d'Oriant / Oriant’à Jongle / Larmor-Plage 
+
 [Les Nazes / Glühwein / Wesserling](https://www.les-nazes.com/gluhwein.html?target=_blank)
 
 Les Tapirroulants / Hopla / Strasbourg
