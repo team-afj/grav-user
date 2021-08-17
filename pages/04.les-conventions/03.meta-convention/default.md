@@ -17,11 +17,11 @@ L'AFJ ayant pour objectif d'aider à l'organisation de convention, il nous sembl
 
 -Se (re)rencontrer pour faciliter les échanges entre nous
 
--Mettre en place de nouveaux outils liés à l'organisation de convention en général (actualiser le guide d'orga de conv...)
+-Mettre en place de nouveaux outils liés à l'organisation de convention en général (actualiser le guide de l'organisateur de convention...)
 
--Partager des outils fonctionnels et se former sur ces outils (compta, plannings bénévoles, organisation réunion, gestion tireuse à bière ...)
+-Partager des outils fonctionnels et se former sur ces outils (comptabilité, plannings bénévoles, organisation de réunion, gestion tireuse à bière ...)
 
--Se sensibiliser aux aspects techniques (élec, sécu, mise en place d'une scène ...)
+-Se sensibiliser aux aspects techniques (électricité, sécurité, mise en place d'une scène ...)
 
 -Se sensibiliser aux aspects légaux et administratifs (contraintes légales, demandes de subventions ...)
 
@@ -33,12 +33,12 @@ L'AFJ ayant pour objectif d'aider à l'organisation de convention, il nous sembl
 
 
 
-Une première édition a eu lieu l'été 2020 sous la forme d'un événement autogéré et autofinancé. Une autre métaconvention est annoncé pour l'été 2021 
+Une première édition a eu lieu l'été 2020 sous la forme d'un événement autogéré et autofinancé. Une autre méta-convention est annoncé pour l'été 2021 
 
-Différents ateliers de travail recoupant les principaux pôles d’une convention ont alors été mis en place de manière plus ou moins transmissive selon les thématiques et ont eu pour objectif la production d’un support permettant une transmission facilitée.
+Différents ateliers de travail recoupant les principaux pôles d’une convention ont alors été mis en place de manière plus ou moins transmissible selon les thématiques et ont eu pour objectif la production d’un support permettant une transmission facilitée.
 
 Un travail sur la transmission de supports lié à l'organisation de convention est en cours et pour l'instant différentes ressources sont disponibles sur le drive: 
 
-Nous recherchons en permanence des personnes motivées pour s'investir dans l .... 
+Nous recherchons en permanence des personnes motivées pour s'investir dans la présentation de nouveaux woorkshop en lien avec l'organisation, mais également de personnes pour nous aider à organiser les futures meta-conventions. 
 
-Pour toute information complémentaire n'hésitez pas à nous joindre par mail : 
+Pour toutes informations complémentaires n'hésitez pas à nous joindre par mail : afj.jonglerie@gmail.com 
