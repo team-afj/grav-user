@@ -28,6 +28,8 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [Convention Arts du Cirque (CAC) / Belgique](https://www.facebook.com/convention.CAC/?target=_blank)
 
+[Des biles et des Balles / Doubitchou / Belfort](https://business.facebook.com/Des-Biles-et-des-Balles-242154706510446/?target=_blank)
+
 [École De Cirque Zmam / Roca’balle / Rocalet (Vabre)](https://www.facebook.com/events/lieu-dit-rocalet-81330-vabre-france/rocaballe/306579483942477/?target=_blank)
 
 [Jongle & Rit / Bigoud’N’Jongle / Vezin le coquet](https://jongleetrit.wordpress.com/?target=_blank)
@@ -58,6 +60,8 @@ Zmam / Roca Balles / Vabre
 #### Les associations des conventions régionales en sommeil ou disparues
 
 [Ajil / Au Bout Des Doigts (ABDD) / Lyon](http://ajil-asso.fr/?target=_blank)
+
+[A Deux Mains / Prends ton pied des 2 mains / Vernoux en Vivarais](https://cd2m.wordpress.com/a-propos/?target=_blank)
 
 [Association Parisienne de Jonglerie (APJ) / Paris](https://www.asso-apj.fr/?target=_blank)
 
