@@ -5,16 +5,16 @@ title: 'Pendant la convention'
 ### Pendant la convention
 
 **Tout au long de l'événement : **
--	Gérer le paiement de l'entrée, la caisse (à vider régulièrement), les pass, les infos aux participants, les T-shirts (bilingue c’est mieux)
--	Faire les repas des bénévoles et artistes (Annexe 4)
--	Faire repas des conventionnistes, si vous l’avez prévu
--	Servir au bar, gérer la caisse (notamment la vider régulièrement) et gérer la consigne des gobelets (1€), faire thé et café
--	Passer de la musique 
--	Passer les informations sur le programme au microphone ou avoir une personne responsable de la communication qui fait le tour des lieux pour transmettre l’information aux jongleurs.
--	Gérer la sécurité (mettre trousse de secours à dispo, soigner des blessures légères, contacter numéro d’urgence si besoin…)
--	Assurer la propreté des lieux et le ravitaillement en courses
--	Avoir les numéros de téléphone de chaque référents (général, accueil, bar, cuisine, technique…)
--	Organiser les spectacles (répétitions et déroulement)
+- Gérer le paiement de l'entrée, la caisse (à vider régulièrement), les pass, les infos aux participants, les T-shirts (bilingue c’est mieux)
+- Faire les repas des bénévoles et artistes (Annexe 4)
+- Faire repas des conventionnistes, si vous l’avez prévu
+- Servir au bar, gérer la caisse (notamment la vider régulièrement) et gérer la consigne des gobelets (1€), faire thé et café
+- Passer de la musique 
+- Passer les informations sur le programme au microphone ou avoir une personne responsable de la communication qui fait le tour des lieux pour transmettre l’information aux jongleurs.
+- Gérer la sécurité (mettre trousse de secours à dispo, soigner des blessures légères, contacter numéro d’urgence si besoin…)
+- Assurer la propreté des lieux et le ravitaillement en courses
+- Avoir les numéros de téléphone de chaque référents (général, accueil, bar, cuisine, technique…)
+- Organiser les spectacles (répétitions et déroulement)
 
 **Exemple du vendredi de la convention :**
 
@@ -46,10 +46,10 @@ Le petit-déjeuner :
 Les workshops :
 
 La parade :
--	Préparer la parade
--	Faire un appel de rassemblement une demi-heure avant le départ.
--	Défiler
--	Ramener les jongleurs au site après la parade
+- Préparer la parade
+- Faire un appel de rassemblement une demi-heure avant le départ.
+- Défiler
+- Ramener les jongleurs au site après la parade
 
 Le gala :
 - Préparer le gala (un temps de préparation d'au moins 30 minutes/numéro avant la représentation est nécessaire à son bon déroulement)

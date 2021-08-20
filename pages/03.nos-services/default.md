@@ -12,9 +12,9 @@ L’AFJ se veut être un centre de ressources pour les organisateurs et organisa
 **Le site web :**
 
 Sur ce site internet vous pourrez trouver beaucoup d’informations aidant à la création, à la gestion et au bon déroulement d’une convention de jonglerie. 
--	[Le Guide de l’organisateur](/les-conventions/organiser-une-convention) détaille les étapes et les tâches à effectuer pour le montage et la réalisation d'une convention de jonglerie.
--	[L’agenda des conventions](/) permet de connaître où et quand vont se dérouler les prochaines conventions (autant pour inciter à y participer que pour éviter de programmer plusieurs conventions en même temps).
--	[Les contacts des associations organisatrices de conventions](/les-conventions/les-conventions-regionales) permettent à la fois de voir leurs diversités, que de pouvoir les contacter ou d'obtenir plus d'informations sur elles.
+- [Le Guide de l’organisateur](/les-conventions/organiser-une-convention) détaille les étapes et les tâches à effectuer pour le montage et la réalisation d'une convention de jonglerie.
+- [L’agenda des conventions](/) permet de connaître où et quand vont se dérouler les prochaines conventions (autant pour inciter à y participer que pour éviter de programmer plusieurs conventions en même temps).
+- [Les contacts des associations organisatrices de conventions](/les-conventions/les-conventions-regionales) permettent à la fois de voir leurs diversités, que de pouvoir les contacter ou d'obtenir plus d'informations sur elles.
 
 #### Ressources informationnelles et humaines :
 
