@@ -267,18 +267,26 @@ Il faut définir si vous optez pour des jetons ou pour de la monnaie. Si vous ut
     
 - Tableau de workshop
 
-WORKSHOP
-	                 SAMEDI	          DIMANCHE
-10H-11H		
-11H-12H		
-12H-13H		
-13H-14H		
-14H-15H		
-15H-16H		
-16H-17H		
-17H-18H		
-18H-19H		
-19H-20H		
+<div class="panel" style="width: 75%; font-size: 90%; margin: 0 auto 1rem auto">
+<table class="table">
+<thead>
+<tr><th colspan="3" class="text-center">WORKSHOPS</th></tr>
+<tr><th>Horaire</th><th>SAMEDI</th><th>DIMANCHE</th></tr>
+</thead>
+<tbody>
+<tr><td>10H-11H</td><td></td><td></td></tr>
+<tr><td>11H-12H</td><td></td><td></td></tr>
+<tr><td>12H-13H</td><td></td><td></td></tr>
+<tr><td>13H-14H</td><td></td><td></td></tr>
+<tr><td>14H-15H</td><td></td><td></td></tr>
+<tr><td>15H-16H</td><td></td><td></td></tr>
+<tr><td>16H-17H</td><td></td><td></td></tr>
+<tr><td>17H-18H</td><td></td><td></td></tr>
+<tr><td>18H-19H</td><td></td><td></td></tr>
+<tr><td>19H-20H</td><td></td><td></td></tr>
+</tbody>
+</table>
+</div>
 
 Remarque : il faut renseigner le nom, le lieu (ex: grande salle), le thème (balles, diabolo...), le niveau (débutant...).
 
