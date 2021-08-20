@@ -261,9 +261,19 @@ Il faut définir si vous optez pour des jetons ou pour de la monnaie. Si vous ut
 	Les outils nécessaires pour la déco (si besoin, étiquetez à qui appartiennent les objets associatifs /particuliers...) : de la peinture, un bon cutter, des feutres, du fil de fer, un bon vieux pistolet à colle, du grillage et des journaux pour le papier mâché, des ballons à sculpter, du papier craft, une agrafeuse murale, du scotch et du gaffer, des clous, une perceuse visseuse, des palettes, des planches de bois, une scie sauteuse.
 
 #### Les workshops
-	Le sentiment d’avoir passé une bonne convention pour un jongleur, c’est aussi lorsqu’il a bien jonglé et qu’il a appris des nouvelles figures. D’où l’importance des workshops, qu’ils soient organisés ou spontanés.
-	Les workshops organisés, c’est pratique à ... organiser... Demandez aux gens intéressés de vous prévenir à l’avance afin d’inclure l’atelier dans votre programmation. Cela peut du coup faire venir des gens à la convention !
-	Les workshops spontanés c’est quand vous voulez, vous vous pointez à la convention et vous inscrivez votre nom sur le tableau et c’est parti (n’oubliez pas d’essayer de négocier ce repas/boisson... des fois ça marche). Et si vous connaissez quelqu’un qui devrait donner un workshop, motivez-le : le partage, c’est l’essence de la convention.
+Le sentiment d’avoir passé une bonne convention pour un jongleur, c’est aussi
+lorsqu’il a bien jonglé et qu’il a appris des nouvelles figures. D’où
+l’importance des workshops, qu’ils soient organisés ou spontanés.
+
+Les workshops organisés, c’est pratique à ... organiser... Demandez aux gens
+intéressés de vous prévenir à l’avance afin d’inclure l’atelier dans votre
+programmation. Cela peut du coup faire venir des gens à la convention !
+
+Les workshops spontanés c’est quand vous voulez, vous vous pointez à la
+convention et vous inscrivez votre nom sur le tableau et c’est parti (n’oubliez
+pas d’essayer de négocier ce repas/boisson... des fois ça marche). Et si vous
+connaissez quelqu’un qui devrait donner un workshop, motivez-le : le partage,
+c’est l’essence de la convention.
     
 - Tableau de workshop
 
