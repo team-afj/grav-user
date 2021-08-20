@@ -2,7 +2,7 @@
 title: Méta-convention
 ---
 
-### Méta-convention :
+## Méta-convention
 
 Un projet de méta-convention de jonglerie est en cours de pérennisation.
 

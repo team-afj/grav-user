@@ -3,7 +3,7 @@ title: 'La décoration'
 media_order: 'deco.jpg,deco_carvin_ballons.jpg,img_0581.jpg'
 ---
 
-### La décoration
+## La décoration
 
 ![deco](deco.jpg "deco")   
 

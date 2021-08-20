@@ -2,7 +2,7 @@
 title: 'Après la convention'
 ---
 
-### Après la convention
+## Après la convention
 
 - Décharger tous les véhicules, avec le matériel et la décoration. Attention, si vous souhaitez réutiliser vos affaires, nous vous conseillons de ranger de manière organisée (dans des armoires par exemple ou sur des étagères ; pas sur un tas informe) et avec soin (à l’abri de l’humidité, du froid, de la chaleur).
 

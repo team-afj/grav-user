@@ -3,7 +3,7 @@ title: 'Les jeux de la jongle'
 media_order: '5balles.jpg,gladiator02.jpg,equimassue.jpg,corde.jpg,tiralacorde.jpg,brouette01.jpg,tossup.jpg'
 ---
 
-### Les jeux de la jongle
+## Les jeux de la jongle
 
 Plantons le décor. Un maître de cérémonie, si possible muni d’un micro, organise et anime les Jeux. Le public, disposé en grand cercle, est composé des participants de la convention mais aussi souvent de riverains venus assister au spectacle. Lorsqu’une épreuve est annoncée par le maître de cérémonie, ceux qui veulent y participer se munissent du matériel nécessaire et rejoignent le centre du cercle. L’épreuve peut alors commencer.
 

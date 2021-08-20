@@ -2,7 +2,7 @@
 title: 'Pendant la convention'
 ---
 
-### Pendant la convention
+## Pendant la convention
 
 **Tout au long de l'événement : **
 - Gérer le paiement de l'entrée, la caisse (à vider régulièrement), les pass, les infos aux participants, les T-shirts (bilingue c’est mieux)

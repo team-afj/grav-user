@@ -4,7 +4,7 @@ published: true
 book: true
 ---
 
-### Guide de l'organisateur de convention de jonglerie
+## Guide de l'organisateur de convention de jonglerie
 
 > J’ai envie d’organiser une convention de jongle, mais c’est la 1ère fois, je ne sais pas comment faire ! 
 
