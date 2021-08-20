@@ -7,7 +7,7 @@ published: true
 
 Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www.facebook.com/asso.afj?target=_blank)
 
-##### **Sites généralistes francophones**
+##### Sites généralistes francophones
 
 [Artcena - Centre national des arts du cirque, de la rue et du théâtre](https://www.artcena.fr/?target=_blank)
 
@@ -29,7 +29,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Maison des Jonglages](http://maisondesjonglages.fr/fr?target=_blank)
 
-##### **Sites généralistes anglophones et autres langues**
+##### Sites généralistes anglophones et autres langues
 
 [Association Européenne de Jonglerie (EJA)](https://www.eja.net/?target=_blank)
 
@@ -51,7 +51,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [Zirkolika - Revista de las Artes Circenses (Espagnol)](https://zirkolika.com/?target=_blank)
 
-##### **Sites spécifiques**
+##### Sites spécifiques
 
 [Acropedia](https://www.acropedia.org/?target=_blank)
 
@@ -90,7 +90,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 [Yoyo.fr](https://www.yoyos.fr/?target=_blank)
 
 
-##### **Sites et chaînes de vidéos de jongle**
+##### Sites et chaînes de vidéos de jongle
 
 [Circopedia](http://www.circopedia.org/Main_Page?target=_blank)
 
@@ -114,7 +114,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 
 [The ministry of manipulation](http://www.ministryofmanipulation.com/?target=_blank)
 
-##### **Sites et calendriers des conventions d'ailleurs**
+##### Sites et calendriers des conventions d'ailleurs
 
 [Asociacion Donyet Ardit (Alicante / Spain)](https://donyetardit.blogspot.com/?target=_blank)
 
@@ -145,7 +145,7 @@ Suivez l'AFJ sur ~~Sheitan.com~~ (euh... sur) le [facebook de l'AFJ](https://www
 [The Juggling Edge (Calendrier des conventions du monde entier)](https://www.jugglingedge.com/events.php?target=_blank)
 
 
-##### **Sites de vendeurs de matériel de jongle**
+##### Sites de vendeurs de matériel de jongle
 
 [Circus Planet](https://www.circus-planet.com/fr/?target=_blank)
 

@@ -11,9 +11,9 @@ sidebar_files:
 
 ### L’organisation du pôle accueil en convention
 
-#### **1. Pourquoi avoir un accueil et pourquoi faire des pré-inscriptions ?**
+#### 1. Pourquoi avoir un accueil et pourquoi faire des pré-inscriptions ?
 
-###### **Pourquoi avoir un accueil en convention ? (vue d’ensemble) **
+###### Pourquoi avoir un accueil en convention ? (vue d’ensemble) 
 
 **L'accueil c'est (ou peut être): **
 - le premier lieu de passage de la convention
@@ -29,7 +29,7 @@ sidebar_files:
 
 **Remarque:** l’accueil doit être adapté selon la taille de la convention (fréquentation et durée), selon la programmation et selon les publics visés. Certains services peuvent être délocalisés de l’accueil (tableau workshops, point de rechargement, objets trouvés…).
 
-###### **Pourquoi faire des pré-inscriptions ? (vue d’ensemble)**
+###### Pourquoi faire des pré-inscriptions ? (vue d’ensemble)
 
 **La pré-inscription c'est (ou peut être):**
 - le lieu d’information des publics et des festivaliers en ligne
@@ -40,9 +40,9 @@ sidebar_files:
 - un lieu de vente de merchandising (si t-shirt, goodies…) et donc un moyen d'augmenter la trésorerie avant la convention
 - un moyen de faire des inscriptions pour la scène ouverte
 
-#### **2. Qui s’occupe de l’accueil d’une convention et des pré-inscriptions?**
+#### 2. Qui s’occupe de l’accueil d’une convention et des pré-inscriptions?
 
-##### **Rôles et principales compétences utiles au pôle accueil**
+##### Rôles et principales compétences utiles au pôle accueil
 
 **Le(s) responsable(s) du pôle : **
 
@@ -95,7 +95,7 @@ Il est préférable de se mettre également en lien avec le pôle communication,
 
 ### AVANT LA CONVENTION
 
-#### **3a. Où, comment et avec quoi faire une pré-inscription ?**
+#### 3a. Où, comment et avec quoi faire une pré-inscription ?
 
 **Gestion de la billetterie en pré-inscription :**
 Mise en place opérationnelle des pré-inscriptions :
@@ -119,7 +119,7 @@ le programme de la convention et le plan du site.
 Si pré-enregistré.e, pour le t-shirt il/elle reçoit un ticket pour le récupérer au stand merchandising.
 Cela peut être fait pour les artistes, les prestataires et les bénévoles (à voir avec le pôle bénévole et le pôle artiste).
 
-#### **3b. Où, comment et avec quoi faire un accueil ?**
+#### 3b. Où, comment et avec quoi faire un accueil ?
 
 **Remarque générale concernant les bénévoles de l’accueil :**
 

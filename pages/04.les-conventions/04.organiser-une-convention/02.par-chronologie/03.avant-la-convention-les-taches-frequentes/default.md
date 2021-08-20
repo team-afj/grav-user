@@ -3,7 +3,7 @@ title: 'Avant la convention – Les tâches fréquentes'
 media_order: VOLLEY.pdf
 ---
 
-### **Avant la convention – Les tâches fréquentes**
+### Avant la convention – Les tâches fréquentes
 
 Si vous avez faits tous les points précédents, vous devriez déjà avoir de quoi faire une convention ! Cette section présente les autres tâches qui sont fréquentes, mais pas forcément nécessaire à une convention.
 

@@ -3,7 +3,7 @@ title: 'Avant la convention – Les tâches fondamentales'
 media_order: 'budget_prev.jpg,CFJ_prog&planning.xlsx,check_list scene.docx,Exemple de 1er mail de mise en contact.pdf,CFJ2020 Dossier de presentation.pdf'
 ---
 
-### **Avant la convention – Les tâches fondamentales**
+### Avant la convention – Les tâches fondamentales
 
 L’architecture de l’organisation repose sur un équilibre harmonieux entre plusieurs piliers distincts, mais fondamentaux. La convention repose sur les envies, les idées et sur le temps que l’on consacre à sa préparation. De même, elle repose sur les moyens de l’association (humains, techniques et financiers) et sur le lieu et les dates de l’événement. Enfin, la convention dépend du nombre de participants.
 
@@ -11,7 +11,7 @@ C’est pourquoi, le montage du projet, la recherche d’un lieu et des dates so
 
 Cette section vous propose déterminer ce que vous voulez faire (vos besoins), puis d’identifier ce que vous pouvez faire (vos moyens), pour ensuite confronter vos besoins et vos moyens afin de trouver le bon compromis entre les deux ! Il s’agit de faire une liste de tout, puis de projeter une "vision d'ensemble".
 
-##### **1)	Réunions de l'équipe organisatrice **
+##### 1)	Réunions de l'équipe organisatrice 
 
 Proposez à l’équipe organisatrice, une première date de réunion au moins quelques mois avant l’événement pour se laisser le temps de s’organiser. On peut par exemple faire une demande de réunion par mail en créant d’abord un « Framadate » ou un « Doodle » ou créer un forum (comme « Slack » ou autre) pour informer les personnes susceptibles d’être motivées par le projet. Ensemble, vous formerez le "noyau" de l'organisation, et vous partager les responsabilités.
 Faire un ordre du jour. Si vous avez déjà organisé une convention, vous pouvez préparer cette réunion en vous appuyant sur le dernier bilan moral et financier de l’édition précédente, pour fixer les objectifs de l’événement à venir. 
@@ -47,11 +47,11 @@ Organiser autant de réunions que nécessaires pour proposer vos idées, pour d�
 
 Une fois que le compte rendu est envoyé à tous les autres organisateurs, chacun se charge de faire ce pourquoi il s’est engagé. Il est intéressant de faire une liste récapitulative en bas du compte-rendu de « qui fait quoi ».
 
-##### **2)	Rédiger un document détaillé du montage de la convention**
+##### 2)	Rédiger un document détaillé du montage de la convention
 
 Maintenant que vous avez défini vos besoins et vos moyens généraux, il s’agit de les concrétiser… Pour se faire, nous vous conseillons de vous appuyer sur les conseils qui vont suivre et sur les compte-rendu de vos réunions. Les besoins et les moyens du montage du projet (humains techniques, financiers, lieu, dates…) devraient à terme être rédigés et compilés dans un document qui vous servira à répondre aux différentes questions sur la convention, des organisateurs, des bénévoles, des partenaires, des médias et des pouvoirs publics. La suite détaille plus précisément les tâches à effectuer pour le montage de ce dossier.
 
-##### **3)	Trouver un lieu et une date**
+##### 3)	Trouver un lieu et une date
 
 **C’est une phase très importante de l’organisation. Il faut prévoir un temps suffisant pour rechercher le site adéquat.  **
 
@@ -91,11 +91,11 @@ Par exemple, voici une liste de critères nécessaires et les questions techniqu
 
 **Nous vous recommandons très fortement d'avoir la confirmation de la réservation du site avant de faire les autres étapes.**
 
-##### **4)	DEFINIR LES MOYENS TECHNIQUES PRIMORDIAUX**
+##### 4)	DEFINIR LES MOYENS TECHNIQUES PRIMORDIAUX
 
 Lister le matériel nécessaire de sonorisation, lumière, cuisine, restauration, décoration, sécurité… Réfléchissez à comment trouver le matériel, comment l’emmener sur place et comment le ramener.
 
-##### **5)	DEFINIR LES MOYENS FINANCIERS ET LE BUDGET PREVISIONNEL**
+##### 5)	DEFINIR LES MOYENS FINANCIERS ET LE BUDGET PREVISIONNEL
 
 Il faut se poser plusieurs questions :
 - Qu’est-ce qu’on doit acheter ? : faire la liste exhaustive de tous les achats prévisionnels 
@@ -116,13 +116,13 @@ Exemple de budget prévisionnel:
 
 Attention : le budget prévisionnel présenté aux partenaires doit être à l’équilibre. Néanmoins il est possible d’avoir un budget légèrement différent en interne : comme habituellement les financeurs donnent moins que le montant des demandes, vous pourrez avoir moins de ressources que prévues, et donc il faudra diminuer certaines charges.
 
-##### **6)	DEFINIR LA PROGRAMMATION**
+##### 6)	DEFINIR LA PROGRAMMATION
 
 Qu’est ce qui va se passer jour par jour  ?
 
 Exemple de programmation téléchargeable en format Excel: [CFJ_prog&planning.xlsx](CFJ_prog&planning.xlsx?target=_blank)
 
-##### **7)	DEFINIR LES MOYENS HUMAINS **
+##### 7)	DEFINIR LES MOYENS HUMAINS 
 
 Exemple de listing pour la scène téléchargeable en format Word: [check_list scene.docx](check_list%20scene.docx?target=_blank)
 
@@ -159,7 +159,7 @@ Une personne est susceptible d’occuper plusieurs de ces pôles à la fois, com
 Une autre idée est d’avoir un référent et un assistant référent pour chaque pôle. Puis l’édition d’après (en n+1), l’équipe s’inverse : le référent devient assistant et l’assistant devient référent. Enfin, l’édition d’encore après (en n+2), le référent prend sous son aile, un nouvel assistant. Cela est une manière d’assurer la pérennité des compétences des organisateurs.
 Si l’on choisit de ne pas avoir de référent par pôle, il faut quand même savoir déléguer les tâches, donc au moins les lister précisément.
 
-##### **8)	LA SUITE DES CHOSES A FAIRE**
+##### 8)	LA SUITE DES CHOSES A FAIRE
 
 Une fois que l’équipe à déterminer l’ensemble des points précédents, on relance le groupe d’organisateurs par mail, ou autre, en leur donnant les infos. Le but étant de s’organiser et se mettre d’accord directement par rapport à ce qui a été dit pendant les réunions.
 Selon le cas, on peut soit : rester en contact par forum ou chaînes de mails, soit fixer une nouvelle date de réunion. Le but étant que les différents pôles se constituent, s’organisent et transmettent de l’information à tous les autres organisateurs. Attention : les chaînes de mails ne sont pas très efficaces, car il est facile de casser la chaîne en omettant certains messages et il n’y a pas de recherche d’historique pour un nouveau venu.
