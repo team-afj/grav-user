@@ -8,4 +8,4 @@ Nous souhaitons adresser nos meilleurs remerciements à tous ceux qui ont partic
 
 Nous remercions également tous les organisateurs qui prendront du temps à lire ce guide, afin de créer leur propre convention, ou pour améliorer leur convention déjà existante.
 
-Longue vie à la Jonglerie, longue vie aux Conventions !
+Longue vie à la Jonglerie, longue vie aux Conventions !

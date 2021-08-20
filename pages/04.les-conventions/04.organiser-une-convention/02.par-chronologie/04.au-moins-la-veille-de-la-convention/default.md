@@ -6,7 +6,7 @@ title: 'Au moins la veille de la convention'
 
 #### 1)	FAIRE LES COURSES 
 
-Exemple de liste de courses prévisionnelles de base : 
+Exemple de liste de courses prévisionnelles de base : 
 Attention, cette liste concerne uniquement les consommables. Le reste dépend de ce que vous procédez déjà, de ce que l’on peut vous prêter et de ce que vous devrez acheter.
 
 **Repas bénévoles pour installation (Taboulé + tarte)**
@@ -28,7 +28,7 @@ Attention, cette liste concerne uniquement les consommables. Le reste dépend de
 - 8 kg de muesli (bio)
 -10-15 kg d’oranges (bio)
 -Café: 30 paquets de 250 g
--Thé : 50-100 sachets de thé basique 
+-Thé : 50-100 sachets de thé basique 
 -10 plaquettes de beurre (250 g)
 - 25 litres de lait, 
 - 20 gros pots de confiture
@@ -44,7 +44,7 @@ Attention, cette liste concerne uniquement les consommables. Le reste dépend de
 -10 paires de gants 
 -10 serpillères
 
-REMARQUE : Dans un premier temps, ce genre de liste peut suffire, car le samedi on retourne de toute façon faire les courses pour faire l’appoint.
+REMARQUE : Dans un premier temps, ce genre de liste peut suffire, car le samedi on retourne de toute façon faire les courses pour faire l’appoint.
 
 #### 2)	CHARGEMENT DES VEHICULES
 
@@ -54,11 +54,11 @@ Pendant qu’une partie de l’équipe fait les courses, une autre va se regroup
 
 Venir à l’heure prévue pour faire l’état des lieux et récupérer les clés de la salle avec la personne contact de la ville.
 
-**L’équipe montage du chapiteau, monte et installe le chapiteau :**
+**L’équipe montage du chapiteau, monte et installe le chapiteau :**
 -	…
 	
 
-**L’équipe logistique débarque avec le matériel pour installer :  **
+**L’équipe logistique débarque avec le matériel pour installer :  **
 -   les panneaux d’indications dans le village (demander l’autorisation à la ville d’accueil)
 - 	le son, lumières, canapés, boules, fils, trousse de secours…
 - 	toute la décoration et les poubelles de tri des déchets (carton, verres, autres), guirlandes…
@@ -67,6 +67,3 @@ Venir à l’heure prévue pour faire l’état des lieux et récupérer les cl�
 - 	la cuisine
 - 	l’atelier d’initiation cirque pour les enfants
 -	la scène (c’est souvent ce qui dure le plus longtemps)
-
-
-

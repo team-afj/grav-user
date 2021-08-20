@@ -19,7 +19,7 @@ Vous pouvez nous contacter par mail à l’adresse
 [button
     link="https://www.helloasso.com/associations/association-francaise-de-jonglerie/adhesions/adhesion-afj-2021"
     color="success"]
-J'adhère à l'AFJ !
+J'adhère à l'AFJ !
 [/button]
 
 ## La convention française

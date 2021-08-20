@@ -2,7 +2,7 @@
 title: Méta-convention
 ---
 
-### Méta-convention :
+### Méta-convention :
 
 Un projet de méta-convention de jonglerie est en cours de pérennisation.
 
@@ -13,7 +13,7 @@ Lors de cette convention, de nombreux aspects (humains, techniques, logistiques)
 L'AFJ ayant pour objectif d'aider à l'organisation de convention, il nous semble pertinent de développer de nouveaux outils et favoriser les échanges facilitants le développement des conventions sans chercher à en homogénéiser l’organisation.
 
 
-**Les objectifs de ces rencontres sont entre autres de :**
+**Les objectifs de ces rencontres sont entre autres de :**
 
 -Se (re)rencontrer pour faciliter les échanges entre nous
 
@@ -41,4 +41,4 @@ Un travail sur la transmission de supports lié à l'organisation de convention 
 
 Nous recherchons en permanence des personnes motivées pour s'investir dans la présentation de nouveaux woorkshop en lien avec l'organisation, mais également de personnes pour nous aider à organiser les futures meta-conventions. 
 
-Pour toutes informations complémentaires n'hésitez pas à nous joindre par mail : afj.jonglerie@gmail.com 
+Pour toutes informations complémentaires n'hésitez pas à nous joindre par mail : afj.jonglerie@gmail.com 

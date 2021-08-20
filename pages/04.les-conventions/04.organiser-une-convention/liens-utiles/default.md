@@ -23,6 +23,6 @@ Un lien très utile pour l'organisation de convention est celui de la [British J
 
 ##### Guide de l’Association Française de Jonglerie pour les organisateurs de convention
 
-Ce présent guide de l'organisateur de convention de jonglerie existe également en format .pdf : [AFJ - Guide orga conv..pdf](AFJ%20-%20Guide%20orga%20conv..pdf?target=_blank)
+Ce présent guide de l'organisateur de convention de jonglerie existe également en format .pdf : [AFJ - Guide orga conv..pdf](AFJ%20-%20Guide%20orga%20conv..pdf?target=_blank)
 
 Néanmoins, il est forcément moins interactif et est susceptible d'être moins à jour que les informations présentes sur notre site internet.
