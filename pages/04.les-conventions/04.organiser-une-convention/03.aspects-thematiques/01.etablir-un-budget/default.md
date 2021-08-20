@@ -2,9 +2,9 @@
 title: 'Etablir un budget'
 ---
 
-### Établir un budget
+## Établir un budget
 
-#### Estimer les besoins
+### Estimer les besoins
 
 - Matériel de spectacle (chapiteau, son, lumière)
 - Restauration (bar, nourriture public, catering)
@@ -18,7 +18,7 @@ title: 'Etablir un budget'
 - Imprévus (prévoyez large genre 5 a 10% du budget)
 
 
-#### Sources de revenus
+### Sources de revenus
 
 - Billetterie 
 - Subventions
@@ -28,7 +28,7 @@ title: 'Etablir un budget'
 - Contributions volontaires (mécénat, prêts divers, partenariats, exonération d'impôt)
 - Trésorerie de l’association
 
-#### Estimer la fréquentation
+### Estimer la fréquentation
 
 Pour estimer le nombres de personnes, on peut s’interroger sur la fréquentation des :
 - Autres conventions de la région
@@ -40,7 +40,7 @@ Pour estimer le nombres de personnes, on peut s’interroger sur la fréquentati
 Attention à estimer la capacité maximale de la convention en amont.  
 → Adapter les prix d’entrée en fonction des dépenses estimées et d’une fréquentation modeste
 
-#### Moins de dépenses, plus de revenus…!
+### Moins de dépenses, plus de revenus…!
 
 Trouver de bons partenariats:  
 - Municipalité avec salles/gymnase/terrain/électricité/eau
@@ -54,7 +54,7 @@ Trouver de bons partenariats:
 Optimiser le bénévolat: compter sur les talents de votre équipe (cuisine, sécu, technique, etc)  
 Se renseigner sur les subventions possibles à différentes échelles (à bien anticiper)
 
-#### Organiser ses infos
+### Organiser ses infos
 
 - Bien ranger ses documents
 - Avoir un.e référent.e omniscient.e sur le sujet (quitte à être aidée.e)
@@ -64,7 +64,7 @@ Se renseigner sur les subventions possibles à différentes échelles (à bien a
 **Pendant :** pour tout mouvement de fond: noter qui, quand, quoi, comment sur un document général (avoir des copies datées n’est pas un luxe).  
 **Après :** vérifier que tout est en accord avec la situation sur le compte en banque. S’assurer que chaque personne a bien été payée/remboursée. Être au clair sur les paiements en liquides/chèque/virement (source de confusion!). 
 
-#### Quelques écueils “classiques”
+### Quelques écueils “classiques”
 
 - Mort rapide (décalage temporel dépenses / recettes / subventions) 
 - Budget non-réaliste (dépenses > recettes)

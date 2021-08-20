@@ -2,9 +2,9 @@
 title: 'Au moins la veille de la convention'
 ---
 
-### Au moins la veille de la convention
+## Au moins la veille de la convention
 
-#### 1)	FAIRE LES COURSES 
+### 1)	FAIRE LES COURSES 
 
 Exemple de liste de courses prévisionnelles de base : 
 Attention, cette liste concerne uniquement les consommables. Le reste dépend de ce que vous procédez déjà, de ce que l’on peut vous prêter et de ce que vous devrez acheter.
@@ -46,11 +46,11 @@ Attention, cette liste concerne uniquement les consommables. Le reste dépend de
 
 REMARQUE : Dans un premier temps, ce genre de liste peut suffire, car le samedi on retourne de toute façon faire les courses pour faire l’appoint.
 
-#### 2)	CHARGEMENT DES VEHICULES
+### 2)	CHARGEMENT DES VEHICULES
 
 Pendant qu’une partie de l’équipe fait les courses, une autre va se regrouper là où sont entreposés le matériel et la décoration de la convention. Il faut prévoir un planning de montage et démontage avec la liste des tâches à faire, le responsable de chaque tâche et les véhicule nécessaire. Attention, si tout n’est pas au même endroit, il faut se répartir les différents véhicules et différents lieux de chargement, en veillant à ce qu’il y a assez de place pour les affaires et les personnes.
 
-#### 3)	INSTALLATION
+### 3)	INSTALLATION
 
 Venir à l’heure prévue pour faire l’état des lieux et récupérer les clés de la salle avec la personne contact de la ville.
 

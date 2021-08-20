@@ -2,10 +2,10 @@
 title: 'Pré-requis nécessaires'
 ---
 
-### Pré-requis nécessaires
+## Pré-requis nécessaires
 
 
-##### 1)	Constituer une équipe organisatrice
+### 1)	Constituer une équipe organisatrice
 
 
 **Il s’agit de trouver les personnes susceptibles d’être motivées à organiser la convention.**
@@ -36,7 +36,7 @@ Mais **les autres membres de l’équipe organisatrice** peuvent porter plusieur
 - …
 Bien entendu, il faut qu'il y ait un maximum de communication interne pour que les gens puissent s'aider, ou essayent chacun de déléguer à d'autres amis. C'est le travail principal du leader : déléguer autant que possible aux gens fiables et passer ensuite beaucoup de temps à vérifier et revérifier que les gens font bien ce qu'ils prévoyaient. Si votre projet est solide et que vous constatez qu'assez de personnes aident à son exécution, l'organisation de la convention peut être un vrai plaisir. Vous remarquerez que plus vous allez avancer, plus les gens seront impliqués. C'est là qu'il est important que le "centre" sache ce que chacun fait.
 
-##### 2)	Avoir une association
+### 2)	Avoir une association
 
 Une fois l’équipe organisatrice constituée, le mieux est de créer une association ou de s’appuyer sur une association locale, déjà existante.
 Mettre de l'argent de la convention sur votre propre compte bancaire peut causer des problèmes. Le plus simple, est d’avoir une association à but non-lucratif. Pour avoir un compte en banque au nom de l’association, signer des chèques, faire des cachets aux artistes... 

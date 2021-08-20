@@ -3,11 +3,11 @@ title: 'Nos services'
 media_order: 'AAP AFJ 2021-2022.pdf,AAP_AFJ_2021_2022.pdf'
 ---
 
-### Nos services
+## Nos services
 
 L’AFJ se veut être un centre de ressources pour les organisateurs et organisatrices de conventions de jonglerie. À ce titre elle développe, sur le fil de son propre développement, des ressources informationnelles, humaines, techniques, matérielles et financières.
 
-#### Ressources informationnelles et techniques :
+### Ressources informationnelles et techniques :
 
 **Le site web :**
 
@@ -16,7 +16,7 @@ Sur ce site internet vous pourrez trouver beaucoup d’informations aidant à la
 - [L’agenda des conventions](/) permet de connaître où et quand vont se dérouler les prochaines conventions (autant pour inciter à y participer que pour éviter de programmer plusieurs conventions en même temps).
 - [Les contacts des associations organisatrices de conventions](/les-conventions/les-conventions-regionales) permettent à la fois de voir leurs diversités, que de pouvoir les contacter ou d'obtenir plus d'informations sur elles.
 
-#### Ressources informationnelles et humaines :
+### Ressources informationnelles et humaines :
 
 **Le Facebook de l'AFJ:**
 
@@ -38,7 +38,7 @@ Que vous soyez expérimenté ou inexpérimenté, que vous ayez une vision global
 
 Nous élaborons actuellement un projet autour duquel des personnes qui disposent de compétences et d'expériences dans des domaines précis liés à l'organisation de convention pourraient interagir avec celles qui auraient besoin d'une expertise plus précise, par manque de connaissances, compétences et expériences. Un salon textuel sur Slack permet de rejoindre ce projet ou nous poser des questions à son propos. Il est également possible d'obtenir un lien vers le document partager qui permet le développement de ce projet.  
 
-#### Ressources matérielles :
+### Ressources matérielles :
 
 **Jetons AFJ:**
 
@@ -50,7 +50,7 @@ Ce système permet de sécuriser les transactions et les vidages-caisses (limite
 
 Des talkie-walkies peuvent être mis à disposition à titre gratuit. À l’heure actuelle, l’AFJ en dispose 8 d’une portée d’environ 10 km. Par souci de sobriété de gestion et de logistique, à l’exception de grands événements tel que la CFJ ou l’EJC, ces talkie-walkies sont divisés en 2 packs de 4 (l’un se trouvant à l’Est de la France et l’autre se trouvant à l’Ouest).
 
-#### Ressources financières :
+### Ressources financières :
 
 **Prêt à taux 0 % :**
 

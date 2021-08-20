@@ -2,11 +2,11 @@
 title: 'Conventions régionales'
 ---
 
-### Les conventions régionales
+## Les conventions régionales
 
 Voici la liste des liens vers les associations organisatrices de conventions de jonglerie francophones (France, Belgique, Suisse et Afrique).
 
-#### Les associations des conventions régionales actuelles
+### Les associations des conventions régionales actuelles
 
 [Argument Massue / Arts Hachés / Grenoble](https://fr-fr.facebook.com/argument.massue.grenoble?target=_blank)
 
@@ -57,7 +57,7 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 Zmam / Roca Balles / Vabre
 
 
-#### Les associations des conventions régionales en sommeil ou disparues
+### Les associations des conventions régionales en sommeil ou disparues
 
 [Ajil / Au Bout Des Doigts (ABDD) / Lyon](http://ajil-asso.fr/?target=_blank)
 

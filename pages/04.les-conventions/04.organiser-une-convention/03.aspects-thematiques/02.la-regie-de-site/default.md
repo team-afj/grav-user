@@ -2,14 +2,14 @@
 title: 'La régie de site'
 ---
 
-### Préparer et penser la régie de site de la convention
+## Préparer et penser la régie de site de la convention
 
-#### 1. Définir le terrain : 
+### 1. Définir le terrain : 
 
 Il faudrait avoir à dispositions les informations sur les : dimensions, dénivelés, espaces d’occupation possible, entrées et sorties.  
 Pour trouver ces informations nous vous recommandons [Géoportail](https://www.geoportail.gouv.fr/?target=_blank) qui, dans ses outils, donne la possibilité de calculer des distances, des surfaces, et donne des comptes-rendus du relief du terrain.
 
-#### 2. Choisir les structures : 
+### 2. Choisir les structures : 
 
 Choix à faire avec le reste de l’équipe. En vrac, voici quelques éléments à définir :
 - La jauge (de là dépend la taille des structures)
@@ -26,7 +26,7 @@ Choix à faire avec le reste de l’équipe. En vrac, voici quelques éléments 
 - Un espace feu
 - Barrières "Heras" et "Vauban"
 
-#### 3. L’Implantation du site : 
+### 3. L’Implantation du site : 
 
 L'implantation du site se réfléchit en allant sur place et/ou en se servant de [Géoportail](https://www.geoportail.gouv.fr/?target=_blank). Pour ma part je créé des éléments à l’échelle sur Illustrator/Inkscape, que je déplace sur une capture d’écran du site. Des éléments de réflexion :
 - Circulation du public
@@ -38,7 +38,7 @@ L'implantation du site se réfléchit en allant sur place et/ou en se servant de
 
 L’implantation peut être amenée à bouger jusqu’au jour J, mais il faut avoir bien avoir conscience de l’impact que cela a sur nos besoins en matériel, notamment en rallonges électriques.
 
-#### 4. Liste de matériel : 
+### 4. Liste de matériel : 
 
 A partir du choix d’implantation, on établit une liste de matériel et de structures. La liste doit chercher à être la plus exhaustive possible, pour ne pas se faire surprendre.  
 C’est le moment où **l'on doit calculer nos besoins en distribution électrique** (coffrets et rallonges triphasées), les grandes longueurs de rallonges nécessaires (notamment les 50m, 25m, 20m). Ne pas oublier qu’on va avoir besoin de beaucoup de rallonges courtes (des 1,5m, des 3m, des 5m). Il faut des multiprises en masse.  
@@ -46,7 +46,7 @@ C’est le moment où **l'on doit calculer nos besoins en distribution électriq
 Il s’agit ensuite de **trouver les structures et équipements** correspondantes en les louant, en se les faisant prêter, en les échangeant contre des places de spectacles ou un service futur.  
 Quand le matériel arrive, il faut **faire des listes exhaustives** de qui à prêter quoi, pour pouvoir tout rendre au démontage. Il faut absolument **marquer son matériel** (mettre son nom au marqueur, faire un code couleur avec du scotch d’électricien).
 
-#### 5. Petit cours d’électricité :
+### 5. Petit cours d’électricité :
 
 - L’électricité du site part d’un coffret en triphasé. Pour **connaître la puissance d’une phase en W(watt) disponibles** il faut se servir de la formule P=UI soit la puissance=tension multipliée par l’intensité soit en unités Watts=Volts x Ampères. Pour un coffret dit « triphasé 32A » le calcul va être 220Vx32A=7040W le tout multiplié par le nombre de phases, soit 3x7040W=21120W.
 
@@ -65,7 +65,7 @@ Il existe des câbles encore plus épais, mis en rallonge courantes ce sont cell
 
 - **Les normes d'indice de protection (normes IP) :** les câbles ont une norme de numérotation qui définit leur niveau de protection. Elles sont notées IP67 par exemple, ou IP54. Le premier chiffre correspond au niveau de protection contre les solides, et le deuxième au niveau de protection contre les solides. Wikipédia vous a fait un [tableau](https://fr.wikipedia.org/wiki/Indice_de_protection?target=_blank).
 
-#### 6. Réfléchir sa répartition électrique : 
+### 6. Réfléchir sa répartition électrique : 
 
 - Se faire un tableau de calcul exhaustif de la consommation électrique (pour ma part je me fait un fichier Excel qui calcul la puissance total et la puissance par phase). Le tableau doit recenser le moindre appareil à sa puissance maximale.
 - Ne pas dépasser la puissance maximale autorisée pour éviter les coupures.
@@ -78,7 +78,7 @@ Il existe des câbles encore plus épais, mis en rallonge courantes ce sont cell
 - Signaler avec des écriteaux ou des marquages sur les multiprises les espaces où les gens peuvent mettre leur téléphone à recharger.
 - Ne pas hésiter à rappeler souvent aux bénévoles qu’ils ne doivent pas brancher ou débrancher des appareils sans avoir une autorisation explicite de le faire.
 
-#### 7. Autres choses en vrac :
+### 7. Autres choses en vrac :
 
 - Les extincteurs : il y en a plusieurs types, répartis les biens en fonction des dangers. Mettre un plan des extincteurs à disposition des gens et briefez-les pour qu’ils puissent réagir vite.
 - Si le courant saute : il faut identifier la panne avant de remettre le courant. Si t’as de l’eau qui coule dans une multiprise, t’as besoin de savoir où elle est.
