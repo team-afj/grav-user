@@ -15,7 +15,7 @@ Il en va, bien évidemment, de même en ce qui concerne l'appellation "_Conventi
 #### **La CFJ : Pourquoi ?**
 
 **Point de vue d'un jongleur lambda :**
-"_Ahhh les CFJ ! C’est toujours une occasion de retrouver des amis, de faire de nouvelles rencontres, en prendre plein les yeux et les mains pendant une semaine ! On peut venir de loin, prévoir un petit voyage, venir avec des copains, repartir avec d’autres, c’est toujours un moment inoubliable_".
+> Ahhh les CFJ ! C’est toujours une occasion de retrouver des amis, de faire de nouvelles rencontres, en prendre plein les yeux et les mains pendant une semaine ! On peut venir de loin, prévoir un petit voyage, venir avec des copains, repartir avec d’autres, c’est toujours un moment inoubliable.
 
 **Point de vue des organisateurs potentiels :**
 C'est un bon moyen de faire une grande et belle convention (encore plus que d'habitude). La plupart du temps, elle dure plus longtemps, attire plus de participants, la programmation est plus fournie et de meilleure qualité qu'une convention régionale... car son prix et le budget alloué sont eux aussi en général, plus conséquents. Mais attention : l'implication des organisateurs, des bénévoles et des pouvoirs publics est elle aussi en général supérieure à une convention régionale.
