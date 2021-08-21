@@ -1,6 +1,7 @@
 {% set hero_img = hero_image ? hero_image.url : 
     media['image://hero.jpg'].url %}
 
+{# If we are in a book we show it's title in every subpages #}
 {% set book_root = get_book_root(page) %}
 {% set title = book_root ? book_root.title : page.title %}
 
