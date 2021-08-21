@@ -22,8 +22,14 @@ class Events
 
     private function get_path($filename)
     {
-        $locator = $this->grav["locator"];
-        return $locator->findResource('user://data/calendars/' . $filename);
+        $user_dir = \Grav\Common\Utils::fullPath('user://data');
+        $calendar_dir = $user_dir . DIRECTORY_SEPARATOR . 'calendars';
+
+        if (!file_exists($calendar_dir)) mkdir($calendar_dir, 0777);
+
+        $path = $calendar_dir . DIRECTORY_SEPARATOR . $filename;
+
+        return $path;
     }
 
     /**
@@ -59,9 +65,26 @@ class Events
         return $events;
     }
 
-    public function get_events($filename)
+    private function download_ical($path, $url)
+    {
+        file_put_contents($path, file_get_contents($url));
+    }
+
+    public function get_events($filename, $address)
     {
         $path = $this->get_path($filename);
+
+        if (file_exists($path)) {
+            $hours_since_creation = (time() - filemtime($path)) / 3600;
+
+            // We download the calendar again every 12 hours
+            if ($hours_since_creation > 12) {
+                $this->download_ical($path, $address);
+            }
+        } else {
+            $this->download_ical($path, $address);
+        }
+
         return $this->parse($path);
     }
 }

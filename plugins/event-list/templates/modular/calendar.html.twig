@@ -1,5 +1,8 @@
 {# Plugin's css #}
 {# do assets.addCss('plugin://event-list/css/main.css') #}
+{% set filename = page.header.calendar_name ? 
+    page.header.calendar_name : page.title %}
+
 
 <div class="center">
     {{ content|raw }}
@@ -8,7 +11,7 @@
 <table>
     <tbody>
     {% set locale = grav.language.getLanguage %}
-    {% for event in events.get_events('conventions.ics') %}
+    {% for event in events.get_events('conventions.ics', page.header.calendar_address) %}
         {% set start_date = 
             event.start_time|
             localizeddate('none', 'none', locale, null, 'd MMMM') 
