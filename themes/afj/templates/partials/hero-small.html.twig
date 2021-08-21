@@ -1,0 +1,14 @@
+{% set hero_img = hero_image ? hero_image.url : 
+    media['image://hero.jpg'].url %}
+
+{% set book_root = get_book_root(page) %}
+{% set title = book_root ? book_root.title : page.title %}
+
+<section id="{{ id }}"
+    class="section hero for-title text-light"
+    style="background-image: url('{{ hero_img }}');">
+    <div class="image-overlay"></div>
+    <section class="container text-center">
+        <h1>{{ title }}</h1>
+    </section>
+</section>

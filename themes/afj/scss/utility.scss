@@ -18,3 +18,9 @@
 .float-right {
     float: right;
 }
+
+.first-p-margin {
+    & > p:first-child {
+        margin-top: 2rem;
+    }
+}

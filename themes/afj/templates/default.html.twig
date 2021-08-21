@@ -24,9 +24,11 @@ navigation, this one is for book TOC and files to download.
 {% set content_col = has_sidebar ? 'col-8 col-md-12' : 'col-12' %}
 {% set sidebar_col = has_sidebar ? 'col-4 col-md-12' : 'col-12' %}
 
+{% block hero %}{% include 'partials/hero-small.html.twig' %}{% endblock %}
+
 {% block content %}
 <div class="columns">
-    <div id="item" class="column {{ content_col }} extra-spacing">
+    <div id="item" class="first-p-margin column {{ content_col }} extra-spacing">
         {{ page.content|raw }}
     </div>
     {% if has_sidebar %}
