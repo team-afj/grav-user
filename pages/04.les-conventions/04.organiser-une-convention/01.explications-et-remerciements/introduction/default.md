@@ -2,7 +2,7 @@
 title: Introduction
 ---
 
-### Introduction
+## Introduction
 
 Une convention de jonglerie est une manifestation à but non-lucratif qui fournit un lieu d'échanges sur plusieurs jours aux jongleurs et artistes, amateurs et professionnels dans une atmosphère conviviale et non-compétitive. Il s'agit avant tout d'une grande fête du Jonglage sous toutes ses formes : à la fois festival, par les spectacles et les animations qui sont offerts au public, et congrès, au travers des ateliers proposés, la présence des professionnels du spectacle et des vendeurs de matériels de cirque.
 

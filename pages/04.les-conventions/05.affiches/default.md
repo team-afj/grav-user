@@ -5,9 +5,6 @@ process:
     twig: true
 twig_first: true
 ---
-
-# Exposition d'affiches de convention
-
 {% set affiches = page.children|first.media.images %}
 
 [gallery]

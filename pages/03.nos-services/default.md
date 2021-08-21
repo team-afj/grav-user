@@ -3,8 +3,6 @@ title: 'Nos services'
 media_order: 'AAP AFJ 2021-2022.pdf,AAP_AFJ_2021_2022.pdf'
 ---
 
-## Nos services
-
 L’AFJ se veut être un centre de ressources pour les organisateurs et organisatrices de conventions de jonglerie. À ce titre elle développe, sur le fil de son propre développement, des ressources informationnelles, humaines, techniques, matérielles et financières.
 
 ### Ressources informationnelles et techniques :

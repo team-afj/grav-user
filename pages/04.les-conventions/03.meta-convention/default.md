@@ -2,8 +2,6 @@
 title: Méta-convention
 ---
 
-## Méta-convention
-
 Un projet de méta-convention de jonglerie est en cours de pérennisation.
 
  Il s’agit de réunir des personnes impliquées dans l’organisation des conventions (ou souhaitant s'informer sur le sujet) en un lieu permettant de développer certains aspects techniques et de mettre en place des workshops liés aux différents aspects de l’organisation d’une convention afin de profiter de l’expérience de chacun in situ.

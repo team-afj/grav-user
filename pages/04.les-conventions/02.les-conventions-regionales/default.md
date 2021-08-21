@@ -2,8 +2,6 @@
 title: 'Conventions régionales'
 ---
 
-## Les conventions régionales
-
 Voici la liste des liens vers les associations organisatrices de conventions de jonglerie francophones (France, Belgique, Suisse et Afrique).
 
 ### Les associations des conventions régionales actuelles

@@ -2,7 +2,7 @@
 title: Avant-propos
 ---
 
-### Avant-propos
+## Avant-propos
 
 Ce guide a pour vocation d’aider les organisateurs de conventions de jonglerie. C’est un gros pense-bête, largement basé sur des compte-rendu de réunions et des cumuls d’informations et d’expériences d’organisateurs de ce type d’événements. 
 
