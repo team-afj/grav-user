@@ -1,5 +1,5 @@
 ---
-title: L'AFJ soutient vos projets !
+title: 'L''AFJ soutient vos projets !'
 image_align: left
 column: left
 ---

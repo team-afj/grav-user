@@ -1,5 +1,5 @@
 ---
-title: La convention française
+title: 'La convention française'
 image_align: left
 column: left
 ---
