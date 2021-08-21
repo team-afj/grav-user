@@ -28,7 +28,7 @@
 
 {% block javascripts %}
     {% do assets.addJs('jquery', 101) %}
-    {% do assets.addJs('theme://js/jquery.treemenu.js', {group:'bottom'}) %}
+    {# {% do assets.addJs('theme://js/jquery.treemenu.js', {group:'bottom'}) %} #}
     {% do assets.addJs('theme://js/site.js', {group:'bottom'}) %}
 {% endblock %}
 
@@ -98,7 +98,7 @@
             <div class="mobile-logo">
                 {% include 'partials/logo.html.twig' with {mobile: true} %}
             </div>
-            <nav class="overlay-menu">
+            <nav class="overlay-menu static-tree">
                 {% include 'partials/navigation.html.twig' with {tree: true} %}
             </nav>
         </div>

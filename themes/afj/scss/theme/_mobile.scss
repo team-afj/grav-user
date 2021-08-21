@@ -127,6 +127,32 @@
   & > .tree {
     text-align: left;
   }
+
+  &.static-tree ul {
+    text-align: left;
+    list-style-type: none;
+
+    margin-top: 1rem;
+    
+    & > li {
+      @extend h2;
+      margin-top: 0.5rem;
+
+      a {
+        color: $light-color;
+      }
+
+      span.menu-group {
+        color: darken($light-color, 25%);
+  
+        &::after {
+          content: ':';
+          position: relative;
+          left: 0.5rem;
+        }
+      }
+    }
+  }
 }
 
 

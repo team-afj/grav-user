@@ -54,6 +54,6 @@ jQuery(document).ready(function ($) {
     });
 
     // Tree Menu
-    $(".tree").treemenu({ delay: 300, openActive: true });
+    // $(".tree").treemenu({ delay: 300, openActive: true });
 
 });
