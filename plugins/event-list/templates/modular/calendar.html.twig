@@ -24,6 +24,8 @@
             event.end_time|
             localizeddate('none', 'none', locale, null, 'd MMMM') 
         %}
+        {{ dump(event) }}
+        {{ dump(end_date) }}
         
         {# We show the year header only if the previous date is not the same #}
         {# @TODO Untested #}
