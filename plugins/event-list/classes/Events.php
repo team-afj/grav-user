@@ -55,16 +55,10 @@ class Events
             $start_date = $event->DTSTART->getDateTime();
 
             if ($start_date >= $current_date) {
-                $end = $event->DTEND->getDateTime();
-                // $this->grav['log']->debug(
-                //     'Event end: ' . $end->format(\DateTimeInterface::ISO8601)
-                // );
-                // $this->grav['log']->debug(
-                //     'Event end -1: ' . $end->modify('-1 second')->format(\DateTimeInterface::ISO8601)
-                // );
+                $end = $event->DTEND->getDateTime()->modify('-1 second');
                 $events[(string) $event->UID] = new Event(
                     $start_date,
-                    $end->modify('-1 second'),
+                    $end,
                     (string) $event->SUMMARY,
                     (string) $event->DESCRIPTION,
                 );
