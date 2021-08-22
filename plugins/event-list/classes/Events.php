@@ -55,10 +55,10 @@ class Events
             $start_date = $event->DTSTART->getDateTime();
 
             if ($start_date >= $current_date) {
-                $end = $event->DTEND->getDateTime()->modify('-1 hour');
+                $end = $event->DTEND->getDateTime()->modify('-1 day');
                 $events[(string) $event->UID] = new Event(
                     $start_date,
-                    \DateTime::createFromImmutable($end),
+                    $end,
                     (string) $event->SUMMARY,
                     (string) $event->DESCRIPTION,
                 );
