@@ -53,9 +53,9 @@ class Events
             if ($start_date >= $current_date)
                 $events[(string)$event->UID] = new Event(
                     $start_date,
-                    $event->DTEND->getDateTime(),
-                    (string)$event->SUMMARY,
-                    (string)$event->DESCRIPTION,
+                    $event->DTEND->getDateTime()->modify('-1 second'),
+                    (string) $event->SUMMARY,
+                    (string) $event->DESCRIPTION,
                 );
         }
 
