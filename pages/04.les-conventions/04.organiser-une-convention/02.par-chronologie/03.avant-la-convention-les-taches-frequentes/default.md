@@ -9,7 +9,7 @@ Si vous avez faits tous les points précédents, vous devriez déjà avoir de qu
 
 ### Les recherches de subventions
 
-> Si besoin est, vous pouvez faire des demandes de subventions pour financer la
+Si besoin est, vous pouvez faire des demandes de subventions pour financer la
 convention. De nombreux organismes sont susceptibles d’être intéressés par votre
 projet. Répondez aux différents appels à projets auxquels vous pouvez prétendre.
 
