@@ -122,7 +122,7 @@ cache:
     server: null
     port: null
 twig:
-  cache: true
+  cache: false
   debug: true
   auto_reload: true
   autoescape: true
