@@ -156,7 +156,7 @@ log:
 debugger:
   enabled: true
   provider: debugbar
-  censored: true
+  censored: false
   shutdown:
     close_connection: true
   twig: true
