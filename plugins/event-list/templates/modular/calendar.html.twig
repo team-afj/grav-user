@@ -11,7 +11,7 @@
 <table>
     <tbody>
     {% set locale = grav.language.getLanguage %}
-    {% for event in events.get_events('conventions.ics', page.header.calendar_address) %}
+    {% for event in events.getEvents('conventions.ics', page.header.calendar_address) %}
         {% set start_date = 
             event.start_time|
             localizeddate('none', 'none', locale, null, 'd MMMM') 
@@ -40,7 +40,7 @@
             <tr class="head-tr"><th>{{ start_date }}<span class="las">&#xf105;</span> {{ end_date }}</th></tr>
         {% endif %}
 
-        {% set link = event.get_first_link() %}
+        {% set link = event.getFirstLink() %}
         {% if link %}
             <tr><td><a href="{{ link }}" target="_blank">
             {{ event.summary }}
