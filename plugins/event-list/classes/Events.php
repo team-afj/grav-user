@@ -58,7 +58,7 @@ class Events
                 $end = $event->DTEND->getDateTime()->modify('-1 hour');
                 $events[(string) $event->UID] = new Event(
                     $start_date,
-                    $end,
+                    \DateTime::createFromImmutable($end),
                     (string) $event->SUMMARY,
                     (string) $event->DESCRIPTION,
                 );
