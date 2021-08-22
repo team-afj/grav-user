@@ -154,9 +154,9 @@ log:
   syslog:
     facility: local6
 debugger:
-  enabled: true
+  enabled: false
   provider: debugbar
-  censored: false
+  censored: true
   shutdown:
     close_connection: true
   twig: true
