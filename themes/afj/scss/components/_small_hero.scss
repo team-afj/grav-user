@@ -1,13 +1,17 @@
 @keyframes floating-ball {
   from {
-    top: 130%; 
+    top: 125%; 
     left: 35%;
-    transform: rotate(0deg);
+    transform: 
+      rotate(0deg) 
+      scale(1.0);
   }
   to {
-    top: -50%; 
+    top: -25%; 
     left: 80%;
-    transform: rotate(250deg);
+    transform: 
+      rotate(250deg) 
+      scale(0.25);
   }
 }
 
@@ -18,5 +22,6 @@
   width: 40px;
 
   animation-name: floating-ball;
-  animation-duration: 25s;
+  animation-duration: 10s;
+  animation-delay: 5s;
 }
