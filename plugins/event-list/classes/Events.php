@@ -53,12 +53,12 @@ class Events
 
         foreach ($vcalendar->VEVENT as $event) {
             $start_date = $event->DTSTART->getDateTime();
+            $end = $event->DTEND->getDateTime();
 
-            if ($start_date >= $current_date) {
-                $end = $event->DTEND->getDateTime()->modify('-1 day');
+            if ($end >= $current_date) {
                 $events[(string) $event->UID] = new Event(
                     $start_date,
-                    $end,
+                    $end->modify('-1 day'),
                     (string) $event->SUMMARY,
                     (string) $event->DESCRIPTION,
                 );
