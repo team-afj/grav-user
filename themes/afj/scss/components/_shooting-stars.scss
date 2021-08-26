@@ -66,7 +66,7 @@ $shooting-time: 6000ms;
     // }
 
     &:nth-child(1) {
-      $delay: 11000ms !important;
+      $delay: 16000ms !important;
       top: 23% !important;
       left: 50% !important;
       animation-delay: $delay;
@@ -77,7 +77,7 @@ $shooting-time: 6000ms;
     }
 
     &:nth-child(2) {
-      $delay: 12000ms !important;
+      $delay: 17000ms !important;
       top: 49% !important;
       left: -2% !important;
       animation-delay: $delay;
@@ -88,7 +88,7 @@ $shooting-time: 6000ms;
     }
 
     &:nth-child(3) {
-      $delay: 9000ms !important;
+      $delay: 14000ms !important;
       top: 76% !important;
       left: 11% !important;
       animation-delay: $delay;
