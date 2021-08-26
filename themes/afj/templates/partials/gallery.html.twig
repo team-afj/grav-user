@@ -1,0 +1,56 @@
+{# a random id for each gallery #}
+{% set id = random() %}
+
+{# add css libraries #}
+{% block stylesheets %}
+    {% do assets.addCss('plugin://shortcode-gallery-plusplus/vendor/glightbox/glightbox.min.css') %}
+    {% do assets.addCss('plugin://shortcode-gallery-plusplus/vendor/justified-gallery/justifiedGallery.min.css') %}
+{% endblock %}
+
+{# add js libraries #}
+{% block javascripts %}
+    {% do assets.addJs('jquery', 101) %}
+    {% do assets.addJs('plugin://shortcode-gallery-plusplus/vendor/glightbox/glightbox.min.js') %}
+    {% do assets.addJs('plugin://shortcode-gallery-plusplus/vendor/justified-gallery/jquery.justifiedGallery.min.js') %}
+{% endblock %}
+
+{# add javascript for gallery and lightbox configuration #}
+{% do assets.addInlineJs(
+'$("#' ~ id ~ '").justifiedGallery({
+    rowHeight: 200,
+    margins: 3,
+    lastRow: "nojustify",
+    captions: false,
+    border: 0,
+});
+
+GLightbox({
+    selector: ".glightbox-' ~ id ~ '",
+    openEffect: "zoom",
+    closeEffect: "zoom",
+    slideEffect: "slide",
+    closeButton: true,
+    touchNavigation: true,
+    touchFollowAxis: true,
+    keyboardNavigation: true,
+    closeOnOutsideClick: true,
+    loop: false,
+    draggable: true,
+    descPosition: "bottom",
+});', { 'group': 'bottom' })
+%}
+
+{# html #}
+<p id="{{ id }}">
+    {% for image in images %}
+        <a href="{{ image.url }}" class="glightbox-{{ id }}"
+                {# add description, if enabled #}
+                {% if descEnabled == "true" %}
+                    data-description="{{ image.title|raw }}"
+                {% endif %}
+        >
+    {{image.resize(200).html()|raw }}
+           
+        </a>
+    {% endfor %}
+</p>
