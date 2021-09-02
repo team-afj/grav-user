@@ -44,7 +44,7 @@
 
         {% set link = event.getFirstLink() %}
         {% if link %}
-            <tr><td><a href="{{ link }}" target="_blank">
+            <tr><td><a href="{{ link }}" target="_blank" rel="noopener">
             {{ event.summary }}
             </a></td></tr>
         {% else %}
