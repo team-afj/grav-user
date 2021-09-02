@@ -76,3 +76,12 @@ On peut aussi préparer les tickets repas, boissons et les badges bénévoles.
 - Zone bénévole : afficher les plannings, le programme, les numéros de téléphones importants, les menus, etc (cela peut être la zone de catering).
 - Accueillir les gens individuellement
 - Anticiper les désistements… !
+
+### Cheker l'équipe
+
+**Prévenir quelques situations, si :**
+- Sous-implication, retard, etc ; alors: discuter
+- Alcool, drogue, fatigue : bénév’out ; alors: remplacement, switch de créneau, sieste.
+- Tensions dans une équipe ; alors: discuter, switch, comme dans la vraie vie.
+- Sur-implication « syndrome du brenic » ; alors: Pause, sieste.
+- Incompétence ; alors: formation express pour corriger, ou proposition d’un autre poste.
