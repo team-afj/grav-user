@@ -6,7 +6,7 @@ title: 'Le bar'
 
 ### Préparation en amont
 
-#### Structure du bar
+#### La structure du bar
 Prévoir le matériel nécessaire, prévoir éventuellement de quoi le construire, définir un lieu sur le site. 
 
 Selon les possibilités : 
@@ -60,11 +60,10 @@ Fiches tarifaires :
 - Noter tous les prix (si des bières ne sont vendues qu’à certains moments, par exemple, tous les prix doivent être décidés et accessibles aux barmans, barmaids derrière le bar). Préparer l’affichage des tarifs visibles du public.
 - différentes boissons = différents prix.
 	+ Les prix fixes : gérer les prix de ventes fixes selon les coûts des fûts, et des coûts des softs (exemple : fût de blonde, fût d’ambré = 2€ ; fût spécial cher = 2,50€ à 3€ selon le prix de revient). Conseil: Ne pas dépasser les 3€ pour une bière. Pas de remise sur la pinte, sauf si une bière de base est vendue à 2,50€. 
-	+ Les prix libres ou presque : 
-selon les versions, souvent thé et café à prix libres, maximum fixe à 0,50€. À adapter selon si le petit déj est servi au bar ou pas, si du thé et du café sont prévus pour être servis au bar hors petit déj ou pas. Schéma régulier : thé et café gratuits pour le petit déj, à prix libre ou 0,50€ une fois le petit déj terminé.
-De la même façon, les sirops sont souvent mis à prix libre, ou maximum à 0,50€.
-Gestion des verres bénévoles :
-Discussion à avoir en amont : est-ce qu’ils ont les verres à moitié prix ou ont « seulement » un certain nombre de verres offert par jour de bénévolat ? Rien n’est fixe pour ça, mais ce point doit être discuté absolument AVANT l’ouverture, histoire de ne pas se retrouver à avoir différentes versions sur place. 
+	+ Les prix libres ou presque : selon les versions, souvent le thé et le café sont à prix libres, maximum fixe à 0,50€. À adapter selon si le petit déjeuné est servi au bar ou pas, si du thé et du café sont prévus pour être servis au bar hors petit déjeuné ou pas. Schéma régulier : thé et café gratuits pour le petit déjeuné, à prix libre ou 0,50€ une fois le petit déjeuné terminé.
+	+ De la même façon, les sirops sont souvent mis à prix libre, ou maximum à 0,50€.
+- Gestion des boissons pour les bénévoles :
+Discussion à avoir en amont : est-ce qu’ils ont les boissons à moitié prix ou ont-ils « seulement » un certain nombre de boissons offertes par jour de bénévolat ? Rien n’est fixe pour ça, mais ce point doit être discuté absolument AVANT l’ouverture, histoire de ne pas se retrouver à avoir différentes versions sur place. 
 
 #### Gestion des commandes 
 (contacter les brasseurs et les différents producteurs et vendeurs de boissons... se renseigner sur ce qui se fait localement, nombres et volumes de commandes…)
