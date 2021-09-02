@@ -2,12 +2,29 @@
 title: 'Les bénévoles'
 ---
 
-Bénévolat en convention
+## Bénévolat en convention
 
-Plan:  
+### Plan:  
 - Choix du fonctionnement  
 - Définir ses besoins  
 - Préparation  
 - Accueil  
 - Check de l’équipe  
 - Et après… ?
+
+### Choix du fonctionnement  
+
+#### Choisir de fonctionner avec un modèle « fixe » ou avec un modèle « volant » ou avec un mixe des deux selon les postes, compétences et responsabilités des bénévoles.
+
+**Le modèle « fixe »** (bénévoles associé.e.s à un seul poste tout du long) : 
+Avantages pour la convention : les bénévoles sont formés sur un seul poste, il le connaissent vite très bien et sont donc moins dépendants des responsables. Ils posent donc moins de questions et sont susceptibles de faire moins d'erreurs tout le long de la convention.
+
+**Le modèle « volant »** (bénévoles qui changent de poste au fil de la convention) :
+Avantages pour les bénévoles : ils touchent à tous les postes, ils gagnent donc plus en « formation » et leurs journées sont toutes différentes, pas d'ennuis, changement d'équipe et donc ils rencontrent bien plus les autres organisateurs et les autres bénévoles.
+
+#### Choisir de fonctionner avec une gestion de responsabilités centralisée ou avec une gestion de responsabilités par pôles.
+
+**Gestion centralisée** : Un responsable bénévoles officiel : ce modèle de gestion est pratique pour la centralisation des infos, l'accueil et le check de tous les bénévoles. Il peut permettre une meilleure répartition en cas d'absences (faux bonds, malades etc...).
+**Un respo bénévole par pôles** : Dans cette forme de gestion, c'est le respo du pôle qui gère planning, répartition des tâches etc... Cela lui rajoute du travail mais il connaît donc à l'avance son équipe, on par donc du principe que c'est un modèle fixe et que ses bénévoles ne le sont que sur son pôle.
+Aide du public : Ca passe ou ça casse ! Selon l'ambiance, la météo et la « façon » de demander l'aide, le public est plus ou moins réceptif. Ex : Ca fonctionne à la Gluhwein pour les légumes et le vin chaud et parce que la convention est à 5€. / Ca fonctionne moins à la JOP par grosse chaleur, le public est moins enclins à donner son aide quand il paie plus cher.
+
