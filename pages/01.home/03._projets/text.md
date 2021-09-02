@@ -4,5 +4,4 @@ image_align: left
 column: left
 ---
 
-Nous proposons une aide au développement des nouvelles conventions sous la forme
-d'un appel à projet.
+Nous proposons [de nombreux services](nos-services) pour accompagner le développement des nouvelles conventions. Vous trouverez notamment un [guide d'organisation](les-conventions/organiser-une-convention) très complet ainsi qu'un appel à projet visant à subventionner les nouveaux évènements.
