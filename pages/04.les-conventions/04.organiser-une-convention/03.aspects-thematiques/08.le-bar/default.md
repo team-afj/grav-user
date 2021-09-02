@@ -7,7 +7,7 @@ title: 'Le bar'
 ### Préparation en amont
 
 #### Structure du bar
-(prévoir le matériel nécessaire, prévoir éventuellement de quoi le construire, définir un lieu sur le site). 
+Prévoir le matériel nécessaire, prévoir éventuellement de quoi le construire, définir un lieu sur le site. 
 
 Selon les possibilités : 
 - de quoi faire un comptoir : tables, structures en palettes. 
@@ -47,19 +47,20 @@ Préparation et impression des différentes fiches d’informations (prix et car
 Papiers officiels :
 - Gérer la demande de débit de boisson auprès de la mairie (licence III, la licence II n’existe plus depuis 2016). 
 
-Remarques: 
+Remarques : 
 - La vente d’alcools forts est interdite aux non-détenteurs de la licence IV.
 - Interdiction de vendre de l'alcool aux personnes mineurs (- de 18 ans en France).
 - Ne pas servir les gros gros bourrachos. Si un client est vraiment trop saoul, interdire de lui servir de l’alcool et vérifier qu’il ne quitte pas le site.
 
 Fiches d’informations :
-Noter tous les contacts de tous les bénévoles et de tous les responsables, avec numéros de portable obligatoires. Les contacts responsables doivent être accessibles aux bénévoles bar en cas de besoin (voir « gestion de crise »), les numéros de tous les bénévoles doivent être accessibles aux responsables. 
-Préparer et imprimer des plannings en amont : le planning indiquant clairement tous les noms des bénévoles et responsables et leurs horaires doit être accessible à tous bénévoles bar et responsables. 
+- Noter tous les contacts de tous les bénévoles et de tous les responsables, avec numéros de portable obligatoires. Les contacts des responsables doivent être accessibles aux bénévoles du bar en cas de besoin (voir « gestion de crise »), les numéros de tous les bénévoles doivent être accessibles aux responsables. 
+- Préparer et imprimer des plannings en amont : le planning indiquant clairement tous les noms des bénévoles et responsables et leurs horaires doit être accessible à tous les bénévoles et les responsables du bar. 
+
 Fiches tarifaires :
-Noter tous les prix (si des bières ne sont vendues qu’à certains moments, par exemple, tous les prix doivent être décidés et accessibles aux barmans, barmaids derrière le bar). Préparer l’affichage des tarifs visibles du public.
-différentes boissons = différents prix
-prix fixes : gérer les prix de ventes fixes selon les coûts des fûts, coûts des softs (exemple : fût de blonde, fût d’ambré = 2€ ; fût spécial cher = 2,50€ à 3€ selon le prix de revient). Ne pas dépasser les 3€ pour une bière ! Pas de remise sur la pinte, sauf si une bière de base est vendue à 2,50€. 
-prix libres ou presque : 
+- Noter tous les prix (si des bières ne sont vendues qu’à certains moments, par exemple, tous les prix doivent être décidés et accessibles aux barmans, barmaids derrière le bar). Préparer l’affichage des tarifs visibles du public.
+- différentes boissons = différents prix.
+	+ Les prix fixes : gérer les prix de ventes fixes selon les coûts des fûts, et des coûts des softs (exemple : fût de blonde, fût d’ambré = 2€ ; fût spécial cher = 2,50€ à 3€ selon le prix de revient). Conseil: Ne pas dépasser les 3€ pour une bière. Pas de remise sur la pinte, sauf si une bière de base est vendue à 2,50€. 
+	+ Les prix libres ou presque : 
 selon les versions, souvent thé et café à prix libres, maximum fixe à 0,50€. À adapter selon si le petit déj est servi au bar ou pas, si du thé et du café sont prévus pour être servis au bar hors petit déj ou pas. Schéma régulier : thé et café gratuits pour le petit déj, à prix libre ou 0,50€ une fois le petit déj terminé.
 De la même façon, les sirops sont souvent mis à prix libre, ou maximum à 0,50€.
 Gestion des verres bénévoles :
