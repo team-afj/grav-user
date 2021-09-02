@@ -87,3 +87,9 @@ Faire une réunion bénévoles le premier jour de la convention, leur donner de 
 - Tensions dans une équipe ; alors: discuter, switch, comme dans la vraie vie.
 - Sur-implication « syndrome du brenic » ; alors: Pause, sieste.
 - Incompétence ; alors: formation express pour corriger, ou proposition d’un autre poste.
+
+### Et après ? ...
+
+- Petit mail de remerciement (la base) avec bilan
+- Prendre les retours : personne n’a mieux vu la convention que les bénévoles
+- Organiser un petit after.
