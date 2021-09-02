@@ -28,5 +28,6 @@ Avantages pour les bénévoles : ils touchent à tous les postes, ils gagnent do
 
 - **Gestion de responsabilités par pôles** : Dans cette forme de gestion, c'est le/la responsable de chaque pôle qui gère le planning, la répartition des tâches, etc de ses bénévoles. Cela lui rajoute du travail, mais lui permet de connaître à l'avance son équipe. Ce type de gestion part donc du principe du modèle « fixe » et implique que les bénévoles associés au responsable ne le sont que sur son pôle.
 
-Aide du public : Ca passe ou ça casse ! Selon l'ambiance, la météo et la « façon » de demander l'aide, le public est plus ou moins réceptif. Ex : Ca fonctionne à la Gluhwein pour les légumes et le vin chaud et parce que la convention est à 5€. / Ca fonctionne moins à la JOP par grosse chaleur, le public est moins enclins à donner son aide quand il paie plus cher.
+- **Gestion « par les jongleurs, pour les jongleurs »**, ou à quel point compter sur le public ?
+L'aide du public, ça passe ou ça casse. Selon l'ambiance, le prix de la convention, la météo et la « façon » de demander l'aide, le public est plus ou moins réceptif. Exemple : Ce modèle fonctionnait bien à la Glühwein pour faire les soupes de légumes et le vin chaud et parce que la convention régionale était à 5€ les 3 jours. Ce modèle a fonctionné moins efficacement à la JOP-CFJ où il a fait très chaud, que la convention durait 5 jours et que le tarif était plus élevé.
 
