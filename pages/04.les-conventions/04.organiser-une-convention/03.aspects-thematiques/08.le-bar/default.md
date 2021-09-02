@@ -102,19 +102,18 @@ gestion des responsabilités (combien de responsables, répartition des responsa
 => Préparer les fonds de caisse
 
 ### Sur place
-→ gestion du réapprovisionnement 
-→ gestion des bénévoles
-→ gestion de crises 
-→ gestion générale du bar 
-    → présence des responsables, roulement des responsables.  
-    → gestion des horaires de service (si le bar ferme ; horaires de petit déj)
-    → gestion petit déj, rotations…)
-    → gestion des tireuses
-→ vidage de caisse
-
+- gestion du réapprovisionnement 
+- gestion des bénévoles
+- gestion de crises 
+- gestion générale du bar 
+	+ présence des responsables, roulement des responsables.  
+	+ gestion des horaires de service (si le bar ferme ; horaires de petit déj)
+	+ gestion petit déj, rotations…)
+	+ gestion des tireuses
+- vidage de caisse
 
 ### Après la bataille
-→ comment gérer la fermeture du bar
-→ l’utilisation des tireuses en démontage
-→ démontage des tireuses (débrancher, vider l’eau, nettoyer)
-→ Nettoyer le matériel ( Tireuse, gobelets… ) 
+- comment gérer la fermeture du bar
+- l’utilisation des tireuses en démontage
+- démontage des tireuses (débrancher, vider l’eau, nettoyer)
+- nettoyer le matériel (Tireuse, gobelets…) 
