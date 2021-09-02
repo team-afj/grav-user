@@ -2,7 +2,7 @@
 title: 'Le bar'
 ---
 
-## Gestion d’un bar de convention
+## La gestion d’un bar de convention
 
 ### Préparation en amont
 
@@ -41,15 +41,18 @@ Selon les possibilités :
 - éviter les cacahuètes/pistaches (question hygiène et allergies violentes aux arachides)
 
 #### Définir et préparer les fiches tarifaires
-(différentes boissons, prix fixes, prix libres)
-=> Préparation et impression des différentes fiches d’informations (prix, cartes, planning, numéro des responsables, papiers officiels).
 
-Préparation et impression des différentes fiches d’informations :
+Préparation et impression des différentes fiches d’informations (prix et cartes des différentes boissons, planning, numéro des responsables, papiers officiels).
+
 Papiers officiels :
-gérer la demande de débit de boisson auprès de la mairie (licence III, la licence II n’existe plus depuis 2016) → la vente d’alcools forts est interdite
-Interdiction de vente aux mineurs
-Ne pas servir les gros gros bourrachos ! Si un client est vraiment trop saoul, interdire de lui servir de l’alcool et vérifier qu’il ne quitte pas le site !
-Fiches d’information :
+- Gérer la demande de débit de boisson auprès de la mairie (licence III, la licence II n’existe plus depuis 2016). 
+
+Remarques: 
+- La vente d’alcools forts est interdite aux non-détenteurs de la licence IV.
+- Interdiction de vendre de l'alcool aux personnes mineurs (- de 18 ans en France).
+- Ne pas servir les gros gros bourrachos. Si un client est vraiment trop saoul, interdire de lui servir de l’alcool et vérifier qu’il ne quitte pas le site.
+
+Fiches d’informations :
 Noter tous les contacts de tous les bénévoles et de tous les responsables, avec numéros de portable obligatoires. Les contacts responsables doivent être accessibles aux bénévoles bar en cas de besoin (voir « gestion de crise »), les numéros de tous les bénévoles doivent être accessibles aux responsables. 
 Préparer et imprimer des plannings en amont : le planning indiquant clairement tous les noms des bénévoles et responsables et leurs horaires doit être accessible à tous bénévoles bar et responsables. 
 Fiches tarifaires :
