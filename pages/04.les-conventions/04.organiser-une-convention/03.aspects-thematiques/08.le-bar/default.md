@@ -40,7 +40,7 @@ Selon les possibilités :
 - briquets pour le personnel (si bar fumeur, briquets accrochés au bar pour les clients)
 - éviter les cacahuètes/pistaches (question hygiène et allergies violentes aux arachides)
 
-#### Définir et préparer les fiches tarifaires
+#### Définir et préparer les fiches tarifaires, planning, papiers officiels et informations internes au bar
 
 Préparation et impression des différentes fiches d’informations (prix et cartes des différentes boissons, planning, numéro des responsables, papiers officiels).
 
