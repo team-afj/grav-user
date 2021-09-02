@@ -35,5 +35,13 @@ L'aide du public, ça passe ou ça casse. Selon l'ambiance, le prix de la conven
 
 ### Définir ses besoins
 
+#### Dates et phases (montage, exploitation, démontage)
 
+#### Définir les pôles (accueil, cuisine, bar, propreté, sécurité, technique, ninja, etc)
+
+#### Définir le nombre de bénévoles par pôle :
+
+- Exemple : 4 personnes pendant 24h au bar, implique un besoin de « 96h bénévoles ». Si les bénévoles font 4h30 par jour, alors : 96 / 4,5 = 21,3. Il faut donc 22 bénévoles pour assurer le service au bar pendant 24h.
+- Il faut 2 à 3 personnes pour faire un tour de clean du site de manière ponctuelle → 6 personnes
+- Si vous avez des doutes, surestimez… !
 
