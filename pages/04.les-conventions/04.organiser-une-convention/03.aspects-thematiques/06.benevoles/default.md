@@ -28,7 +28,7 @@ Avantages pour les bénévoles : ils touchent à tous les postes, ils gagnent do
 
 - **Gestion bénévoles par les responsables de pôles**. Dans cette forme de gestion, c'est le/la responsable de chaque pôle qui gère le planning, la répartition des tâches, etc de ses bénévoles. Cela lui rajoute du travail, mais lui permet de connaître à l'avance son équipe. Ce type de gestion part donc du principe du modèle « fixe » et implique que les bénévoles associés au responsable ne le sont que sur son pôle.
 
--**Le mixe des 2** est conseillé pour les conventions où l'on attend une forte fréquentation, qui dure longtemps ou avec une grosse programmation artistique (CFJ, EJC ou convention particulièrement ambitieuse). Ce type de gestion prévoit de disposer à la fois d'un.e responsable bénévole **et** de disposé d'une gestion bénévoles par les différents responsables de pôles. Une attention particulière doit être faite sur la communication interne entre le/la responsable bénévole et les autres responsables de pôles.
+- **Le mixe des 2** est conseillé pour les conventions où l'on attend une forte fréquentation, qui dure longtemps ou avec une grosse programmation artistique (CFJ, EJC ou convention particulièrement ambitieuse). Ce type de gestion prévoit de disposer à la fois d'un.e responsable bénévole **et** de disposé d'une gestion bénévoles par les différents responsables de pôles. Une attention particulière doit être faite sur la communication interne entre le/la responsable bénévole et les autres responsables de pôles.
 
 - **Gestion « par les jongleurs, pour les jongleurs »**, ou à quel point compter sur le public ?
 L'aide du public, ça passe ou ça casse. Selon l'ambiance, le prix de la convention, la météo et la « façon » de demander l'aide, le public est plus ou moins réceptif. Exemple : Ce modèle fonctionnait bien à la Glühwein pour faire les soupes de légumes et le vin chaud et parce que la convention régionale était à 5€ les 3 jours. Ce modèle a fonctionné moins efficacement à la JOP-CFJ où il a fait très chaud, que la convention durait 5 jours et que le tarif était plus élevé.
@@ -37,10 +37,12 @@ L'aide du public, ça passe ou ça casse. Selon l'ambiance, le prix de la conven
 
 #### Dates et phases (montage, exploitation, démontage)
 
-#### Définir les pôles (accueil, cuisine, bar, propreté, sécurité, technique, ninja, etc)
+#### Définir les pôles (accueil, cuisine, bar, propreté, sécurité, technique, scène, ninja, fire-space, etc)
 
-#### Définir le nombre de bénévoles par pôle :
+#### Définir les postes au sein de chaque pôle
+Certains pôles doivent gérer plusieurs postes. Par exemple, l'accueil peut s'occuper de la billetterie, de l'info-point, des objets trouvés, de la vente de merchandising. Il peut donc être intéressant d'anticiper les différentes tâches et de créer des fiches de postes à cet effet. Est-ce que la fiche de poste prévoit qu'un même bénévole réalise toutes les tâches, ou est ce que plusieurs postes sont créer pour affecter plusieurs bénévoles distincts.   
 
+#### Définir le nombre de bénévoles par pôle
 - Exemple : 4 personnes pendant 24h au bar, implique un besoin de « 96h bénévoles ». Si les bénévoles font 4h30 par jour, alors : 96 / 4,5 = 21,3. Il faut donc 22 bénévoles pour assurer le service au bar pendant 24h.
 - Il faut 2 à 3 personnes pour faire un tour de clean du site de manière ponctuelle → 6 personnes
 - Si vous avez des doutes, surestimez… !
