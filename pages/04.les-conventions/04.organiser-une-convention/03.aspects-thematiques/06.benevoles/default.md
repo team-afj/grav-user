@@ -40,7 +40,7 @@ L'aide du public, ça passe ou ça casse. Selon l'ambiance, le prix de la conven
 #### Définir les pôles (accueil, cuisine, bar, propreté, sécurité, technique, scène, ninja, fire-space, etc)
 
 #### Définir les postes au sein de chaque pôle
-Certains pôles doivent gérer plusieurs postes. Par exemple, l'accueil peut s'occuper de la billetterie, de l'info-point, des objets trouvés, de la vente de merchandising. Il peut donc être intéressant d'anticiper les différentes tâches et de créer des fiches de postes à cet effet. Est-ce que la fiche de poste prévoit qu'un même bénévole réalise toutes les tâches, ou est ce que plusieurs postes sont créer pour affecter plusieurs bénévoles distincts.   
+Certains pôles doivent gérer plusieurs postes. Par exemple, l'accueil peut s'occuper de la billetterie, de l'info-point, des objets trouvés, de la vente de merchandising. Il peut donc être intéressant d'anticiper les différentes tâches et de créer des fiches de postes à cet effet. Est-ce que la fiche de poste prévoit qu'un même bénévole réalise toutes les tâches, ou est ce que plusieurs postes sont crées pour affecter plusieurs bénévoles distincts.   
 
 #### Définir le nombre de bénévoles par pôle
 Exemple : 
