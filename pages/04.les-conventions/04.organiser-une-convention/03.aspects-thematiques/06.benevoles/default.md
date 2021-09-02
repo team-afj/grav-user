@@ -79,6 +79,8 @@ On peut aussi préparer les tickets repas, boissons et les badges bénévoles.
 
 ### Cheker l'équipe
 
+Faire une réunion bénévoles le premier jour de la convention, leur donner de la motivation, les remercier d'être là, etc.
+
 **Prévenir quelques situations, si :**
 - Sous-implication, retard, etc ; alors: discuter
 - Alcool, drogue, fatigue : bénév’out ; alors: remplacement, switch de créneau, sieste.
