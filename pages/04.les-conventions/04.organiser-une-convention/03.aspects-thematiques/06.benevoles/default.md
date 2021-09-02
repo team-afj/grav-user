@@ -48,3 +48,31 @@ Exemple :
 - S'il faut 2 à 3 personnes pour faire un tour de clean du site de manière ponctuelle, alors cela implique 6 personnes.
 - Si vous avez des doutes, surestimez… !
 
+### Préparation
+
+**Questions à poser aux bénévoles :**
+- Arrivée/départ
+- Poste souhaité
+- Expérience éventuelle
+- Horaires souhaitées
+- Souhaits particuliers (binôme, spectacle, etc)
+- Allergies / intolérances
+- Véhicule / permis
+
+**Infos à donner :**
+- Fonctionnement global
+- Programmation
+- Fiche de poste
+- Planning prévisionnel
+- Réunion bénévole en amont 
+
+En amont : Si les plannings sont faits ils peuvent être envoyés aux bénévoles, ainsi qu'imprimer et affichés dans l'espace qui leur est alloués.
+On peut aussi préparer les tickets repas, boissons et les badges bénévoles.
+
+### Accueil 
+
+- Prévoir une zone pour faire dormir les bénévoles, pour qu'ils se restaurent (le catering), ainsi qu'un espace détente et de réunion (à part), etc.
+- Quelles contreparties ? Pass, repas, boissons, etc.
+- Zone bénévole : afficher les plannings, le programme, les numéros de téléphones importants, les menus, etc (cela peut être la zone de catering).
+- Accueillir les gens individuellement
+- Anticiper les désistements… !
