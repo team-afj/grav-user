@@ -39,14 +39,14 @@ L'aide du public, ça passe ou ça casse. Selon l'ambiance, le prix de la conven
 
 #### Définir les pôles (accueil, cuisine, bar, propreté, sécurité, technique, scène, ninja, fire-space, etc)
 
-#### Définir les postes au sein de chaque pôle
+- **Définir les postes au sein de chaque pôle**
 Certains pôles doivent gérer plusieurs postes. Par exemple, l'accueil peut s'occuper de la billetterie, de l'info-point, des objets trouvés, de la vente de merchandising. Il peut donc être intéressant d'anticiper les différentes tâches et de créer des fiches de postes à cet effet. Est-ce que la fiche de poste prévoit qu'un même bénévole réalise toutes les tâches, ou est ce que plusieurs postes sont crées pour affecter plusieurs bénévoles distincts.   
 
-#### Définir le nombre de bénévoles par pôle
+- **Définir le nombre de bénévoles par pôle**
 Exemple : 
-- S'il faut 4 personnes pendant 24h au bar, alors cela implique un besoin de « 96h bénévoles ». Si les bénévoles font 4h30 par jour, alors : 96 / 4,5 = 21,3. Il faut donc 22 bénévoles pour assurer le service au bar pendant 24h.
-- S'il faut 2 à 3 personnes pour faire un tour de clean du site de manière ponctuelle, alors cela implique 6 personnes.
-- Si vous avez des doutes, surestimez… !
+S'il faut 4 personnes pendant 24h au bar, alors cela implique un besoin de « 96h bénévoles ». Si les bénévoles font 4h30 par jour, alors : 96 / 4,5 = 21,3. Il faut donc 22 bénévoles pour assurer le service au bar pendant 24h.
+S'il faut 2 à 3 personnes pour faire un tour de clean du site de manière ponctuelle, alors cela implique 6 personnes.
+Si vous avez des doutes, surestimez… !
 
 ### Préparation
 
