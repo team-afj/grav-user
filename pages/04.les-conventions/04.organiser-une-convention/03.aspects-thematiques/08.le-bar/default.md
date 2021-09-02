@@ -101,8 +101,8 @@ préparation zones de stockage.
 - gestion de crises 
 - gestion générale du bar 
 	+ présence des responsables, roulement des responsables.  
-	+ gestion des horaires de service (si le bar ferme ; horaires de petit déj)
-	+ gestion petit déj, rotations…)
+	+ gestion des horaires de service (si le bar ferme ; horaires du petit déjeuné)
+	+ gestion du petit déjeuné, rotations…)
 	+ gestion des tireuses
 - vidage de caisse
 
