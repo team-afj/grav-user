@@ -22,7 +22,14 @@ content_manager:
     admin:
       login: true
       super: false
-      configuration: false
+      configuration:
+        system: false
+        site: false
+        media: false
+        security: false
+        info: false
+        pages: true
+        users: false
       pages: true
       statistics: true
       plugins: false
