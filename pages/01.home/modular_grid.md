@@ -4,5 +4,12 @@ body_classes: 'no-navbar-logo title-left title-h1h2 header-dark header-transpare
 onpage_menu: false
 content:
     items: '@self.modular'
+metadata:
+    jongle: ''
+    jonglage: ''
+    juggling: ''
+    'convention de jongle': ''
+    'juggling convention': ''
+    afj: 'Association Française de Jonglerie'
 ---
 
