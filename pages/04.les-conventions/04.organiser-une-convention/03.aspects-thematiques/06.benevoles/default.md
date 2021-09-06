@@ -1,5 +1,6 @@
 ---
 title: 'Les bénévoles'
+media_order: 'Formulaire benevole.docx'
 ---
 
 ## Bénévolat en convention
@@ -58,6 +59,8 @@ Si vous avez des doutes, surestimez… !
 - Souhaits particuliers (binôme, spectacle, etc)
 - Allergies / intolérances
 - Véhicule / permis
+
+Exemple de formulaire bénévole: [Formulaire benevole.docx](Formulaire%20benevole.docx)
 
 **Infos à donner :**
 - Fonctionnement global
