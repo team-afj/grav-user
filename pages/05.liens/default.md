@@ -58,6 +58,7 @@ l'adresse [afj.jonglerie@gmail.com](mailto:afj.jonglerie@gmail.com).
 - [Roulemaboule](https://roulemabouleasso.wordpress.com/2018/09/11/liens/?target=_blank)
 - [Siteswap.org](http://www.siteswap.org/?target=_blank)
 - [Spin More Poï](https://www.spinmorepoi.com/?target=_blank)
+- [The World Juggling Federation (WJF)](https://www.thewjf.com/?target=_blank)
 - [VisualSpinner3D](http://infiniteperplexity.github.io/visual-spinner-3d/?target=_blank)
 - [Yoyo.fr](https://www.yoyos.fr/?target=_blank)
 
