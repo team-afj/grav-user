@@ -140,7 +140,7 @@ Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir 
 - cuisine (récup en amont + menu + gestion en aval)
 - petit-déjeuner
 - [accueil](../../aspects-thematiques/accueil) des conventionnistes (préinscriptions, tarifs, badges, billetterie, goodies...)
-- buvette
+- bar / buvette
 - scène ouverte
 - renegade
 - espace feu 
