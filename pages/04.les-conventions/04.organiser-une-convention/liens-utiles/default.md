@@ -9,7 +9,7 @@ media_order: 'AFJ - Guide orga conv..pdf'
 
 #### Notre page Méta-convention
 
-Depuis 2020, l'AFJ organise une convention à destination des organisateurs de conventions de jonglerie, la [Méta-convention](/meta-convention). Nous vous invitons donc à consulter la page de notre site qui lui ai dédiée.
+Depuis 2020, l'AFJ organise une convention à destination des organisateurs de conventions de jonglerie, la [Méta-convention](/les-conventions/meta-convention). Nous vous invitons donc à consulter la page de notre site qui lui ai dédiée.
 
 #### Les guides pratiques d'Artcena
 
