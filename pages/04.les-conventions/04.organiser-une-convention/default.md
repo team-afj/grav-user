@@ -3,7 +3,7 @@ title: 'Organiser une convention'
 published: true
 book: true
 metadata:
-    description: 'Un guide complet, chronologique et thématique, addressé aux jongleurs souhaitant organiser une convention de jonglage.'
+    description: 'Un guide complet, chronologique et thématique, adressé aux jongleurs souhaitant organiser une convention de jonglage.'
 ---
 
 ## Guide de l'organisateur de convention de jonglerie
