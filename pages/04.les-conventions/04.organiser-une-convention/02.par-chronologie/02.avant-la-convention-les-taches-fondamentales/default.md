@@ -128,7 +128,7 @@ Exemple de listing pour la scène téléchargeable en format Word: [check_list s
 
 Combien de personnes organisent, combien sont bénévoles (en amont ?, en aval ?) ; qui fait quoi ?...  
 Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir de définir des référents par pôle :  
-- superviseur général (gestion du projet et de l’équipe, gestion des plannings organisateurs, bénévoles et volontaire, planning montage et démontage…)
+- superviseur général (gestion du projet et de l’équipe, gestion des plannings organisateurs, [bénévoles](../../aspects-thematiques/les-bénévoles) et volontaire, planning montage et démontage…)
 - réunions (communication de la date, ordre du jour, compte rendu…)  
 - administratif et financier (subventions, bilan, autorisations...)
 - communication (mairie, journaliste, conventionniste…)
