@@ -2,6 +2,8 @@
 title: 'Liens et contacts'
 published: true
 media_order: 'Reference litterature scientifique autour de la jonglerie.pdf'
+metadata:
+    description: 'Page dédiée à des liens vers des sites web de jonglage diversifés (vidéos de jongle, magazines, calendrier internationaux des conventions, sites spécialisés en balles, massues, diabolos, yoyo, hoop, siteswaps, spinning, flowarts... et encore bien d''autres choses). '
 ---
 
 ## Liens
