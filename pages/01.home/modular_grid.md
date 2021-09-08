@@ -5,6 +5,6 @@ onpage_menu: false
 content:
     items: '@self.modular'
 metadata:
-    description: 'L’AFJ est une association à but non lucratif créée au profit des jongleurs et jongleuses de toute la France. Son principal but est de promouvoir le jonglage en France, notamment en apportant son soutien à l’organisation annuelle de la Convention Française de Jonglerie. Ces conventions françaises ont lieu chaque année dans une ville de France différente.'
+    description: 'L’Association Française de Jonglerie (AFJ) est une association à but non-lucratif,  qui souhaite fédérer et soutenir les organisations de manifestations culturelles de jonglage (conventions de jongle, rencontres…). À ce titre, elle a vocation à profiter aux jongleurs et aux jongleuses en France (voir plus largement, à la communauté de jonglerie francophones, et à celles et ceux qui viennent se joindre à leur compagnie).'
 ---
 
