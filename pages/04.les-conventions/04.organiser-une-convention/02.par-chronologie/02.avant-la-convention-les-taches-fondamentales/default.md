@@ -68,7 +68,7 @@ Le petit conseil que l’on peut vous donner, c’est d’essayer d’avoir le s
 
 [Exemple de 1er mail de mise en contact.pdf](Exemple%20de%201er%20mail%20de%20mise%20en%20contact.pdf?target=_blank)
 
-Exemple de dossier de présentation : [CFJ2020 Dossier de présentation.pdf](CFJ2020%20Dossier%20de%20pr%C3%A9sentation.pdf?target=_blank)
+Exemple de dossier de présentation : [CFJ2020 Dossier de présentation.pdf](CFJ2020%20Dossier%20de%20presentation.pdf)
 
 **Remarque importante :** à cette étape du montage de l'événement, le dossier n'a pas besoin d'être aussi fourni que l'exemple ci-joint. Néanmoins, il permet de se faire une idée des questions à ce poser en réunions.
 
