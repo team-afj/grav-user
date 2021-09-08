@@ -80,9 +80,9 @@ organisée par l'association [Jongle & Rit](https://jongleetrit.wordpress.com/?t
 
 **12ème Convention Française** "[Glühwein-convention](https://assodesnazes.wixsite.com/cfj-gluhwein-2020?target=_blank)" / Habsheim (68)
 du 29.12.2019 au 03.01.2020
-organisée par l'association française de jonglerie, [l'association des nazes](https://www.les-nazes.com/), l'association [Pyrocircus](troupe-pyrocircus.fr?target=_blank), et l'association [Chill'Ubik](https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fchillubik%2F%3F__xts__%255B%25C2%25AB0%25C2%25BB%255D%3D68...?target=_blank) 
+organisée par l'association française de jonglerie, [l'association des nazes](https://www.les-nazes.com/), l'association [Pyrocircus](http://troupe-pyrocircus.fr?target=_blank), et l'association [Chill'Ubik](https://www.facebook.com/chillubik?target=_blank) 
 
-**13ème Convention Française** "[Jongl’ Ô Païs](https://fr-fr.facebook.com/login/?next=https%3A%2F%2Ffr-fr.facebook.com%2FJOP07690%2F?target=_blank)" / Vanosc (07)
+**13ème Convention Française** "[Jongl’ Ô Païs](https://www.facebook.com/JOP07690?target=_blank)" / Vanosc (07)
 du 22 juillet au 2 août 2020
 organisée par [La Ribouldingue](https://www.laribouldingue.com/?target=_blank)
 
