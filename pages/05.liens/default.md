@@ -28,6 +28,7 @@ l'adresse [afj.jonglerie@gmail.com](mailto:afj.jonglerie@gmail.com).
 ### Sites généralistes anglophones et autres langues
 
 - [Association Européenne de Jonglerie (EJA)](https://www.eja.net/?target=_blank)
+- [Circus Talk](https://circustalk.com/?target=_blank)
 - [Eyco - European Youth Cricus Organization](https://www.eyco.org/?target=_blank)
 - [Giocoleria.org](https://www.giocoleria.org/en/?target=_blank)
 - [International Jugglers’ Association (IJA)](https://www.juggle.org/?target=_blank)
