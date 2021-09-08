@@ -114,9 +114,9 @@ l'adresse [afj.jonglerie@gmail.com](mailto:afj.jonglerie@gmail.com).
 ### La jonglerie dans la recherche scientifique et en conférence
 
 - [Référence littérature scientifique autour de la jonglerie.pdf](Reference%20litterature%20scientifique%20autour%20de%20la%20jonglerie.pdf)
-- [Catching Inspiration: Juggling, Art, and Your Mind, Amit Khandhadia, TEDxVanderbiltUniversity](https://www.youtube.com/watch?v=3aVVq-a86dA?target=_blank)
-- [Juggling: The power of ups and downs, Paul Miller, TEDxCreativeCoast](https://www.youtube.com/watch?v=8Cs0dbJccIA/?target=_blank)
-- [Poi Research Documentary: A Spin on Ageing](https://www.youtube.com/watch?v=l7oM5raj-MI/?target=_blank)
-- [The neuroscience of juggling, Mickey Choma, TEDxWeizmannInstitute](https://www.youtube.com/watch?v=Sttw2PxncIE/?target=_blank)
-- [Tricks To Happiness, Frank Olivier, TEDxSonomaCounty](https://www.youtube.com/watch?v=bKuWy5QZtew/?target=_blank)
+- [Catching Inspiration: Juggling, Art, and Your Mind, Amit Khandhadia, TEDxVanderbiltUniversity](https://www.youtube.com/watch?v=3aVVq-a86dA&target=_blank)
+- [Juggling: The power of ups and downs, Paul Miller, TEDxCreativeCoast](https://www.youtube.com/watch?v=8Cs0dbJccIA&target=_blank)
+- [Poi Research Documentary: A Spin on Ageing](https://www.youtube.com/watch?v=l7oM5raj-MI&target=_blank)
+- [The neuroscience of juggling, Mickey Choma, TEDxWeizmannInstitute](https://www.youtube.com/watch?v=Sttw2PxncIE&target=_blank)
+- [Tricks To Happiness, Frank Olivier, TEDxSonomaCounty](https://www.youtube.com/watch?v=bKuWy5QZtew&target=_blank)
 - [World class juggling, The Raspyni Brothers TEDxMarin](https://www.youtube.com/watch?v=tKv3D3N7jnU&target=_blank)
