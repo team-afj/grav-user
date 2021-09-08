@@ -21,7 +21,7 @@ solliciter (j’ai essayé de les classer par thématiques) :
 - Culturelle : Direction Régionale des Affaire Culturelles
 - À chaque fois, prenez le temps de regarder les critères d’attribution. Par exemple, la mixité amateurs/professionnelle, l’accueil des personnes en situation de handicap…
 
-### Le bar et la bière
+### [Le bar et la bière](../../aspects-thematiques/le-bar)
 - Commander chez un ou plusieurs fournisseurs la boisson alcoolisée et non-alcoolisée, en fonction du nombre de participants. Souvent, les futs non ouverts sont repris, il est plus rare d’avoir ce genre d’accord pour les softs.
 - Définir les prix de vente en fonction des prix d'achat + faire des panneaux d'affichage avec les prix.
 - Monter une équipe de bénévoles pour servir au bar pendant la durée de la convention.
