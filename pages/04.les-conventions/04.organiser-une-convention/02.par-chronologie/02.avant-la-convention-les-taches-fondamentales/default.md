@@ -133,7 +133,7 @@ Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir 
 - administratif et financier (subventions, bilan, autorisations...)
 - communication (mairie, journaliste, conventionniste…)
 - logistique & développement durable (site, électricité, coin pour les organisateurs, artistes et bénévoles, chapiteaux, tentes, barrières, services municipaux, chill-out, toilettes sèches, poubelles de tri, déchet, recyclage...) 
-- [décoration et signalétique](/les-conventions/organiser-une-convention/aspects-thematiques/la-decoration)
+- [décoration et signalétique](../../aspects-thematiques/la-decoration)
 - sécurité
 - technique scénique
 - plateau artistique
@@ -145,7 +145,7 @@ Il s’agit de choisir la forme organisationnelle. Par exemple, on peut choisir 
 - renegade
 - espace feu 
 - workshop
-- [jeux de la jongle](/les-conventions/organiser-une-convention/aspects-thematiques/les-jeux-de-la-jongle) 
+- [jeux de la jongle](../../aspects-thematiques/les-jeux-de-la-jongle) 
 - musique et concerts
 - animation cirque des enfants
 - …
