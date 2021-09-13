@@ -5,6 +5,11 @@ process:
     twig: true
 twig_first: true
 ---
-{% set images = page.children|first.media.images %}
+{% set affiches = page.children|first.media.images %}
 
-{% include 'partials/gallery.html.twig' %}
+
+[gallery]
+{% for affiche in affiches %}
+  {{ affiche.html | raw }}
+{% endfor %}
+[/gallery]

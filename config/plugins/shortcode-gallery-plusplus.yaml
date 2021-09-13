@@ -5,6 +5,7 @@ gallery:
   lastRow: nojustify
   captions: 'true'
   border: 0
+  resizeFactor: '1'
 lightbox:
   openEffect: fade
   closeEffect: fade
