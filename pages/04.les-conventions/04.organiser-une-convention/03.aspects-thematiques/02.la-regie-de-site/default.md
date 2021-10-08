@@ -6,12 +6,12 @@ title: 'La régie de site'
 
 ### 1. Définir le terrain : 
 
-Il faudrait avoir à dispositions les informations sur les : dimensions, dénivelés, espaces d’occupation possible, entrées et sorties.  
-Pour trouver ces informations nous vous recommandons [Géoportail](https://www.geoportail.gouv.fr/?target=_blank) qui, dans ses outils, donne la possibilité de calculer des distances, des surfaces, et donne des comptes-rendus du relief du terrain.
+Il faut se procurer les informations sur les : dimensions, dénivelés, espaces d’occupation possible, entrées et sorties.  
+Pour trouver ces informations il est recommandé de les demander d'abord à la structure qui héberge l'événement (privé, municipalité, etc...), il est également possible d'utiliser [Géoportail](https://www.geoportail.gouv.fr/?target=_blank) qui, dans ses outils, donne la possibilité de calculer des distances, des surfaces, et donne des comptes-rendus du relief du terrain.
 
 ### 2. Choisir les structures : 
 
-Choix à faire avec le reste de l’équipe. En vrac, voici quelques éléments à définir :
+Le choix des structures est à faire en coopération avec le reste de l’équipe. En vrac, voici quelques éléments à définir :
 - La jauge (de là dépend la taille des structures)
 - Où se jouent les spectacles ? Chapiteau, scène extérieure, bâtiment
 - Un bar
@@ -28,8 +28,9 @@ Choix à faire avec le reste de l’équipe. En vrac, voici quelques éléments 
 
 ### 3. L’Implantation du site : 
 
-L'implantation du site se réfléchit en allant sur place et/ou en se servant de [Géoportail](https://www.geoportail.gouv.fr/?target=_blank). Pour ma part je créé des éléments à l’échelle sur Illustrator/Inkscape, que je déplace sur une capture d’écran du site. Des éléments de réflexion :
+L'implantation du site se réfléchit en allant sur place et/ou en se servant de [Géoportail](https://www.geoportail.gouv.fr/?target=_blank). Une technique consiste à créer des éléments à l’échelle sur Illustrator/Inkscape, et à les déplacer sur une carte du site (capture d’écran par exemple). Des éléments de réflexion :
 - Circulation du public
+- Accès PMR
 - Accès pompiers
 - Accès à l’eau et l’électricité
 - Éclairage du site la nuit
@@ -41,7 +42,7 @@ L’implantation peut être amenée à bouger jusqu’au jour J, mais il faut av
 ### 4. Liste de matériel : 
 
 A partir du choix d’implantation, on établit une liste de matériel et de structures. La liste doit chercher à être la plus exhaustive possible, pour ne pas se faire surprendre.  
-C’est le moment où **l'on doit calculer nos besoins en distribution électrique** (coffrets et rallonges triphasées), les grandes longueurs de rallonges nécessaires (notamment les 50m, 25m, 20m). Ne pas oublier qu’on va avoir besoin de beaucoup de rallonges courtes (des 1,5m, des 3m, des 5m). Il faut des multiprises en masse.  
+C’est le moment où **l'on doit calculer nos besoins en distribution électrique** (coffrets et rallonges triphasées), les grandes longueurs de rallonges nécessaires (notamment les 50m, 25m, 20m). Ne pas oublier qu’on va avoir besoin de beaucoup de rallonges courtes (des 1,5m, des 3m, des 5m). Il faut également des multiprises en grande quantité.  
 **Pour les lumières extérieures**, bien avoir en tête que tous les projecteurs ne peuvent pas être laissé dehors dans l’humidité nocturne ou sous la pluie.   
 Il s’agit ensuite de **trouver les structures et équipements** correspondantes en les louant, en se les faisant prêter, en les échangeant contre des places de spectacles ou un service futur.  
 Quand le matériel arrive, il faut **faire des listes exhaustives** de qui à prêter quoi, pour pouvoir tout rendre au démontage. Il faut absolument **marquer son matériel** (mettre son nom au marqueur, faire un code couleur avec du scotch d’électricien).
@@ -63,11 +64,11 @@ Il existe des câbles encore plus épais, mis en rallonge courantes ce sont cell
 
 - **Alerte multiprise :** les multiprises câblées sont souvent câblées sur du 1.5. Donc elles ne peuvent pas prendre, tous appareils confondus, plus de 2200W. Il existe des multiprises en 2.5 en magasin spécialisé, ou quand vous louez du matériel à des boites événementielles.
 
-- **Les normes d'indice de protection (normes IP) :** les câbles ont une norme de numérotation qui définit leur niveau de protection. Elles sont notées IP67 par exemple, ou IP54. Le premier chiffre correspond au niveau de protection contre les solides, et le deuxième au niveau de protection contre les solides. Wikipédia vous a fait un [tableau](https://fr.wikipedia.org/wiki/Indice_de_protection?target=_blank).
+- **Les normes d'indice de protection (normes IP) :** les câbles ont une norme de numérotation qui définit leur niveau de protection. Elles sont notées IP67 par exemple, ou IP54. Le premier chiffre correspond au niveau de protection contre les solides, et le deuxième au niveau de protection contre les solides. Wikipédia vous a fait un [tableau](https://fr.wikipedia.org/wiki/Indice_de_protection?target=_blank). 
 
 ### 6. Réfléchir sa répartition électrique : 
 
-- Se faire un tableau de calcul exhaustif de la consommation électrique (pour ma part je me fait un fichier Excel qui calcul la puissance total et la puissance par phase). Le tableau doit recenser le moindre appareil à sa puissance maximale.
+- Se faire un tableau de calcul exhaustif de la consommation électrique (par exemple un fichier Excel qui calcule la puissance totale et la puissance par phase). Le tableau doit recenser le moindre appareil à sa puissance maximale.
 - Ne pas dépasser la puissance maximale autorisée pour éviter les coupures.
 - Ne pas brancher la lumière sur la même phase que le son.
 - Identifier les grosses dépenses électriques : appareils à résistance (cafetière, bouilloire, four), lampe halogènes, frigos/congélateurs/tireuses.
@@ -80,8 +81,9 @@ Il existe des câbles encore plus épais, mis en rallonge courantes ce sont cell
 
 ### 7. Autres choses en vrac :
 
-- Les extincteurs : il y en a plusieurs types, répartis les biens en fonction des dangers. Mettre un plan des extincteurs à disposition des gens et briefez-les pour qu’ils puissent réagir vite.
-- Si le courant saute : il faut identifier la panne avant de remettre le courant. Si t’as de l’eau qui coule dans une multiprise, t’as besoin de savoir où elle est.
-- Les barrières : barrière les espaces ou le public ne doit pas mettre les pieds. Notamment les zones avec des coffrets à découvert.
-- Si t’as pas assez de puissance disponible envisage des relais : la cuisine n’utilise plus de bouilloire ou de four quand les lumières du site sont allumées, par exemple.
-- La LED pour l’éclairage, c’est super. Ça consomme rien. Par contre ça n’aime pas l’eau.
+- Les extincteurs : il y en a plusieurs types, il faut les répartir en fonction des dangers (cuisine, console, bar, etc.), mettre un plan des extincteurs à disposition des gens et les briefer pour qu’ils puissent réagir vite. En plus d'être une obligation, c'est une sécurité indispensable.
+- Si le courant saute : il faut identifier la panne avant de remettre le courant. Par exemple si de l’eau coule dans une multiprise, il est indispensable de savor où elle se trouve.
+- Les barrières : il est plus prudent de barriérer les espaces où le public ne doit pas mettre les pieds. Notamment les zones avec des coffrets à découvert, qui ne sont sensés être approchés par des personnes formées..
+- Si il n'y a pas assez de puissance disponible, on peut envisager des relais : la cuisine n’utilise plus de bouilloire ou de four quand les lumières du site sont allumées, par exemple.
+- La LED pour l’éclairage, c’est super. Ça consomme rien. 
+- Pour le matériel électrique laissé en extérieur : pour s'éviter des pannes il est futé de regarder l'indice de protection (voir plus haut). Le matériel étanche est noté IP67. Le matériel qui dispose d'un indice inférieur doit pouvoir être mis à l'abri en cas d'intempéries.
