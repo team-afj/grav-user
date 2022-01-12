@@ -4,10 +4,8 @@ image_align: left
 column: left
 ---
 
-En 2021, **du 25 au 29 août**, c’est l’association Mamagabe qui organise la
-Convention Française de Jonglerie à **Poitiers** (86).
+La Convention Française de Jonglerie 2021 a été organisée à Poitiers par l’association Mamagabe et a eut lieu du 25 au 29 août. 
 
-*Un appel massif à bénévoles sera bientôt passé afin de garantir à l’équipe organisatrice de pouvoir assurer l’évènement.*
+Merci aux organisateurs pour cette magnifique convention qui a rassemblée environ 500 personnes dans la joie, la bonne humeur et le beau temps.
 
-Retrouvez les informations sur cette rencontre à [cette adresse](https://www.facebook.com/groups/132641280106271/) ainsi que sur les
-autres conventions régionales de France.
+Retrouvez des photos et autres archives à [cette adresse](https://www.facebook.com/groups/132641280106271/media).
