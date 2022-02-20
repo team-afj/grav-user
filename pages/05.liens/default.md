@@ -56,6 +56,7 @@ l'adresse [afj.jonglerie@gmail.com](mailto:afj.jonglerie@gmail.com).
 - [Juggloid](http://www.juggloid.com/?target=_blank)
 - [Kendama France](https://www.kendama-france.com/?target=_blank)
 - [Le Jonglage avec balles](http://didier.arlabosse.free.fr/balles/index.html?target=_blank)
+- [Library of Juggling](https://www.libraryofjuggling.com/?target=_blank)
 - [Monocycle.info](https://monocycle.info/tag/convention/?target=_blank)
 - [Roulemaboule](https://roulemabouleasso.wordpress.com/2018/09/11/liens/?target=_blank)
 - [Siteswap.org](http://www.siteswap.org/?target=_blank)
