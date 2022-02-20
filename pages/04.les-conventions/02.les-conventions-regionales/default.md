@@ -32,7 +32,7 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [Jongle & Rit / Bigoud’N’Jongle / Vezin le coquet](https://jongleetrit.wordpress.com/?target=_blank)
 
-[Jongl’ ô Païs / Vanosc](https://fr-fr.facebook.com/JOP07690/?target=_blank)
+[Jongl’ ô Païs (JOP) / Vanosc](https://fr-fr.facebook.com/JOP07690/?target=_blank)
 
 [Juggling Virtual Convention (JVC) / Discord](https://www.facebook.com/jugglingvirtualconvention/?target=_blank)
 
@@ -45,8 +45,6 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 [Mamagabe / Poitiers](http://assomamagabe.blogspot.com/?target=_blank)
 
 [MJC 3 Maisons / Bibasse / Nancy](https://www.mjc3maisons.fr/?target=_blank)
-
-[NLC / La guinguette du jongleur / Nonville](http://assonlc.free.fr/?target=_blank)
 
 [Par Haz’art / Boudu la jongle / Toulouse](https://www.parhazart.org/?target=_blank)
 
@@ -98,6 +96,8 @@ Les Jongleurs d'Oriant / Oriant’à Jongle / Larmor-Plage
 Les Tapirroulants / Hopla / Strasbourg
 
 [Maraboule / En Maine Ta Jongle / Angers](http://maraboule.blogspot.com/?target=_blank)
+
+[NLC / La guinguette du jongleur / Nonville](http://assonlc.free.fr/?target=_blank)
 
 [Pyrocircus / Glühwein / Strasbourg](http://troupe-pyrocircus.fr/?target=_blank)
 
