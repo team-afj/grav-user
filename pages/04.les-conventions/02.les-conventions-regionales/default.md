@@ -36,6 +36,8 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [Juggling Virtual Convention (JVC) / Discord](https://www.facebook.com/jugglingvirtualconvention/?target=_blank)
 
+[La Jon'Guill'Rit / Guillestre](https://www.facebook.com/events/3035143140134553/?target=_blank)
+
 [Lez Hérault de la jongle / Balles à Lez / Montpellier](https://organise.bim.land/events/ba71e547-3a9c-4b5d-96eb-157e98675463/?target=_blank)
 
 [Limouzirk / Limoges](http://www.limouzirk.fr/?target=_blank)
@@ -52,7 +54,7 @@ Voici la liste des liens vers les associations organisatrices de conventions de 
 
 [Zik en Piste / Jongle en Zik / Carpentras](https://www.zikenpiste.com/?target=_blank)
 
-Zmam / Roca Balles / Vabre
+Zmam / RocaBalle / Vabre et Mazamet
 
 
 ### Les associations des conventions régionales en sommeil ou disparues
