@@ -37,6 +37,7 @@ l'adresse [afj.jonglerie@gmail.com](mailto:afj.jonglerie@gmail.com).
 - [Juggling Magazine (Italien)](https://www.jugglingmagazine.it/home/?target=_blank)
 - [Kaskade - The European Juggling Magazine](https://www.facebook.com/Kaskade.mag?target=_blank)
 - [The Catch - The UK's Juggling Magazine](http://www.jugglingmagazines.com/?target=_blank)
+- [The Museum of Juggling History](https://historicaljugglingprops.com/?target=_blank)
 - [Zirkolika - Revista de las Artes Circenses (Espagnol)](https://zirkolika.com/?target=_blank)
 
 ### Sites spécifiques
