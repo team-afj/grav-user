@@ -8,8 +8,8 @@ metadata:
 
 ## Liens
 
-Suivez l'AFJ sur le [facebook de
-l'AFJ](https://www.facebook.com/asso.afj?target=_blank) et contactez-nous à
+Vous pouvez nous suivre sur le [facebook de
+l'AFJ](https://www.facebook.com/asso.afj?target=_blank) et nous contacter à
 l'adresse [afj.jonglerie@gmail.com](mailto:afj.jonglerie@gmail.com).
 
 ### Sites généralistes francophones
