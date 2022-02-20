@@ -54,7 +54,7 @@ Des talkie-walkies peuvent être mis à disposition à titre gratuit. À l’heu
 
 Un système de contrat de prêt à taux zéro peut être proposer aux organisateurs qui ne disposent pas d’une trésorerie suffisante au montage de leur convention. Ce prêt est soumis à l’évaluation préalable par une commission interne de l’AFJ et les montants pouvant être prêtés sont soumis à notre propre trésorerie et à notre budget prévisionnel.
 
-**Appel à projet 2021-2022 :**
+**Appel à projet 2022 :**
 
-Suite aux bénéfices engendrés par la Convention Française de Jonglerie 2019-2020 “Glühwein”, les associations organisatrices ont décidé de financer un appel à projet via l’AFJ. L’enveloppe globale de cet appel à projet est de 2 000 € et a pour but de soutenir des conventions de jonglerie émergentes. Les conventions seront soutenues pour un montant maximum de 1 000 €.
+Suite aux bénéfices engendrés par la Convention Française de Jonglerie 2019-2020 “Glühwein”, les associations organisatrices ont décidé de financer un appel à projet via l’AFJ. L’enveloppe globale de cet appel à projet est de 2 000 € et a pour but de soutenir des conventions de jonglerie émergentes. Les conventions seront soutenues pour un montant maximum de 1 000 €. En 2021, deux conventions ont bénéficié de cette aide financière (Balle à Lez de Montpellier et Rocà2balles de Mazamet).
 [Lien vers le pdf de l'appel à projet.](AAP_AFJ_2021_2022.pdf)
