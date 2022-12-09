@@ -22,6 +22,7 @@ l'adresse [afj.jonglerie@gmail.com](mailto:afj.jonglerie@gmail.com).
 - [Jongle.net](http://www.jongle.net/?target=_blank)
 - [Jonglerie et Jonglages](https://www.gentlemanjongleur.com/jonglerieetjonglages/objets.html?target=_blank)
 - [Juggle Master](https://www.jugglemaster.fr/?target=_blank)
+- [Jugglers Mastodon instance](https://jugglers.network/?target=_blank)
 - [Le carnet du CCCirque](https://cccirque.hypotheses.org/?target=_blank)
 - [Maison des Jonglages](http://maisondesjonglages.fr/fr?target=_blank)
 
