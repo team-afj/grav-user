@@ -7,7 +7,7 @@ media_order: affiche_bnj_2024-small.jpg
 
 <span style="text-align: start;">La Convention Française de Jonglerie 2024 revient à la Bigoud du 16 au 21 juillet !
 
-Pour le 30e anniversaire de l'association Jongle&Rit, organisatrice de l'événement, à Vezin-le-Coquet (35). 
+Pour le 30e anniversaire de l'association Jongle&amp;Rit, organisatrice de l'événement, à Vezin-le-Coquet (35). 
 
 Vous trouverez toutes les informations sur [le site de l'association](https://bigoudnjongle.wordpress.com/).
 
