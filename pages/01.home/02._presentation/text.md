@@ -15,7 +15,7 @@ Vous pouvez nous contacter par mail à l’adresse
 [afj.jonglerie@gmail.com](mailto:afj.jonglerie@gmail.com).
 
 [button
-    link="https://www.helloasso.com/associations/association-francaise-de-jonglerie"
+    link="https://www.helloasso.com/associations/association-francaise-de-jonglerie/adhesions/adhesion-afj-2025"
     color="success"]
 J'adhère à l'AFJ !
 [/button]
