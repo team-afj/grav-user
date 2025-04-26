@@ -1,5 +1,5 @@
 ---
-title: 'La convention française 2024'
+title: 'La convention française'
 image_align: left
 column: left
 media_order: affiche_bnj_2024-small.jpg
