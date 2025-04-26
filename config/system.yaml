@@ -26,11 +26,14 @@ languages:
   http_accept_language: false
   override_locale: true
   pages_fallback_only: false
+  debug: false
 home:
   alias: /home
   hide_in_urls: false
 pages:
   type: regular
+  dirs:
+    - 'page://'
   theme: afj
   order:
     by: default
@@ -96,10 +99,10 @@ pages:
       - form
       - forms
 cache:
-  enabled: false
+  enabled: true
   check:
     method: hash
-  driver: file
+  driver: auto
   prefix: g
   purge_at: '0 4 * * *'
   clear_at: '0 3 * * *'
@@ -141,6 +144,9 @@ assets:
   js_pipeline: false
   js_pipeline_include_externals: true
   js_pipeline_before_excludes: true
+  js_module_pipeline: false
+  js_module_pipeline_include_externals: true
+  js_module_pipeline_before_excludes: true
   js_minify: true
   enable_asset_timestamp: false
   enable_asset_sri: false
@@ -153,6 +159,7 @@ log:
   handler: file
   syslog:
     facility: local6
+    tag: grav
 debugger:
   enabled: false
   provider: debugbar
@@ -173,12 +180,20 @@ images:
     retina_scale: '1'
   defaults:
     loading: auto
+    decoding: auto
+    fetchpriority: auto
+  watermark:
+    image: 'system://images/watermark.png'
+    position_y: center
+    position_x: center
+    scale: 33
+    watermark_all: false
 media:
   enable_media_timestamp: false
   unsupported_inline_types: null
   allowed_fallback_types: null
   auto_metadata_exif: false
-  upload_limit: 104857600
+  upload_limit: 134217728
 session:
   enabled: true
   initialize: false
@@ -186,6 +201,7 @@ session:
   name: grav-site
   uniqueness: path
   secure: false
+  secure_https: true
   httponly: true
   samesite: Lax
   split: true
@@ -193,13 +209,21 @@ session:
   path: null
 gpm:
   releases: stable
-  proxy_url: null
+  official_gpm_only: true
   method: auto
   verify_peer: true
-  official_gpm_only: true
+http:
+  method: auto
+  enable_proxy: true
+  proxy_url: null
+  proxy_cert_path: null
+  concurrent_connections: 5
+  verify_peer: true
+  verify_host: true
 accounts:
   type: regular
   storage: file
+  avatar: gravatar
 flex:
   cache:
     index:
